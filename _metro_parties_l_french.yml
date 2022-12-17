@@ -1,0 +1,78 @@
+﻿l_french:
+ community:0 "Communauté"
+ community_noun:0 "Communauté"
+ community_desc:0 "Communauté"
+ #community_desc:0 "Une communauté de personnes, se gouvernant elles-mêmes et alignées sur un objectif commun, mutuel et partagé qui bénéficie à chacun."
+
+ council:0 "Conseil"
+ council_noun:0 "Conseil"
+ council_desc:0 "Conseil"
+ #council_desc:0 "Un collectif d'esprits formé pour administrer, conseiller ou superviser le gouvernement. Ils sont soit élus, soit habilités à consulter et à gérer les affaires de la station."
+
+ oligarch:0 "Oligarch"
+ oligarch_noun:0 "Oligarchie"
+ oligarch_desc:0 "Oligarchie"
+ #oligarch_desc:0 "Un petit comité domine la sphère politique. Les oligarchies sont caractérisées par un petit nombre de personnes qui exercent un grand pouvoir politique, que ce soit par la richesse, la puissance militaire ou le statut social."
+
+ dictatorial:0 "Dictateur"
+ dictatorial_noun:0 "Dictature"
+ dictatorial_desc:0 "Dictature"
+ #dictatorial_desc:0 "Un individu singulier exerçant un pouvoir absolu dans la nation. Généralement aux dépens de ses sujets par des campagnes de crainte et d'intimidation."
+
+ ### community ####
+ 
+ peoples_council:0 "Conseil populaire"
+ peoples_council_desc:0 "Fidèles aux anciens idéaux soviétiques, ces personnes élisent directement un conseil égalitaire qui ratifie sa politique par référendum populaire et renoncent à la propriété privée."
+
+ militia_council:0 "Conseil Militaire"
+ militia_council_desc:0 "Une organisation militariste d'individus partageant les mêmes idées, cette faction s'organise autour d'une société militante mais libre."
+
+ democratic_republic:0 "République démocratique"
+ democratic_republic_desc:0 "Ayant une forte croyance dans les valeurs démocratiques, cette tendance élit ses dirigeants ou son assemblée lors d'élections ouvertes à bulletins secrets, une rareté dans le métro."
+
+ communal_party:0 "Commune"
+ communal_party_desc:0 "Vivant sans propriété privée ni dirigeants, cette tendance peut être une commune de fermiers vivant comme une grande famille, mais peut aussi être anarchiste."
+
+ ### council ###
+
+ technocracy:0 "Technocratie"
+ technocracy_desc:0 "Abandonnant à la fois la démocratie et le despotisme, une technocratie croit en une société dirigée par des experts et par le mérite, plutôt que par des élections, des politiques ou des croyances."
+
+ labour_council:0 "Conseil du travail"
+ labour_council_desc:0 "S'inspirant des Soviets d'avant-guerre, ces conseils du travail organisent la société sur la base de conseils de travailleurs élus ou choisis dans la population générale."
+
+ confederation:0 "Confédération"
+ confederation_desc:0 "Une organisation flexible composée de nombreux groupes, cette tendance élit ou choisit des membres de chaque groupe membre pour être représenté dans un Conseil confédéré."
+
+ ### oligarch ###
+
+ trade_alliance:0 "Alliance commerciale"
+ trade_alliance_desc:0 "Une organisation composée de nombreuses entreprises et classe sociale différents qui se sont alliés pour se défendre et faire du profit, les inégalités et les richesses étant également abondantes."
+
+ military_junta:0 "Junte militaire"
+ military_junta_desc:0 "Une organisation dans laquelle tout le pouvoir politique provient d'une oligarchie militaire, cette faction est aussi souvent de nature autoritaire."
+
+ plutocracy:0 "Ploutocratie"
+ plutocracy_desc:0 "Une organisation entièrement gérée par les riches, il y a un sens de la démocratie parmi la couche supérieure, mais pour le reste, ils ne peuvent rien faire d'autre qu'espérer un traitement convenable."
+
+ ### dictatorial ###
+
+ despot:0 "Despotisme"
+ despot_desc:0 "Un système où tout le pouvoir politique provient d'un seul homme, il est souvent très autoritaire et brutal dans son exécution."
+
+
+
+ king:0 "Monarchie"
+ king_desc:0 "Fait inhabituel, cette faction s'est organisée en une monarchie absolue avec un roi, mais dans la pratique, celui-ci est identique à n'importe quel autre dictateur."
+
+ bandit:0 "Banditisme"
+ bandit_desc:0 "Une bande criminelle organisée uniquement sur la base du profit et du pillage, le peu d'organisation que l'on peut trouver ici se trouve dans la peur et l'intimidation."
+
+ totalitarianism:0 "Totalitarisme"
+ totalitarianism_desc:0 "Une société dans laquelle l'État est absolu, et où il n'y a rien d'autre que l'État dans chaque aspect de la société."
+
+ ### Faction Party Names ###
+
+ EUR_community_party:0 "Communisme"
+
+
