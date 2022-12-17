@@ -1,0 +1,14 @@
+﻿l_french:
+ flooded_tunnel_modifier: "Tunnel inondé"
+ flooded_tunnel_modifier_desc: "Ce tunnel semble être inondé d'eau, rendant les déplacements et les combats difficiles."
+
+ anomaly_tunnel_modifier: "Anomalies dans le tunnel"
+ anomaly_tunnel_modifier_desc: "Présence de phénomènes bizarres qui dépassent notre compréhension scientifique. Le combat est difficile ici, car même les rats n'osent pas s'y aventurer."
+
+ infested_tunnel_modifier: "Tunnel infesté"
+ infested_tunnel_modifier_desc: "Ces tunnels sont infestés d'immondes mutants. Nous devons envoyer une expédition pour les purger de ces créatures avant de pouvoir en faire notre propriété."
+
+ radiation_tunnel_modifier: "Tunnel infesté de radiations"
+ radiation_tunnel_modifier_desc: "Les radiations s'infiltrent depuis la surface. Des boues toxiques et des déchets jonchent le sol. Combattre dans cette zone abandonnée pendant des périodes prolongées est suicidaire."
+
+ paradox_bad_tt: "\n§gNe rapportez pas ce modificateur n'ayant pas d'icône comme un bug. Malheureusement, il s'agit d'un correctif bon marché pour faire apparaître l'infobulle des modificateurs d'état. C'est la faute de Paradox, pas la nôtre.§!"

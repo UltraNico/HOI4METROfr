@@ -1,0 +1,49 @@
+﻿l_french:
+  formable_nations_category:0 "Nations formables"
+
+  domain_of_hell:0 "§REnfer sur Terre§!"
+
+  domain_of_hell_formable_tooltip:0 "\n§gLes portes de l'enfer vont se déchaîner ! Nous revendiquerons chaque station et tunnel de la§! §YLigne Serpukhovsko-Timiryazevskaya§!"
+
+  SAT_domain_of_hell:0 "Le Royaume de l'enfer"
+  SAT_domain_of_hell_DEF:0 "Le Royaume de Satan"
+  SAT_domain_of_hell_ADJ:0 "Satanistes"
+
+  northern_emirate:0 "§RCalifat du Nord§!"
+
+  northern_emirate_formable_tooltip:0 "\n§gNous revendiquerons chaque station et tunnel de la§! §Y Ligne Serpukhovsko-Timiryazevskaya§!"
+
+  ISL_northern_emirate:0 "Émirat du Nord"
+  ISL_northern_emirate_DEF:0 "L'émirat du Nord"
+  ISL_northern_emirate_ADJ:0 "Islamique"
+
+  vdnkh_commonwealth:0 "Communauté VDNKh"
+
+  VDN_commonwealth:0 "Communauté VDNKh"
+  VDN_commonwealth_DEF:0 "La Communauté VDNKh"
+  VDN_commonwealth_ADJ:0 "VDNKh"
+
+  hyperborea:0 "§RHyperborea§!"
+
+  PAG_hyperborea:0 "Hyperborea"
+  PAG_hyperborea_DEF:0 "Hyperborea"
+  PAG_hyperborea_ADJ:0 "Païen"
+
+  pagan_hyperborea_tooltip:0 "\n§gNous revendiquerons chaque station et tunnel de la§! §YLigne Tagansko-Krasnopresnenskaya§!"
+
+
+  skavendom:0 "§RRépublique Scaven§!"
+
+  SCA_scavendom:0 "République Scaven"
+  SCA_scavendom_DEF:0 "République Scaven"
+  SCA_scavendom_ADJ:0 "Scaven"
+
+  scavendom_formable_tooltip:0 "\n§gNous revendiquerons chaque station et tunnel de la§! §YLigne Serpukhovsko-Timiryazevskaya§!"
+
+
+  venice_china_town:0 "Alliance Venise-Chinatown"
+
+
+
+
+

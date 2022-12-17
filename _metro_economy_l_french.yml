@@ -1,0 +1,10 @@
+﻿l_french:
+ BULLETS_TOOLTIP_BASE:0 "[?balle]"
+ BULLETS_MAIN:0 "[?balle]"
+ BULLETS_TOOLTIP:0 "Revenu hebdomadaire §G[?net_income]§! Boîtes de munitions.\n\nRevenu brut §G[?gross_income]§!\nGain hebdomadaire des taxes sur les stations §G[?num_controlled_stations]§!\nGain hebdomadaire de la taxe sur les ateliers §G[?num_of_available_civilian_factories]§!\n\nDépenses hebdomadaires des salaires de l'armée  §R[?num_controlled_battalion]§! \n\n Les balles forment la monnaie du métro. Les balles sont gagnées grâce aux §Taxes d'État§! et §Complexe Industriel§!. Ils peuvent également être utilisés dans le cadre d'événements et de décisions."
+ ##[Root.GetBulletsTooltip]## for future ref
+
+
+ FOOD_PRODUCE_TEXT:0 "0"
+
+ BULLET_PRODUCE_TEXT:0 "0"

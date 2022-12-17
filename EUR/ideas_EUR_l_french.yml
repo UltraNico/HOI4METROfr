@@ -1,0 +1,164 @@
+﻿l_french:
+ europa:0 "Communauté Europe"
+ europa_desc:0 "Composé d'immigrants, d'ambassadeurs et d'autres Européens bloqués à Moscou lorsque les bombes sont tombées. Au fil du temps, ils ont développé une communauté. Une Europe loin de l'Europe. Ils restent entre eux, loin du reste des habitants du métro."
+ _unorganised_collective:0 "Collectivité non organisée"
+ _elected_decisions:0 "Décision de l'élu"
+ _elected_representatives:0 "Représentants élus"
+
+ shrewd_diplomats:0 "Diplomates avisés"
+ shrewd_diplomats_desc:0 "Considérant les circonstances de leur existence. La Communauté possède des ambassadeurs intelligents qui sont capables de tisser et de tirer le paysage du métro à leur avantage. Souvent, ils résolvent des conflits inter-nationaux ou négocient en secret avec des stations extérieures. Qui oublient souvent la participation de l'Europe à la troisième guerre mondiale."
+ 
+ immigranst_military:0 "Déclarations militaires"
+ immigranst_military_desc:0 "Le Collectif s'est réuni sur la décision que les peuples de l'Europe devraient être poussés vers le militarisme."
+ EUR_military_flag:0 "Europe est militarisée"
+ 
+ immigranst_industrial:0 "Déclarations industrielles"
+ immigranst_industrial_desc:0 "Le Collectif s'est réuni sur la décision que les peuples d'Europe devraient être amenés à faire un effort industriel."
+ EUR_industrial_flag:0 "Europe est industrialisée"
+ 
+ EUR_military_drive_1:0 "Propagande diffusée"
+ EUR_military_drive_2:0 "Travailleurs des forces armées"
+ EUR_military_drive_3:0 "Chacun fait son devoir"
+ 
+ EUR_economy_1:0 "Économie en plein essor"
+ EUR_economy_2:0 "Économie stable"
+ EUR_economy_3:0 "Économie endommagée"
+ EUR_economy_4:0 "Économie fragmentée"
+ EUR_has_economy:0 "L'économie de Europe a été établie"
+ EUR_activate_2nd_focus_tree:0 "Notre Faction a été entièrement établie"
+ 
+ EUR_italian_power_1:0 "Très faible notoriété italienne"
+ EUR_italian_power_2:0 "Faible notoriété italienne"
+ EUR_italian_power_3:0 "Notoriété italienne modéré"
+ EUR_italian_power_4:0 "Haute notoriété italienne"
+ EUR_italian_power_5:0 "Notoriété italienne écrasante"
+ 
+ eur_council_gui_name:0 "Conseil de la Communuté Européen"
+ 
+ british_majority_1:0 "Majorité britannique"
+ british_majority:0 "Majorité britannique"
+ italian_majority:0 "Majorité italienne"
+ italian_majority_1:0 "Majorité italienne"
+ italian_majority_2:0 "Majorité italienne"
+ british_majority_2:0 "Majorité britannique"
+ 
+ remove_majorities_tt:0 "Supprime à la fois les majorités §YItalienne§! et §Ybritannique§!"
+ 
+ _military_realist:0 "Militaire réaliste"
+ 
+ EUR_mil_power_5:0 "Inefficacité militaire"
+ EUR_mil_power_4:0 "Inefficacité militaire"
+ EUR_mil_power_3:0 "Inefficacité militaire"
+ EUR_mil_power_2:0 "Inefficacité militaire"
+ EUR_mil_power_1:0 "Inefficacité militaire"
+ 
+ EUR_interventionism_idea:0 "Interventionnisme"
+ EUR_neutrality_idea:0 "Neutralité"
+ 
+ westernisation_1:0 "Occidentalisation"
+ westernisation_2:0 "Occidentalisation"
+ 
+ militia_formalisation_eu:0 "Formalisation de la Milice"
+ EUR_worm_cult_hold_line:0 "Tenez la ligne"
+ EUR_worm_cult_hold_line2:0 "Tenez la ligne"
+ EUR_worm_cult_offensive:0 "Une nouvelle offensive"
+ EUR_worm_cult_offensive2:0 "Une nouvelle offensive"
+ 
+ europe_pro_immigration:0 "Pro Immigration"
+ worm_rehabilitation:0 "Réintégrer les Cultistes du Grand Ver"
+ industrial_reform_europe:0 "Réforme industrielle"
+ schulz_project:0 "Le projet Schulz"
+ lessons_from_reds:0 "Leçons tirées de l'expérience des Rouges"
+ 
+ european_unity:0 "L'unité européenne"
+ blood_and_bullets:0 "Le sang et les balles"
+ blood_and_bullets1:0 "Le sang et les balles"
+ words_and_wisdom:0 "Mots et sagesse"
+ 
+ europe_industrial_powerhouse_more_output:0 "Augmentation de la production"
+ europe_industrial_powerhouse_more_build_speed:0 "Augmentation de la vitesse de construction"
+ 
+ schulz_speech:0 "Discours de Schulz"
+ 
+ europe_hanza_payment:0 "Paiement à Hansa"
+ 
+ commonwealth_army:0 "Armée de la Communauté"
+ 
+ hub_of_trade:0 Centre de commerce"
+ hub_of_trade2:0 "Centre de commercee"
+ hub_of_trade3:0 "Centre de commerce"
+ hub_of_trade4:0 "Centre de commerce"
+ 
+ hub_of_science:0 "Centre des sciences"
+ hub_of_science2:0 "Centre des sciences"
+ hub_of_science3:0 "Centre des sciences"
+ hub_of_science4:0 "Centre des sciences"
+
+ EUR_kill_GWC:0 "J'ai conquis..."
+
+ europe_rising_rome_sentiment:0 "Montée des opinions anti-conseils"
+
+ sabotaged_industry_despot:0 "Sabotage de l'industrie"
+ sabotaged_industry_despot2:0 "Sabotage de l'industrie"
+
+ italian_majority_3:0 "Majorité italienne"
+
+ nova_roma:0 "Nova Roma"
+
+ ad_glorium_idea:0 "Glorium"
+ for_europa_idea:0 "Pour Europa"
+
+ united_army_europe:0 "Armée unie"
+ united_army_europe_fascist:0 "Armée unie" 
+ united_army_europe_democrat:0 "Armée unie"
+
+ pax_romana_1:0 "Pax Romana"
+ pax_romana_2:0 "Pax Romana"
+ pax_romana_3:0 "Pax Romana"
+
+ buff_against_hanza:0 "Armée anti-Hansa"
+
+ rome_slavery_1:0 "Esclavage"
+ rome_slavery_2:0 "Esclavage"
+
+ europe_red_army:0 "Armée Populaire de Libération"
+
+ europe_red_army_2:0 "Armée Populaire de Libération"
+
+ remain_centralised:0 "Demeurer décentralisé"
+
+ brit_economy_1:0 "L'économie européenne par balles"
+ brit_economy_2:0 "L'économie européenne par balles"
+ brit_economy_3:0 "L'économie européenne par balles"
+ brit_economy_4:0 "L'économie européenne par balles"
+ brit_economy_5:0 "L'économie européenne par balles"
+
+ commie_mutiny:0 "Mutineries"
+ sabotaged_industry_community:0 "Sabotage de l'industrie"
+
+ EUR_mikhail:0 "Mikhail Ivanov"
+ _red_europe_mil_advisor:0 "Conseiller militaire de la Ligne Rouge"
+
+ EUR_french_crow:0 "Corbeau français"
+
+ eur_com_equality:0 "Véritable égalité"
+
+ 
+
+
+
+
+
+
+
+ ### RANDOM SHIT THAT HAS NO LOC ###
+
+ community_drift:0 "Communtiy Drift"
+ dictatorial_drift:0 "Despotism Drift"
+ council_drift:0 "Council Drift"
+ oligarch_drift:0 "Oligarchial Drift"
+
+ modifier_repair_speed_bunker_factor:0 "§YBarbed Wire§! repair speed"
+ modifier_production_speed_bunker_factor:0 "§YBarbed Wire§! construction speed"
+ modifier_production_speed_bunker2_factor:0 "§YLand Fort§! construction speed"
+ modifier_repair_speed_bunker2_factor:0 "§YLand Fort§! repair speed"

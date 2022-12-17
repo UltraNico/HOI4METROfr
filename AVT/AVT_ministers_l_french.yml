@@ -1,0 +1,50 @@
+﻿l_french:
+  AVT_rusakov:0 "Commissaire Rusakov"
+  AVT_commissar_rusakov:0 "Commissaire Rusakov"
+  AVT_RUSAKOV_DESC:0 "Rusakov est né avant que l'enfer nucléaire ne règne sur le globe. Jeune et plein de vigueur, il a rassemblé une foule de membres fanatiques idéologiquement et a pris le pouvoir à la station Avtozavodskaya ; un bouleversement qui a vu la bannière de la révolution flotter brillamment. Il s'est autoproclamé "commissaire" et a créé la Première Brigade Internationale de combat, au nom d'Ernesto Che Guevara."
+  _commissar_rusakov:0 "Commandant de la Première Brigade Internationale"
+
+  AVT_tomsky:0 "Anatoly Tomsky"
+  AVT_anatoly_tomsky:0 "Anatoly Tomsky"
+  AVT_TOMSKY_DESC:0 ""
+  _anatoly_tomsky:0 "Anarchiste"
+
+  AVT_lumumba:0 "Maxime Lumumba"
+  _AVT_lumumba:0 "Technicien ferroviaire"
+  AVT_lumumba_desc:0 "Avec ses connaissances des draisines ferroviaires, Lumumba s'est retrouvé au poste de technicien en chef. Il supervise personnellement la réparation et le rééquipement des Draisines pour leur utilisation par la Brigade."
+
+ AVT_karatsyupa:0 "Karatsyupa"
+ _AVT_karatsyupa:0 "Mascotte de la brigade"
+ AVT_karatsyupa_desc:0 "Bonjour, voici un chien"
+
+ AVT_fyodor:0 "Fedor"
+ _AVT_fyodor:0 "Saboteur"
+ AVT_fyodor_desc:0 "Le plus ancien membre de la Brigade. Alors que Fedor ressemble à l'image stéréotypée du loubard le plus souvent associé aux Russes, un alcoolique indiscipliné, il est tout le contraire. Il a assisté à de nombreux conflits et est devenu un guerrier expérimenté grâce à cela."
+
+ AVT_banzai:0 "Banzai"
+ _AVT_banzai:0 "Combattant de la brigade"
+ AVT_banzai_desc:0 "Né comme beaucoup dans un monde de merde. Banzai est devenu un combattant révolutionnaire au début de sa vingtaine et a rejoint la brigade de Rusakov. Surnommé par ses camarades ''Banzai'' en raison de sa nature sanguinaire de kamikaze."
+
+ AVT_vladimir_koltsov:0 "Vladimir Koltsov"
+ AVT_koltsov:0 "Père Vladar"
+ _AVT_koltsov:0 "Chercheur de pénitence"
+ AVT_koltsov_desc:0 "Un vieil homme grisonnant qui a autrefois développé des armes biologiques pour l'URSS. Après avoir vu les conséquences de ses actes, il a quitté le projet et est devenu prêtre. Jurant de ne jamais faire de mal et de chercher le pardon pour ses actions. Sauvé de Lubyanka, et offrant ses services à la Brigade. Vladar cherche maintenant à créer un antidote à ce même virus dans une tentative futile de se racheter."
+
+ AVT_nikolai_nosov:0 "Nikolai Nosov"
+ AVT_nosov:0 "Nosov"
+ _AVT_nosov:0 "Véhicule tout-terrain"
+ AVT_nosov_desc:0 "Né à Polezhaevskaya avec son frère jumeau Grisha. Leur mère souffrait de la maladie des radiations et tous deux souffraient de nanisme dû à une maladie de croissance congénitale. Malgré cela, ils ont été traités comme n'importe quel autre citoyen ordinaire de la station. Après la folie de leur mère et la mort mystérieuse de leur père, ils ont été envoyés à Avtozavodskaya pour faire quelque chose de leur vie. En utilisant leur nanisme comme une compétence, par exemple pour atteindre des endroits difficiles d'accès et trouver des objets utiles pour la station."
+
+ AVT_perebezhchik:0 "Grigorev"
+ _AVT_perebezhchik:0 "Perebezhchik"
+ AVT_perebezhchik_desc:0 "Né quelques années avant la destruction de la planète et vivant à Chekhovskaya. Grigorev était un ancien Stalker du Reich avant sa déformation. Son comportement dur et rude contraste avec sa croyance en la bonté innée des gens. Il a rejoint la Metromacht dans sa jeunesse par conviction de préserver sa communauté et, ce faisant, est devenu un Stalker. Lui et son équipe ont été envoyés à la surface pour une enquête de routine. Après être entré en contact avec un nombre impressionnant de mutants, le groupe a été submergé. Bien qu'il ait à peine survécu à la confrontation, il a été défiguré. Les membres restants de son équipe s'enfuient et l'abandonnent, le croyant mort. Sachant que s'il retournait chez lui, il serait considéré comme un mutant et exécuté. Laissé à la dérive à la surface pour trouver une entrée dans le métro, Grigorev est tombé sur un Stalker révolutionnaire. Naturellement, les deux se sont affrontés pendant ce qui semblait être des heures. Grigorev pouvait à peine se battre, mais comme les provisions de l'un et de l'autre se raréfiaient et que le temps dérivait, les deux trouvèrent futile leurs efforts pour se détruire mutuellement. En vain, les deux ont commencé à discuter de la vie, de la politique, de la philosophie, voyant une fraternité entre eux. Sachant qu'il mourrait s'il restait à la surface, il demanda à venir avec le révolutionnaire, ou du moins à le conduire en lieu sûr. Le révolutionnaire savait que ses camarades ne l'accepteraient probablement pas, mais il tenterait de se porter garant de sa sécurité en échange de sa servitude et d'informations sur le Reich. Connaissant son destin autrement, Grigorev a accepté. Croyant qu'un jour il retournerait chez lui à Chekhovskaya pour voir sa famille."
+
+ AVT_kadyrov:0 "Kadyrov"
+ AVT_kadyrov_desc:0 "Un agent de liaison de Sokolniki, Kadyrov, veillera à ce que notre armée soit à la hauteur des standards de celle de la Ligne Rouge."
+ _AVT_kadyrov:0 "Instructeur militaire"
+
+
+
+
+
+

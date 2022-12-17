@@ -1,0 +1,31 @@
+﻿l_french:
+
+ ### Immigrant Collective and Council ###
+  
+ EUR_immigrant_collective:0 "Collectif d'immigrants"
+ EUR_immigrant_collective_desc:0 "La majorité de la population européenne est composée d'immigrants. La population générale se réunit pour voter sur des décisions politiques commune".
+
+ EUR_elective_council:0 "Conseil Électoral"
+ EUR_elective_counci_desc:0 "L'Europe a formé un conseil électoral, ce conseil fonctionne comme les gouvernements électoraux d'avant-guerre, par exemple le Parlement britannique. Les représentants de chaque ville se réunissent pour voter sur les décisions de la nation."
+
+ ### Neutral Ministers and Advisors ###
+ 
+ _head_chancellor:0 "Chancelier en Chef"
+ 
+ EUR_head_chancellor_schulz:0 "Chancelier en Chef Schulz"
+ 
+ EUR_luca_bianachi:0 "Luca Bianachi"
+ EUR_luca_bianachi_desc:0 "Un individu à forte détermination qui s'est retrouvé conseiller militaire au sein de la République. Il est souvent en désaccord avec les tactiques des conseils, car ils ne reconnaissent pas le culte du Grand Ver comme une menace pour l'Europe. Il est souvent très égoïste et se qualifie lui-même comme l'Auguste de l'Europe."
+
+  EUR_council_of_generals:0 "Conseil des Généraux"
+
+
+
+
+
+
+
+
+
+
+

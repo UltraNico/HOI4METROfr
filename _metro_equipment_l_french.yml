@@ -1,0 +1,283 @@
+﻿l_french:
+  basic_infantry_equipment: "Revolver"
+  basic_infantry_equipment_desc: "Simple et fiable, le Revolver tire des cartouches de .44 Magnum. Il est particulièrement compétent en combat à moyenne et longue distance grâce à sa précision et sa puissance de feu. Malgré sa capacité cylindrique, il est souvent utilisé en dernier recours, ou comme arme complémentaire pour compléter une puissance de feu plus fiable."
+  basic_infantry_equipment_short: "Revolver"
+
+  scrap_infantry_equipment_1: "'Bâtard'"
+  scrap_infantry_equipment_1_desc: "Une mitraillette de calibre 5.45. Mauvaise précision et surchauffe infernale. Le Bastard a été créé quelque temps après le largage des bombes, de manufacture métropolitaine. Considérablement moins cher que les armes à feu conventionnelles, et beaucoup plus simple à entretenir, sa cadence de tir élevée et la bonne capacité de son chargeur sont les seuls atouts de cette arme. Elle s'enraye et surchauffe constamment - un vrai bâtard à manipuler."
+  scrap_infantry_equipment_1_short: "'Bâtard'"
+
+  ### Put in technology Localisation!! ###
+  #scrap_infantry_equipment_2: "Heavy Barrel Attatchment"
+  #scrap_infantry_equipment_2_desc: "The attatchment of a Heavy Barrel, rudimentally produced from refurbished scrap material effectively doubles the damage output of each bullet fired."
+
+  scrap_infantry_equipment_2: "Pistolet 'Bâtard' Lourd"
+  scrap_infantry_equipment_2_desc: "Sa conception rudimentaire et sa tendance à la surchauffe placent n'importe quelle arme à feu conventionnelle au-dessus du pistolet Bâtard. Le fait qu'il soit facilement modifiable et dotée d'accessoires en fait une arme peu commune et pratique dans le métro. Une crosse améliorée, un canon lourd et un grand chargeur ; vous avez une arme avec une puissance de feu suffisante pour que même les Kshatriyas se sentent en danger."
+  scrap_infantry_equipment_2_short: "Pistolet 'Bâtard' Lourd"
+
+  shotgun_infantry_equipment_1: "Doublet"
+  shotgun_infantry_equipment_1_desc: "Un fusil de chasse à double canon plutôt rudimentaire qui tire des cartouches de calibre 12. Sa capacité de munitions limitée compense sa létalité à courte distance. Capable de transpercer des cibles à courte distance avec facilité. Une arme efficace contre les cibles vulnérables, qu'elles soient mutantes ou non."
+  shotgun_infantry_equipment_1_short: "Doublet"
+
+  shotgun_infantry_equipment_2: "Funestus"
+  shotgun_infantry_equipment_2_desc: "Un cylindre à 6 chambres, introduit dans la chambre pour le tir. Le Funestus est beaucoup plus meurtrier que son prédécesseur le Doublet. C'est une arme à feu très fiable, et particulièrement dangereuse en combat rapproché. Le processus de rechargement est lent, car chaque cartouche doit être chargée séparément. Cependant, il a une bonne puissance de frappe contre les cibles à moyenne portée."
+  shotgun_infantry_equipment_2_short: "Funestus"
+
+  conventional_infantry_equipment_1: "AKS-74U"
+  conventional_infantry_equipment_1_desc: "Plus court que ses frères de la gamme Kalash. De même, il a une cadence de tir élevée, mais n'a pas la précision ni la portée de ses frères et sœurs. L'AKS-74U est une variante beaucoup plus compacte de l'arme à feu emblématique, avec un canon plus court et une portée réduite. Une caractéristique nécessaire compte tenu de la fonction qu'il remplit désormais, avec ses gardes-mains réduits et son montage sur rail latéral. Modifié pour devenir un ajustement parfait pour les engagements étroits."
+  conventional_infantry_equipment_1_short: "AKS-74U"
+
+  conventional_infantry_equipment_2: "VSV"
+  conventional_infantry_equipment_2_desc: "Un fusil d'assaut précis et puissant qui a été peu utilisé par les forces de l'ordre dans les derniers jours de l'humanité. Sa faible vitesse initiale en fait un tueur discret, et le fait qu'il s'agisse d'une arme parfaite pour les missions de furtivité et de reconnaissance en fait un allié utile lorsqu'il se trouve derrière les lignes ennemies, ou qu'il traite des adversaires à distance."
+  conventional_infantry_equipment_2_short: "VSV"
+
+  conventional_infantry_equipment_3: "Kalash 2012"
+  conventional_infantry_equipment_3_desc: "Recherché partout dans le métro. Elle a acquis la réputation d'être l'une des meilleures armes disponibles dans le métro. Sa précision est comparable à celle du VSV et sa cadence de tir à celle du Bastard. Sa polyvalence dans n'importe quel scénario en fait une arme à feu inégalée."
+  conventional_infantry_equipment_3_short: "Kalash 2012"
+
+  pheumatic_infantry_equipment_1: "Tikhar"
+  pheumatic_infantry_equipment_1_desc: "Une arme à feu de manufacture métropolitaine, et plutôt non conventionnelle. Tirant des billes au lieu de vraies balles. Propulsée par l'utilisation d'air comprimé, placé à l'intérieur de la crosse de l'arme. La pression est assurée par une pompe manuelle située à l'extrémité de l'arme. Bien que son mécanisme de tir pneumatique nécessite un pompage et une attention constants, il peut tirer rapidement et discrètement."
+  pheumatic_infantry_equipment_1_short: "Tihar"
+
+  pheumatic_infantry_equipment_2: "Helsing"
+  pheumatic_infantry_equipment_2_desc: "S'inspirant de son frère, le Tikhar, le Helsing tire des boulons au lieu de billes. Silencieux et puissant, il fonctionne de la même manière que le Tikhar. Les munitions réutilisables du Helsing, couplées à son efficacité dans les mains d'un tireur d'élite, en font une machine à tuer étonnamment efficace."
+  pheumatic_infantry_equipment_2_short: "Helsing"
+
+  flamethrower_equipment: "Lance-flammes à main"
+  flamethrower_equipment_desc: "Hautement vénéré dans le métro, et pour de bonnes raisons. Le caractère étroit et confiné du métro fait d'un lance-flammes une arme extrêmement meurtrière et dévastatrice. Capable de brûler et de purger des ennemis mutants ou humains. Malgré sa conception rudimentaire, il est enclin à la surchauffe lors d'un usage prolongé. C'est toujours une machine à tuer efficace."
+  flamethrower_equipment_short: "Lance-flammes"
+
+  flamethrower_equipment_2: "Lance-flammes amélioré"
+  flamethrower_equipment_2_desc: "Transportant un liquide propulseur, stocké à proximité. Lorsqu'il est mis à feu, le liquide est propulsé dans le tuyau jusqu'à la buse, où il s'enflamme, capable de brûler tout ce qui se trouve à sa portée. Le fait qu'il s'agisse d'un propulseur et non d'un feu, il ne peut être éteint. Terrifiant dans le métro, non pas pour ses températures brûlantes, mais parce que le carburant brûlant va affamer l'oxygène d'une zone. Il étouffe plus qu'il ne brûle directement.\n Considéré comme une arme si cruelle, même par les nazis et les rouges. Utilisée seulement en dernier recours, ou contre des mutants."
+  flamethrower_equipment_2_short: "Lance-flammes M2"
+
+  explosive_equipment: "'Medved'"
+  explosive_equipment_desc: "Un lance-grenades de fabrication artisanale qui peut tirer des grenades en rafale. Idéal pour attaquer des groupes de personnes ou des blindés légers. Constitué de 3 morceaux de tuyau avec un mécanisme à ressort pour lancer les grenades."
+  explosive_equipment_short: "'Medved'"
+
+  explosive_equipment_2: "Lance-grenades"
+  explosive_equipment_2_desc: "Tir de munition sur mesure, composée de cartouches de grenades."
+  explosive_equipment_2_short: "Lance-grenades"
+
+  gatling_equipment: "Mitrailleuse Portable Lourde"
+  gatling_equipment_desc: "Il utilise des balles de 12,7x108 mm et doit être remonté pour tirer. Il utilise un mécanisme rotatif de fabrication artisanale capable d'effectuer de longs barrages de tirs soutenus. Peut être absolument dévastateur, particulièrement adapté à la nature étroite du métro."
+  gatling_equipment_short: "Mitrailleuse Portable Lourde"
+
+  gatling_equipment_2: "DShK"
+  gatling_equipment_2_desc: "Incroyablement puissant, malgré un emplacement d'armement stationnel. Ayant une quantité limitée de munitions et pouvant surchauffer rapidement en cas de tir continu. Il donne un sérieux coup de soutien armé cependant, reste imprécis."
+  gatling_equipment_2_short: "DShK"
+
+  gatling_equipment_0: "Équipements pour mitrailleuses"
+  explosive_equipment_0: "Matériel explosif"
+  flamethrower_equipment_0: "Équipement pour lance-flammes"
+
+  nkvd_equipment_1: "Équipement du NKVD"
+  nkvd_equipment_desc: "Equipement et matériel de protection pour alimenter la force indéfectible de l'État."
+  nkvd_equipment_short: "Équipement du NKVD"
+
+  #### Rail Equipment ####
+
+  rail_car_equipment: "Équipements pour wagons"
+  rail_cart_equipment: "Équipement pour draisines"
+  rail_panzer_equipment: "Équipements pour chars 'Panzer'"
+  
+  supplies_equipment_1: "Équipement de fournitures"
+  supplies_equipment_desc: "Divers assortissements de munitions, de matériel de premiers soins et un mélange de tout autre équipement vital dont nos troupes ont besoin au combat. Nos forces ont besoin d'un stock de ces fournitures pour accomplir leurs missions."
+  supplies_equipment_1_short: "Fournitures"
+
+  rail_cart_equipment_1: "Draisine manuel"
+  rail_cart_equipment_1_desc: "N'étant pas conçues pour le combat, les draisies à bras sont inefficaces en situation de combat. Cependant, malgré cela, elles offrent une protection de base et peuvent être utilisées dans une variété de moyens de transport tels que le transfert de fournitures ou de soldats entre les stations."
+  rail_cart_equipment_1_short: "Draisine manuel"
+
+  rail_cart_equipment_2: "Draisine motorisé"
+  rail_cart_equipment_2_desc: "En utilisant un moteur comme source d'énergie, et en offrant un peu plus de protection contre les tirs grâce à sa mobilité. Ils peuvent être utilisés plus efficacement comme moyen de transport avec des mesures défensives supplémentaires."
+  rail_cart_equipment_2_short: "Draisine motorisé"
+
+  rail_cart_equipment_3: "Draisine à utilitaire"
+  rail_cart_equipment_3_desc: "Draisine d'avant-guerre utilisée comme véhicule utilitaire. La draisine utilitaire offre une protection adéquate ainsi qu'un vaste espace de rangement pour le déplacement rapide de troupes ou de matériel grâce à son moteur à vapeur."
+  rail_cart_equipment_3_short: "Draisine à utilitaire"
+
+  rail_car_equipment_1: "Draisine Moto"
+  rail_car_equipment_1_desc: "Avec une vitesse décente grâce à un moteur à essence installé, et une protection accrue grâce à l'utilisation d'un placage métallique. Malgré une certaine faiblesse face aux munitions de gros calibre, et l'insécurité du moteur, la cette draisine est un véhicule parfait pour être utilisé dans les mouvements rapides et les tactiques offensives écrasantes."
+  rail_car_equipment_1_short: "Draisine Moto"
+
+  rail_car_equipment_2: "Draisine à tourelle"
+  rail_car_equipment_2_desc: "Construit sur le modèle de la draisine moto, et avec l'ajout d'une mitrailleuse DShK montée sur tourelle rotative. Il offre une puissance de feu beaucoup plus importante. Avec l'ajout d'un blindage à l'avant et sur le côté pour protéger le conducteur contre les tirs. Cependant, le tireur, lui, est très vulnérable."
+  rail_car_equipment_2_short: "Draisine à tourelle"
+
+  rail_panzer_equipment_1: "Char léger"
+  rail_panzer_equipment_1_desc: "Une draisine recouverte d'un épais blindage. Propulsée par un moteur à vapeur similaire à celui des locomotives. Il est également équipé d'une tourelle rotative et d'une mitrailleuse. C'est un adversaire vraiment dévastateur à affronter sur le champ de bataille."
+  rail_panzer_equipment_1_short: "Char léger"
+
+  rail_panzer_equipment_2: "Char moyen"
+  rail_panzer_equipment_2_desc: "Une draisine blindé avec canon amélioré inclinable et tir de projectiles explosifs. Une grande partie du modèle a été construite à partir de pièces de locomotives et de chars d'avant-guerre récupérés. Nous avons pris les aspects qualitatifs de ces deux éléments pour fabriquer une bête vraiment imposante et impressionnante."
+  rail_panzer_equipment_2_short: "Char moyen"
+
+  rail_panzer_equipment_3: "Char Lourd 'Panzer III'"
+  rail_panzer_equipment_3_desc: "Lourdement blindé, il est principalement utilisé pour percer les positions ennemies et détruire les autres véhicules ferroviaires. Le Panzer est vraiment inégalé sur le champ de bataille et mérite son effrayante reconnaissance, amis et ennemis, craignent et respectent ce mastodonte. Le IVe Reich construit ses Panzer pour imiter ceux du IIIe Reich d'Hitler. Une machine de guerre emblématique qui correspond vraiment à son idéologie."
+  rail_panzer_equipment_3_short: "Panzer"
+
+  ### Supplies ###
+
+  supplies_equipment: "Fournitures"
+
+  ##    Special Forces    ##
+
+  special_forces_equipment: "Équipement pour les Forces Spéciales"
+
+  special_forces_equipment_1: "Équipement pour les Froces Spéciales (I)"
+  special_forces_equipment_1_desc: ""
+  special_forces_equipment_1_short: "Équipement FS (I)"
+
+  special_forces_equipment_2: "Équipement amélioré pour les Forces Spéciales (II)"
+  special_forces_equipment_2_desc: "Les améliorations apportées à l'équipement de base comprend des filtres de masque à gaz standardisés, des tenues en caoutchouc hermétique et des gilets tactiques pour le stockage de munitions."
+  special_forces_equipment_2_short: "Équipement FS (II)"
+
+  special_forces_equipment_3: "Équipement avancé pour les Forces Spéciales (III)"
+  special_forces_equipment_3_desc: "À ce stade, l'équipement a évolué et comprend désormais des casques complets, des gilets pare-balles, des supports en aluminium, de meilleurs sacs à dos et des rations plus importantes."
+  special_forces_equipment_3_short: "Équipement FS (III)"
+
+  special_forces_equipment_heavy: "Équipement lourd pour les Forces Spéciales"
+  special_forces_equipment_heavy_desc: "L'équipement des Forces Spéciales peut être spécialisé pour être entièrement axé sur la protection de celui qui le porte. L'équipement lourd des opérations spéciales, plus volumineux, plus lourd et beaucoup plus imposant, fait de son porteur un char d'assaut sur pattes."
+  special_forces_equipment_heavy_short: "Équipement Lourd FS (I)"
+  
+  special_forces_equipment_heavy_2: "Équipement Lourd amélioré pour les Forces Spéciales (II)"
+  special_forces_equipment_heavy_2_desc: "Des alliages plus solides et plus légers sont utilisés dans la construction des armures lourdes des Forces Spéciales, ce qui signifie que le porteur est à la fois mieux protégé et plus mobile."
+  special_forces_equipment_heavy_2_short: "Équipement Lourd FS (II)"
+
+  special_forces_equipment_light: "Équipement Tactique pour les Forces Spéciales (I)"
+  special_forces_equipment_light_desc: "L'équipement des forces spéciales peut être spécialisé pour se concentrer sur les aspects tactiques du combat, en ajoutant des éléments tels que la vision nocturne, les viseurs infrarouges, et en gardant un poids léger, ce qui permettra aux unité de rester en mouvement."
+  special_forces_equipment_light_short: "Équipement Tactique FS (I)"
+
+  special_forces_equipment_light_2: "Équipement Tactique amélioré pour les Forces Spéciales (II)"
+  special_forces_equipment_light_desc: "D'autres développements dans l'équipement tactique des soldats incluent des gilets pare-balles ultra-légers, des silencieux de série et des munitions de qualité militaire."
+  special_forces_equipment_light_short: "Équipement Tactique FS (II)"
+
+
+  ## Unique ## 
+
+  shotgun_infantry_equipment_3: "Équipement du fusil automatique Saiga-12"
+  shotgun_infantry_equipment_3_desc: "Fusil de chasse automatique d'avant-guerre avec une cadence de tir fiable et percutante. Une capacité de munitions impressionnante, avec une vitesse de rechargement rapide. Une arme à feu parfaite pour nettoyer les espaces clos, que ce soit pour des mutants ou des humains."
+  shotgun_infantry_equipment_3_short: "Saiga-12"
+
+  shotgun_infantry_equipment_4: "Fusil automatique lourd 'Abzats'"
+  shotgun_infantry_equipment_4_desc: "Bien qu'il s'agisse d'une arme de fabrication artisanale provenant de l'armurerie de Kuznetsky Most, elle offre une puissance de feu impressionnante par rapport aux autres mitrailleuses du métro. Fabriquée à partir de pièces recyclées de mitrailleuses DShK, l'Abzats est encombrant et cher, mais rien ne peut résister à une volée de tirs pareil. Pas même un char de la Ligne Rouge ou le plus horrible mutant que les ténèbres puissent produire."
+  shotgun_infantry_equipment_4_short: "Abzats"
+
+  conventional_infantry_equipment_4: "Kalashnikov RPK-74"
+  conventional_infantry_equipment_4_desc: "Grande portée. Précis. Mortel. Le RPK s'inspire de ses aînés de la famille Kalachnikov, et bien qu'il souffre d'une vitesse de rechargement plus lente que ses frères, il n'est en aucun cas inférieur. Il est doté d'une sérieuse puissance de feu et est polyvalent dans ses aptitudes."
+  conventional_infantry_equipment_4_short: "RPK-74"
+
+  laser_infantry_equipment_1: "Railgun"
+  laser_infantry_equipment_1_desc: "Le railgun tire des projectiles à billes à des vitesses incroyables, alimentés par une batterie intégrée qui charge une bobine magnétique qui entraîne le projectile le long de deux rails métalliques parallèles. Il est doté d'une grande puissance de feu."
+  laser_infantry_equipment_1_short: "Railgun"
+
+  special_forces_equipment_spartan: "Équipement de Ranger (FS)"
+  special_forces_equipment_spartan_desc: "Équipement de Ranger (Forces Spéciales)"
+  special_forces_equipment_spartan_short: "Équipement Ranger"
+
+  special_forces_equipment_spetnaz: "Équipement Spetsnaz (FS)"
+  special_forces_equipment_spetnaz_desc: "Équipement de Spetsnaz (Forces Spéciales)"
+  special_forces_equipment_spetnaz_desc: "Équipement Spetsnaz"
+
+  special_forces_equipment_riot: "OMON Équipement anti-émeute"
+  special_forces_equipment_riot_desc: "Otdel Milice Osobogo Naznacheniya Gear"
+  special_forces_equipment_riot_short: "quipement anti-émeute"
+
+
+  ## Unique Equipment Variants 
+
+  ARB_gatling_equipment: "M249"
+  ARB_gatling_equipment_desc: "La mitrailleuse légère M249 tire du 5.56x45mm et peut soutenir une cadence de tir de 100 coups par minute. C'est une adaptation américaine. Elle a connu une action majeure dans les conflits de la seconde moitié du 20e siècle et du début du 21e siècle. Il a maintenant trouvé sa place dans le métro de Moscou."
+  ARB_gatling_equipment_short: "M249"
+
+  GWC_basic_infantry_equipment: "Batte de baseball en bois"
+  GWC_basic_infantry_equipment_desc: "Marchez tranquillement, et portez une grosse batte. Grossière, mais si efficace pour défoncer le crâne de quelqu'un."
+  GWC_basic_infantry_equipment_short: "Batte de baseball"
+
+  GWC_scrap_infantry_equipment_1: "Marteau artisanale"
+  GWC_scrap_infantry_equipment_1_desc: ""
+  GWC_scrap_infantry_equipment_1_short: "Marteau"
+
+  GWC_scrap_infantry_equipment_2: "Parpaing"
+  GWC_scrap_infantry_equipment_2_desc: ""
+
+  GWC_scrap_infantry_equipment_2: "Lance artisanale"
+  GWC_scrap_infantry_equipment_2_desc: ""
+  GWC_scrap_infantry_equipment_2_short: "Lance"
+
+  GWC_shotgun_infantry_equipment_1: "Sarbacane simple"
+  GWC_shotgun_infantry_equipment_1_desc: ""
+  GWC_shotgun_infantry_equipment_1_short: "Sarbacane (I)"
+
+  GWC_shotgun_infantry_equipment_2: "Sarbacane améliorée"
+  GWC_shotgun_infantry_equipment_2_desc: ""
+  GWC_shotgun_infantry_equipment_2_short: "Sarbacane (II)"
+
+  GWC_conventional_infantry_equipment_1: "Macuahuitl primitif"
+  GWC_conventional_infantry_equipment_1_desc: ""
+  GWC_conventional_infantry_equipment_1_short: "Macuahuitl (I)"
+
+  GWC_conventional_infantry_equipment_2: "Macuahuitl à pointe osseuse"
+  GWC_conventional_infantry_equipment_2_desc: ""
+  GWC_conventional_infantry_equipment_2_short: "Macuahuitl (II)"
+
+  GWC_conventional_infantry_equipment_3: "Macuahuitl décoré"
+  GWC_conventional_infantry_equipment_3_desc: ""
+  GWC_conventional_infantry_equipment_3_short: "Macuahuitl (III)"
+
+  GWC_pheumatic_infantry_equipment_1: "Hachette"
+  GWC_GWC_pheumatic_infantry_equipment_1_desc: ""
+  GWC_pheumatic_infantry_equipment_1_short: "Hachette (III)"
+
+  GWC_pheumatic_infantry_equipment_2: "Hachette améliorée"
+  GWC_pheumatic_infantry_equipment_2_desc: ""
+  GWC_pheumatic_infantry_equipment_2_short: "Hachette (II)"
+
+  HNZ_conventional_infantry_equipment_1: "AN-94"
+  HNZ_conventional_infantry_equipment_1_desc: "Après la troisième guerre mondiale, les suvivants de Moscou ont trouvé des copies de cette arme dans des dépôts de l'armée. L'approvisionnement en armes est devenu de plus en plus difficile, car des échanges sournois et des marchés fermés dissimulent l'arme. Heureusement, la plupart de ces affaires passent par nous."
+  HNZ_conventional_infantry_equipment_1_short: "AN-94"
+
+  HNZ_gatling_equipment: "Petcheneg"
+  HNZ_gatling_equipment_desc: "Une mitrailleuse lourde qui a gagné en popularité avant la troisième guerre mondiale, mise en service environ 12 ans avant la guerre. Félicitée pour la taille de son chargeur, sa fiabilité et ses dégâts. Les techniciens ont pu rendre l'arme adaptée aux mêmes cartouches que celles utilisées par les mitrailleuses DShK."
+  HNZ_gatling_equipment_short: "Petcheneg"
+
+  RCH_basic_infantry_equipment: "Lolife"
+  RCH_basic_infantry_equipment_desc: "Un pistolet semi-automatique de fortune apprécié par beaucoup pour ses capacités et pour être hautement personnalisable. Une arme à feu à chambre .44 Magnum produite dans le métro. C'est une arme commune, appréciée pour sa fiabilité et sa bonne précision."
+  RCH_basic_infantry_equipment_short: "Lolife"
+
+  RCH_conventional_infantry_equipment_4: "Sturmgewehr 33"
+  RCH_conventional_infantry_equipment_4_desc: "Dans un effort croissant pour améliorer notre R&D, et une prouesse technologique sur nos ennemis, nous avons créé le Sturmgewehr, archétype du STG-44, qui peut être facilement distingué par son nom. Un croisement du STG-44 et du HK-G3. Il reprend de nombreuses caractéristiques de l'un et de l'autre. Entièrement produit dans nos fonderies et ateliers."
+  RCH_conventional_infantry_equipment_4_short: "STG-33"
+
+  RCH_scrap_infantry_equipment_2: "Volkssturmgewehr 33"
+  RCH_scrap_infantry_equipment_2_desc: "Dans un ultime effort pour sauver le Reich mourant, la production d'armes à feu artisanale a été lancée afin d'approvisionner les forces armées, en déclin, en essayant de répondre à la fois aux besoins logistiques et aux besoins militaires alors que les ennemis envahissaient des deux côtés. Avec des ressources limitées, ils ont réussi à produire une variété d'armes de dernier recours. Basé sur l'archétype Volkssturmgewehr et équipé pour tirer des balles produites par le métro. C'est une arme rudimentaire, mais efficace."
+  RCH_scrap_infantry_equipment_2_short: "VG-33"
+
+  RCH_gatling_equipment: "M134"
+  RCH_gatling_equipment_desc: ""
+  RCH_gatling_equipment_short: "M134"
+
+  RCH_gatling_equipment_2: "Kord-12.7mm Mitrailleuse"
+  RCH_gatling_equipment_2_desc: ""
+  RCH_gatling_equipment_2_short: "Kord"
+
+  RED_basic_infantry_equipment: "Makarov PM"
+  RED_basic_infantry_equipment_desc: "Aussi emblématique que l'AK russe. Le Makarov a été introduit après la Seconde Guerre mondiale, lorsque l'armée soviétique avait besoin d'une nouvelle arme à feu standard pour approvisionner ses forces armées. Robuste, fiable et communément trouvé dans le monde entier. Le Makarov est l'indomptable de l'Union soviétique".
+  RED_basic_infantry_equipment_short: "Makarov"
+
+  RED_scrap_infantry_equipment_2: "PPSh-41 Mitraillette"
+  RED_scrap_infantry_equipment_2_desc: "L'une des armes les plus distinctives de la Seconde Guerre mondiale se trouve aujourd'hui sur un théâtre de guerre entièrement nouveau par rapport à celui d'il y a presque 100 ans. Utilisée en grand nombre par l'armée soviétique. Utile pour sa fiabilité et sa simplicité. Un armement commun que l'on trouve aujourd'hui dans les rangs de la Ligne Rouge."
+  RED_scrap_infantry_equipment_2_short: "PPSh-41"
+
+  conventional_infantry_equipment_2: "AK-103"
+  conventional_infantry_equipment_2_desc: "Ayant été impliqué dans de nombreux conflits depuis 2001, l'AK-103 s'appuie sur son prédécesseur et offre une meilleure personnalisation. Au lieu d'utiliser du bois ou du métal, il utilise des composants en plastique comme sur la poignée du pistolet, les gardes-mains. La fiabilité a été améliorée, bien qu'elle soit moins bonne que celle des armes plus modernes de son âge. Il reste néanmoins une arme à feu compétente, bien que fondamentalement robuste et caractéristique de la Russie."
+  conventional_infantry_equipment_2_short: "AK-103"
+
+
+  
+
+
+
+
+

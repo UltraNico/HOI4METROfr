@@ -1,0 +1,24 @@
+﻿l_french:
+ PRODUCTION_MATERIALS_ALLOYS:0 "Alliages"
+ alloys_desc:0 "Métaux mixtes qui résistent aux chocs et à la corrosion, tout en étant beaucoup plus robustes. Ils sont utilisés pour fabriquer des armements de haute qualité."
+
+PRODUCTION_MATERIALS_ELECTRONICS:0 "Électronique"
+electronics_desc:0 "Cartes de circuits imprimés, transistors, micropuces et autres éléments complexes, utilisés dans de nombreux engins et véhicules militaires sophistiqués."
+
+PRODUCTION_MATERIALS_COMPONENTS:0 "Composants"
+components_desc:0 "Divers engrenages mécaniques de haute qualité et autres pièces industrielles nécessaires à la production d'armes, de draisines et de véhicules de qualité supérieure."
+
+PRODUCTION_MATERIALS_SCRAP:0 "Ferraille"
+scrap_desc:0 "Métaux mis au rebut, récupérés ou remis à neuf, utilisés de diverses manières, pour fabriquer des outils ou des véhicules bricolés et, surtout, des armes."
+
+PRODUCTION_MATERIALS_CHEMICALS:0 "Produits chimiques"
+chemicals_desc:0 "Utilisation dans les fournitures médicales, les équipements de qualité spéciale tels que les filtres et les équipements pour Stalkers. Également utilisé dans la production d'équipements de soutien de qualité supérieure."
+
+country_resource_alloys:0 "Alliages"
+country_resource_electronics:0 "Électronique"
+country_resource_components:0 "Composants"
+country_resource_scrap:0 "Ferraille"
+country_resource_chemicals:0 "Produits chimique"
+
+
+

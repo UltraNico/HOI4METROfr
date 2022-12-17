@@ -1,0 +1,108 @@
+﻿l_french:
+
+ education_practise: "Réformes éducatives"
+ education_practise_desc: "N'importe quel idiot peut savoir, le but est de comprendre. Le savoir est bien plus puissant que les balles et il vaut plus que de l'eau. Nous devrons revoir complètement notre mode de fonctionnement si nous voulons entreprendre la tâche monumentale de collecter, sécuriser et sauvegarder le dernier refuge de connaissances de l'ancien monde, afin que les générations futures se souviennent de comment et de ce que c'est d'être un être humain.\n\nL'activation de la décision lancera une §OMission chronométrée.§! Une fois le minuteur de mission atteint §R0§! cela renforcera notre §Oloi sur l'éducation.§! Le temps de gradation est long, et dépendra de la quantité de §OTerritoire§! que nous contrôlons. Nous pouvons également activer §ODécisions§! pour réduire la durée.§!\n\n§YUne fois nos réformes adoptées, il faudra 6-7 mois avant que nous puissions reprendre les réformes.§!"
+
+ is_not_bandit_nation:0 "§RNON§! Une station dirigée par des bandits"
+ not_currently_under_education_reforms:0 "§RNON§! Réformes de l'éducation en cours"
+
+ improve_education_normal:0 "Amélioration du système éducatif"
+ improve_education_normal_desc:0 "Il a été clairement établi qu'étant donné l'état de nos stations, la mise en œuvre de pratiques éducatives supplémentaires permettra à nos citoyens de mener plus facilement leurs activités quotidiennes normales. Avec le bénéfice d'améliorer nos propres activités de R&D."
+
+ improve_education_efforts_mission:0 "Amélioration des efforts d'éducation"
+ improve_education_efforts_mission_desc:0 "Entreprendre un enseignement complet sera un processus monumental. Il faudra beaucoup de temps avant de voir les résultats de ces efforts."
+
+ education_efforts_mission_tooltip:0 "\n§gCela prendra un temps considérable en fonction de la quantité de§! §YStations§! §gque nous possédons.§!\n"
+
+ education_efforts_mission_completed:0 "\n§gUne fois que la minuterie atteint§! §R0§!. §Nous allons §CDéverrouiller§! §gle prochain§! §Niveau de Recherche!§!§C"
+
+ improve_education_efforts_administrate_station_chiefs:0 "Intégration d'un planning avec les Chefs de Station"
+ improve_education_efforts_administrate_station_chiefs_desc:0 "Il faudra du temps pour rencontrer les responsables de nos stations afin de définir et d'élaborer la procédure de mise en œuvre de ces réformes. Même s'ils sont d'accord avec nos propositions. Ce n'est qu'en respectant l'autorité des chefs locaux que nous pourrons procéder aux réformes souhaitées."
+
+ improve_education_efforts_collect_books:0 "Création de bibliothèques"
+ improve_education_efforts_collect_books_desc:0 "Au lieu d'utiliser les livres comme combustible pour nos barils de brûlage et nos feux de camp, nous pourrions plutôt les garder à l'abri. S'assurer qu'ils sont conservés dans des conditions convenables."
+
+ improve_education_efforts_soapbox:0 "Encourager la participation des citoyens"
+ improve_education_efforts_soapbox_desc:0 "À mesure que le quotidien prend de l'importance dans l'esprit des gens, des choses simples comme l'écriture et la lecture deviennent de moins en moins courantes. Si nous voulons changer radicalement cette notion, nous devons cibler toutes les facettes de nos citoyens. Pas seulement chez les jeunes."
+
+ improve_education_efforts_purchase_amenities:0 "Achats de livres"
+ improve_education_efforts_purchase_amenities_desc:0 "Lorsque les marchands entrent et sortent de notre station en colportant leurs marchandises, l'achat et le stockage de tous les manuscrits et livres qu'ils peuvent vendre nous permettra d'améliorer notre capacité à dispenser des connaissances. Tout, des livres pour enfants aux encyclopédies, fera l'affaire."
+
+ improve_education_efforts_establish_schoolhouses:0 "Construction d'écoles"
+ improve_education_efforts_establish_schoolhouses_desc:0 "Bien que l'espace devienne une ressource de plus en plus critique chaque jour. Aménager un espace dédié à l'accueil et à l'enseignement des connaissances aux enfants peu être bien."
+
+ ## Bandit ##
+
+ is_bandit_nation:0 "§GC'est§! un groupe de Bandits"
+
+ improve_education_bandit:0 "Amélioration du système éducatif"
+ improve_education_bandit_desc:0 "Le mot "brillant" ou "intelligent" ne vient pas à l'esprit lorsqu'il s'agit d'une bande de voyous et de brutes. L'intelligence de la rue, bien sûr, mais combien de voyous faut-il pour visser une ampoule ? Mieux vaut ne pas demander ça par ici. Mais il est clair que si nous devons diriger le métro, il faut bien commencer quelque part. Fouetter les gars pour qu'ils soient en forme après avoir été une bande de crétins disparates."
+
+ improve_education_efforts_bandit_mission:0 "Amélioration des efforts d'éducation"
+ improve_education_efforts_bandit_mission_desc:0 "Cela va prendre un certain temps avant que nous commencions à voir des améliorations. Affiner les connaissances et la clairvoyance de nos effectifs ne les rendra peut-être pas capables de résoudre les mathématiques les plus basiques, mais cela affinera certainement leur intelligence."
+
+ improve_education_efforts_bandit_disceting_equipment:0 "Approche pratique"
+ improve_education_efforts_bandit_disceting_equipment_desc:0 "Jetez un livre de Tolstoï à la figure de n'importe quel sage et il vous le renverra. Il faudra plus de salive et de patience que d'essayer de faire en sorte que les gars s'éduquent eux-mêmes. Une approche plus pratique va être nécessaire"
+
+ improve_education_efforts_bandit_sleezy_books:0 "Distribution du matériel"
+ improve_education_efforts_bandit_sleezy_books_desc:0 "Des mots, des livres, ça peut conduire un homme à la mort et au-delà. Quelque chose de mieux à regarder est préférable. N'importe quoi qui n'ennuie pas un homme à moitié endormi, fera l'affaire."
+
+ improve_education_efforts_bandit_forced:0 "Pas de demi-mesures"
+ improve_education_efforts_bandit_forced_desc:0 "Vous doutez de la compétence de nos voyous à s'équiper de manière à pouvoir agir comme de vrais gangsters. Vous avez parfaitement raison. Fainéants et paresseux. Quand les choses se gâteront, ils se mettront à faire de la merde. Tant que la pression est assez forte, ils changeront de comportement. Quand la pression sera suffisante, tu peux être sûr que nos crétins commenceront à se comporter correctement."
+
+ improve_education_efforts_bandit_pp_spend:0 "Apprendre des meilleurs"
+ improve_education_efforts_bandit_pp_spend_desc:0 "Bien sûr, tous les voyous en uniforme cherchent à gagner leurs galons. Ils cherchent à être le prochain Terminator. Heureusement, la plupart des vieux gars de notre bande sont d'anciens gangsters dont les traces remontent même à l'époque pré-soviétique. Il n'y a pas de meilleur endroit pour la connaissance et la sagesse que ceux qui ont été là avant nous."
+
+ improve_education_efforts_bandit_pinch_it_someplace_else:0 "Piocher ailleurs"
+ improve_education_efforts_bandit_pinch_it_someplace_else_desc:0 "Bien sûr, la chose la plus facile à faire est de trouver un binoclard pour faire tous les trucs ennuyeux. Qui a besoin de connaître les ordinateurs alors qu'on peut juste menacer quelqu'un pour faire notre travail ? Ce n'est pas ce qu'on est censé faire ?"
+
+ civics_education_level_1:0 "Propagande d'État"
+
+ civics_education_level_2:0 "Aucune éducation"
+
+ civics_education_level_3:0 "Éducation de base"
+
+ civics_education_level_4:0 "Éducation élémentaire"
+
+ civics_education_level_5:0 "Éducation complète"
+
+ civics_education_level_6:0 "Éducation supérieure"
+
+ civics_education_level_7:0 "Éducation de pointe"
+
+
+ nf_metro_education.1:0 "Rapports sur l'éducation"
+ nf_metro_education.1.t:0 "Réformes de l'éducation"
+ nf_metro_education.1.d:0 "Après avoir correctement mis en œuvre, stockée et rassemblée les connaissances, nous pouvons maintenant commencer à mettre en œuvre l'éducation sur notre territoire. Nous ne sommes plus des clochards illettrés comme les citoyens de la station voisine voudraient vous le faire croire."
+ nf_metro_education.1.a:0 "Bonnes nouvelles"
+
+ nf_metro_education.2:0 "Rapports sur l'éducation"
+ nf_metro_education.2.t:0 "Réformes de l'éducation"
+ nf_metro_education.2.d:0 "Après de longues semaines, les crétins de notre groupe ont enfin compris l'essentiel. Qui aurait cru que ces crétins pouvaient faire autre chose que boire et tirer ? Igor ne bégaie plus abondamment lorsqu'il lit les divers magazines d'il y a plus de deux décennies. Quant à Piotr, il peut maintenant écrire son nom. Une petite équipe de voyous aujourd'hui, qui sait pour demain ? Peut-être que les soldats de la Hansa réfléchiront à deux fois avant de se frotter à nous !"
+ nf_metro_education.2.a:0 "Bonnes nouvelles"
+ 
+ ### DEPRECIATED ###
+
+ civics_education: "Éducation"
+
+ civics_education_0: "Endoctrinement des enfants"
+ civics_education_0_desc: "Les enfants doivent être endoctrinés dans nos modes de vie. Entraînés à être obéissants à notre ordre et à notre mode de vie."
+
+ civics_education_1: "Éducation rudimentaire"
+ civics_education_1_desc: "Alors que nos bibliothèques et nos écoles n'égaleront jamais celles de Polis ou des bibliothèques de l'ancien monde, nous pouvons au moins les héberger avec tous les livres et documents. L'humanité doit être préservée."
+
+ civics_education_2: "Alphabétisation de base"
+ civics_education_2_desc: "Nous pouvons au moins nous permettre de donner à une bonne partie de nos citoyens, les bases d'une éducation. Nous ne sommes pas des sauvages."
+
+ civics_education_3: "Éducation des enfants"
+ civics_education_3_desc: "S'il est impossible de donner une éducation de base à chacun de nos citoyens, nos enfants peuvent au moins en avoir un semblant. Alphabétisation, arithmétique et autres enseignements rudimentaires. Nous ne pouvons pas nous permettre que l'étincelle de l'humanité s'éteigne."
+
+ civics_education_4: "Aucune éducation"
+ civics_education_4_desc: "Nous avons ce putain de truc qui grouille de toutes les crevasses et de tous les fossés, prêt à nous engloutir tout entier, et vous voulez apprendre ce qu'est la capitale de la France ? Les bases de l'arithmétique ? Dostoïevski ? Il ne va rien faire pour empêcher ces monstres de défoncer les portes."
+
+
+
+
+
+
+

@@ -1,0 +1,120 @@
+l_french:
+
+ nf_EUR.1.t:0 "Organisation"
+ nf_EUR.1.d:0 "Une partie importante des résidents de la communauté européenne sont des immigrants, d'anciens hommes d'affaires et des employés du centre d'affaires de la ville de Moscou. Nous devons transformer ces immigrés en civils actifs."
+ nf_EUR.1.a:0 "Placez-les du côté des forces armées"
+ nf_EUR.1.b:0 "Placez-les du côté de l'industrie"
+
+ nf_EUR.2.t:0 "Un nouveau gouvernement"
+ nf_EUR.2.d:0 "En basant ce nouveau système sur les élections d'avant-guerre, comme le Parlement britannique, on a donné au peuple un gouvernement mieux organisé et plus efficace, tout en conservant une véritable démocratie".
+ nf_EUR.2.b:0 "La démocratie et la paix pour le peuple."
+ europe_has_council:0 "§YCommunauté d'Européenne§! a un §Yconseil politique§!"
+ 
+ nf_EUR.3.t:0 "Une course aux ordures fructueuse"
+ nf_EUR.3.d:0 "Les pilleurs que nous avons envoyés sont revenus avec beaucoup de provisions."
+ nf_EUR.3.a:0 "Une bonne journée !"
+ 
+ nf_EUR.4.t:0 "Une course aux ordures infructueuse"
+ nf_EUR.4.d:0 "Les pilleurs que nous avons envoyés ne vont pas revenir. Un homme est revenu gravement blessé avec des récits demort. Il est seulement revenu avec quelques déchets."
+ nf_EUR.4.a:0 "Une journée misérable"
+ 
+ nf_EUR.5.t:0 "Augmentation de la puissance militaire"
+ nf_EUR.5.d:0 "Alors que nous nous sommes concentrés sur notre effort industriel, nous sommes devenus plus vulnérables aux attaques extérieures avec une armée inefficace. Une réforme est nécessaire"
+ nf_EUR.5.a:0 "Propagande militaire"
+ nf_EUR.5.b:0 "Forcer les travailleurs à entrer dans l'armée"
+ nf_EUR.5.c:0 "Chacun fait son devoir"
+ 
+ nf_EUR.6.t:0 "L'occidentalisation"
+ nf_EUR.6.d:0 "LEurope était une bête industrielle, alors pourquoi ne pas l'intégrer dans notre culture ?
+ nf_EUR.6.a:0 "Bienvenue à eux"
+ 
+ nf_EUR.7.t:0 "Une occidentalisation plus poussée".
+ nf_EUR.7.d:0 "L'Europe était une bête industrielle, alors pourquoi ne pas l'intégrer davantage dans notre culture".
+ nf_EUR.7.a:0 "Bienvenue à eux"
+ 
+ nf_EUR.8.t:0 "Menace à nos frontières"
+ nf_EUR.8.d:0 "Le culte du Grand Ver est une menace pour nous depuis un certain temps maintenant. En réalisant le véritable danger qu'ils représentent pour nous, nous pouvons minimiser ou éliminer complètement le danger potentiel".
+ nf_EUR.8.a:0 "Nous devons nous préparer"
+ 
+ ## Titles
+ nf_EUR.9.t:0 "La course au trésor"
+ nf_EUR.10.t:0 "La course au trésor"
+ nf_EUR.11.t:0 "La course au trésor"
+ ## Descriptions
+ nf_EUR.9.d:0 "Nos chercheurs et pilleurs ont réussi à trouver une collection de fusils Saiga-12 que nous avons démontés et étudiés pour pouvoir les créer nous-mêmes."
+ nf_EUR.10.d:0 "Nos chercheurs et pilleurs ont réussi à trouver une collection de revolvers russes que nous ajoutons à notre arsenal".
+ nf_EUR.11.d:0 "Nos chercheurs et pilleurs ont réussi à trouver une collection de fusils de fortune que nous ajoutons à notre arsenal".
+ ## Okay!
+ nf_EUR.9.a:0 "Une bonne trouvaille !"
+ nf_EUR.10.a:0 "Une bonne trouvaille !"
+ nf_EUR.11.a:0 "Une bonne trouvaille !"
+ 
+ nf_EUR.12.t:0 "Réforme politique"
+ nf_EUR.12.d:0 " Notre politique a désespérément besoin d'être réformée. Le conseil vient d'être mis en place et les gens ne font que se disputer sans que rien ne soit fait alors nous devons décider de notre sort ici et maintenant !"
+ nf_EUR.12.a:0 "L'avènement de quelque chose de grand"
+ 
+ europe_worm_is_threat:0 "Nous avons réalisé la pleine menace du §YCulte du Grand Ver§!"
+ nf_EUR.14.t:0 "Problème général"
+ nf_EUR.14.d:0 "Le général Bianchi est une plaie depuis un certain temps maintenant, il est souvent en désaccord avec les membres du Conseil car il insiste sur le fait que le culte du Grand Ver est une menace. Son obstination constante doit être réprimée."
+ nf_EUR.14.a:0 "Ecoutons la raison"
+ nf_EUR.14.b:0 "C'est un fou !"
+ 
+ nf_EUR.13.t:0 "Chancelier en Chef Schulz"
+ nf_EUR.13.d:0 "En ce jour, le conseil a élu un nouveau Chancelier en Chef qui peut prendre le contrôle du travail et fournir le soutien dont cette nation a besoin !"
+ nf_EUR.13.a:0 "Gloire à l'Europe !"
+ 
+ nf_EUR.15.t:0 "Une Union européenne"
+ nf_EUR.15.d:0 "L'Europe a fait face à ses problèmes avec la déclaration de ses citoyens mais aujourd'hui nous nous sommes finalement unifiés en une nation prospère !"
+ nf_EUR.15.a:0 "Gloire à l'Europe !"
+ 
+ nf_EUR.16.t:0 "Un allié uni contre le culte"
+ nf_EUR.16.d:0 "Ensemble, nous pouvons nous unir contre le Grand Culte du Ver pour les empêcher de pénétrer dans nos territoires et, avec un peu de chance, nous pourrons même les détruire."
+ nf_EUR.16.a:0 "Ensemble, nous sommes plus forts".
+ 
+ nf_EUR.17.t:0 "Ils refusent"
+ nf_EUR.17.d:0 "Ils ont refusé notre proposition d'alliance. Peut-être qu'à l'avenir ils seront assez intelligents pour réaliser les avantages d'une union".
+ nf_EUR.17.a:0 "Une honte !"
+ 
+ nf_EUR.18.t:0 "Où mettre nos centres d'intérêt ?"
+ nf_EUR.18.d:0 "Nous devons décider où consacrer notre force industrielle. Si nous optons pour une meilleure construction, nous risquons de souffrir de notre rendement et vice versa".
+ nf_EUR.18.a:0 "Notre construction"
+ nf_EUR.18.b:0 "Notre production"
+ 
+ nf_EUR.19.t:0 "Discours de Schulz"
+ nf_EUR.19.d:0 "Hier, le Chancelier Schulz a fait un discours inspirant les gens à prendre les armes et à défendre notre nation. Une de ses citations a retenu l'attention des gens; "Europe ne tombera jamais, nous ne nous rendrons jamais, nous nous battrons si nécessaire seuls, si nécessaire... jusqu'au dernier souffle".
+ nf_EUR.19.a:0 "Un leader fort"
+ 
+ nf_EUR.20.t:0 "Accord commercial hanséatique"
+ nf_EUR.20.d:0 "La Hansa a accepté un accord commercial, contre un paiement temporaire. Ils amélioreront notre industrie civile ou militaire. C'est à nous de choisir..."
+ nf_EUR.20.a:0 "Investissement militaire"
+ nf_EUR.20.b:0 "Investissement civil""
+ 
+ EUR_MIL_PACT_NAME:0 "Pacte militaire européen"
+ 
+ nf_EUR.21.t:0 "Ministres européens dénoncés"
+ nf_EUR.21.d:0 "Des nouvelles manifestations ont révélé des secrets sur des ministres européens, ce qui a fortement nui à la réputation des démocrates, car cela prouve à quel point ils peuvent être facilement corrompus."
+ nf_EUR.21.a:0 "Pour Europa !"
+
+ nf_EUR.22.t:0 "Exposition militaire"
+ nf_EUR.22.d:0 "Les manifestants ont fait une démonstration. Ils ont montré leur puissance contre le Conseil et la faiblesse du conseil à contrôler le pays."
+ nf_EUR.22.a:0 "Pour Europa !"
+
+ nf_EUR.23.t:0 "Émeutes contre le Conseil"
+ nf_EUR.23.d:0 "Les gens se sont rassemblés dans les tunnels du métro pour protester contre le pouvoir du Conseil."
+ nf_EUR.23.a:0 "Pour Europa !"
+
+ nf_EUR.25.t:0 "Le coup d'État de Bianachi"
+ nf_EUR.25.d:0 "Bianachi prend d'assaut le Conseil et prend sa place. Il envahit l'Europe pour en faire un nouvel État militaire avec l'idée d'en faire la nouvelle "Rome"."
+ nf_EUR.25.a:0 "Pour Europa !"
+
+ nf_EUR.24.t:0 "Coup d'Etat militaire"
+ nf_EUR.24.d:0 "Des émeutiers militaristes ont pris d'assaut le Conseil et ont pris place, souhaitant faire d'Europa un État plus puissant dans le métro et capable de survivre."
+ nf_EUR.24.a:0 "Pour Europa !"
+
+ nf_EUR.26.t:0 "Se débarrasser des concepts de ''Rome''"
+ nf_EUR.26.d:0 "Si nous devons nous concentrer sur nous-mêmes et sur nos progrès en tant que puissance militaire, nous devons nous débarrasser de ces idées stupides de Rome."
+ nf_EUR.26.a:0 "Bon débarras"
+
+ nf_EUR.27.t:0 "Une nouvelle direction"
+ nf_EUR.27.d:0 "Les citoyens originaires de l'Est ont remporté le référendum qui décident de ramener Europa sur les idées de l'URSS et l'égalité des droits pour tous."
+ nf_EUR.27.a:0 "Pour Europa!"

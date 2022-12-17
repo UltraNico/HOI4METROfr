@@ -1,0 +1,77 @@
+﻿l_french:
+ BULLETS_TOOLTIP_BASE:0 "[?bullet]"
+ BULLETS_MAIN:0 "[?bullet]"
+ BULLETS_TOOLTIP:0 "Revenu hebdomadaire §G[?net_income]§! Boîtes de munitions.\n\nRevenu brut §G[?gross_income]§!\nGain hebdomadaire des taxes de station §G[?num_controlled_stations]§!\nGain hebdomadaire des taxes d'atelier §G[?num_of_available_civilian_factories]§!\n\nDépenses hebdomadaires des salaires de l'armée §R[?num_controlled_battalion]§! \n\n Les Balles constituent la monnaie du métro. Les balles sont obtenues en §YTaxes sur les stations§! et en filiales de§YComplexe industriel§!. Ils peuvent également être utilisés dans le cadre d'événements et de décisions publique."
+ ##[Root.GetBulletsTooltip]## for future ref
+
+ metro_ruins:0 "Ruines du métro"
+ metro_ruins_desc:0 "Des kilomètres de pistes, une multitude de passages sinueux et entrelacés qui pénètrent dans les recoins sombres de la terre. Des ténèbres décrépies étouffant les bêtes oubliées et les âmes agitées des condamnés. C'est maintenant votre maison."
+
+ hanza_redline_war:0 "L'héritage de la guerre Hansa-Ligne Rouge"
+ hanza_redline_war_desc:0 "Le conflit le plus sanglant que le Métro ait connu depuis l'apocalypse. La guerre s'est déroulée entre la §YLigue hanséatique§!, avec la §BCoalition Anticommuniste§! comme un moyen d'étouffer la puissance et le pouvoir sans cesse croissants de la Ligne §RSokolnicheskaya§!. La guerre s'est rapidement transformée en un véritable carnage ; des engagements en va-et-vient, des guérillas, des stations et des tunnels entiers jonchés de tours de cadavres. Un camp prenait le contrôle d'une station, pour être repoussé le même jour. Lentement, la guerre est devenue fatigante, épuisant les ressources et la population du métro. Les citoyens des deux camps s'agitent et sont épuisés par la guerre. Il est clair qu'aucun des deux camps n'obtiendra la victoire. Alors que le véritable vainqueur peut être considéré comme étant la §YHanaa§! - que leurs intérêts à contenir la §RLigne Rouge§! et soumettre complètement la §YLigne Koltsevaya§! a été atteint, il est clair que les cicatrices de ce conflit horrible sont toujours présentes chez les habitants du métro.\n\n Il faudra un certain temps avant que nos citoyens soient prêts à s'engager dans l'armée."
+ 
+ ### Tech Ideas
+ 
+ tech_punch_press_1: "Presses à découper de base"
+ 
+ tech_punch_press_2: "Presses à découper médiocres"
+ 
+ tech_punch_press_3: "Presses à découper de qualité" 
+ 
+ tech_punch_press_4: "Presses à découper avancées"
+
+ metro_rat_infestation: "Infestations de rats"
+
+ metro_caravan_ambush: "Embuscade de caravanes"
+
+ metro_fallow_crops: "Cultures en jachère"
+
+ metro_the_good_stuff: "Les bonnes choses"
+
+ ## Scavenging Rewards ## 
+
+ scavenging_eq_gun_production_buff:0 "Schémas de production d'armes"
+ scavenging_eq_gun_production_buff_desc:0 ""
+
+ scavenging_eq_gun_stat_buff:0 "Cache de munitions de qualité militaire"
+ scavenging_eq_gun_stat_buff_desc:0 ""
+
+ scav_reward_eq_spec_ops_production_buff:0 "Rouleaux en fibre polymère"
+ scav_reward_eq_spec_ops_production_buff_desc:0 ""
+
+ scav_reward_eq_spec_ops_stat_buff:0 "Caisses de masques à gaz"
+ scav_reward_eq_spec_ops_stat_buff_desc:0 ""
+
+ scav_reward_eq_flamethrower_production_buff:0 "Barils de carburant"
+ scav_reward_eq_flamethrower_production_buff_desc:0 ""
+
+ scav_reward_eq_flamethrower_stat_buff:0 "Réservoirs d'essence"
+ scav_reward_eq_flamethrower_stat_buff_desc:0 ""
+
+ scav_reward_eq_gatling_production_buff:0 "Kits d'assemblage de barils"
+ scav_reward_eq_gatling_production_buff_desc:0 ""
+
+ scav_reward_eq_gatling_stat_buff:0 "Réserve de pièces de visée"
+ scav_reward_eq_gatling_stat_buff_desc:0 ""
+
+ scav_reward_eq_explosive_production_buff:0 "Stockage de pièce de lance-missile"
+ scav_reward_eq_explosive_production_buff_desc:0 ""
+
+ scav_reward_eq_explosive_stat_buff:0 "Pilules explosives"
+
+ scav_reward_resource_scrap_timed_idea:0 "Dépôt de ferraille"
+ scav_reward_resource_scrap_timed_idea_desc:0 ""
+
+ scav_reward_resource_electronics_timed_idea:0 "Dépôt d'alliage"
+ scav_reward_resource_electronics_timed_idea_desc:0 ""
+
+ country_resource_electronics:0 "Dépôt électronique"
+ country_resource_electronics_desc:0 ""
+
+ scav_reward_resource_components_timed_idea:0 "Réserve de matériel"
+ scav_reward_resource_electronics_timed_idea_desc:0 ""
+
+ scav_reward_resource_chemicals_timed_idea:0 "Réserve Chimique"
+ scav_reward_resource_chemicals_timed_idea_desc:0 ""
+
+ 

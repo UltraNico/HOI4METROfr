@@ -1,0 +1,119 @@
+﻿l_french:
+ conscripted_militia: "Milice de conscrits"
+
+ standing_force: "Force permanente"
+
+ mandatory_service: "Service obligatoire"
+
+ all_adults: "Tous les adultes"
+
+ young_and_old: "Jeunes et vieux"
+
+ all_serve: "Mobilisation générale"
+
+
+ ## CIVICS ##
+
+ civics: "Politiques & Éthiques"
+
+ civics_work_ethics: "Éthique du travail"
+
+ civics_work_ethics_1: "Heures de loisirs"
+ civics_work_ethics_1_desc: "Notre communauté prévoit des heures entre les quarts de travail et la charge de travail pour permettre à nos citoyens de se détendre, où les gens peuvent s'adonner à d'autres activités non liées au travail. Nous ne devons pas oublier comment le mot humain sonne, et ce que ce mot signifie dans ce monde en décomposition."
+
+ civics_work_ethics_2: "Dispenses de travail"
+ civics_work_ethics_2_desc: "Les habitants sont censés travailler un nombre requis de quarts de travail. Cependant, des exemptions peuvent être accordées à certains groupes et peuples. A savoir les personnes âgées, fragiles, malades et jeunes."
+
+ civics_work_ethics_3: "Tout le monde travaille"
+ civics_work_ethics_3_desc: "Chaque personne est censée gagner sa part. Elle aide et soutient la communauté et doit travailler pour conserver sa place. N'oubliez pas, pas de relâchement."
+
+ civics_work_ethics_4: "Travail clandestin"
+ civics_work_ethics_4_desc: "Vous ne travaillez pas si vous ne transpirez pas."
+
+ civics_work_ethics_5: "Esclavage"
+ civics_work_ethics_5_desc: "Là où il y a un fouet, il y a un travailleur. Travailler toute la journée à l'établi, ou dans les champs et les forges. Si la situation actuelle ne vous a pas encore brisé, la servitude le fera."
+
+ civics_rationing: "Rationnement"
+
+ civics_rationing_1: "Demi-rations"
+ civics_rationing_1_desc: ""
+
+ civics_rationing_2: "Rationnement normal"
+ civics_rationing_2_desc: ""
+
+ civics_rationing_3: "Rations doubles"
+ civics_rationing_3_desc: ""
+
+ civics_support: "Réseaux de soutien"
+
+ civics_support_1: "Pas de soutien"
+ civics_support_1_desc: "Avec la situation économique actuelle, nous ne pouvons pas nous permettre de donner une pension à tous les clochards et vagabonds. Nous ne sommes pas à la tête d'une coopérative ici. Ils vont devoir travailler pour gagner leur vie comme tout le monde."
+
+ civics_support_2: "Soutien communautaire"
+ civics_support_2_desc: "Les malades, les vagabonds et les personnes dans le besoin peuvent être pris en charge par la communauté. Il faut un village pour élever un enfant, il faut donc une communauté pour soutenir ceux qui ne peuvent pas se soutenir eux-mêmes."
+
+ civics_support_3: "Pensions"
+ civics_support_3_desc: "Nous pouvons au moins nous permettre de donner à ceux qui en ont le plus besoin des soins de qualité. Que ce soit des commodités comme la nourriture, des vêtements de rechange ou l'accès à un logement. Nous pouvons aider ceux qui en sont incapables à se remettre sur pied."
+
+ civis_property: "Propriété"
+
+ civics_property_1: "Propriété privée"
+ civics_property_1_desc: ""
+
+ civics_property_2: "Biens personnels"
+ civics_property_2_desc: ""
+
+ civics_property_3: "Propriété en accès libre"
+ civics_property_3_desc: ""
+
+ civics_property_4: "Propriété communale"
+ civics_property_4_desc: ""
+
+ civics_border: "Sécurité des frontières"
+
+ civics_border_1: "Accès libre"
+ civics_border_1_desc: ""
+
+ civics_border_2: "Heures d'ouverture"
+ civics_border_2_desc: ""
+
+ civics_border_3: "Exigences relatives aux passeports"
+ civics_border_3_desc: ""
+
+ civics_border_4: "Isolationnisme"
+ civics_border_4_desc: ""
+
+ civics_education: "Éducation"
+
+ civics_education_0: "Endoctrinement des enfants"
+ civics_education_0_desc: "Les enfants doivent être endoctrinés dans notre mode de vie. Formés pour être obéissants à notre ordre et à notre façon de faire."
+
+ civics_education_1: "Éducation rudimentaire"
+ civics_education_1_desc: "Alors que nos bibliothèques et nos écoles n'égaleront jamais celles de Polis ou des bibliothèques de l'ancien monde. Nous pouvons au moins les héberger avec tous les livres et enregistrements que nous possédons. L'humanité doit être préservée."
+
+ civics_education_2: "Alphabétisation de base"
+ civics_education_2_desc: "Nous pouvons au moins nous permettre de donner à une bonne partie de nos citoyens au moins les bases d'une éducation. Nous ne sommes pas des sauvages."
+
+ civics_education_3: "Éducation des enfants"
+ civics_education_3_desc: "S'il est impossible de donner une éducation de base à chacun de nos citoyens, nos enfants peuvent au moins en avoir un semblant. Alphabétisation, arithmétique et autres enseignements rudimentaires. Nous ne pouvons pas nous permettre que l'étincelle de l'humanité s’éteigne."
+
+ civics_education_4: "Pas d'éducation"
+ civics_education_4_desc: "Nous avons des putains de choses qui rampent de chaque crevasse et fossé, prêtes à nous engloutir et vous voulez apprendre ce qu'est la capitale de la France ? Les bases de l'arithmétique ? Dostoïevski ? Ça ne va rien faire pour empêcher ces monstres d'enfoncer nos portes."
+
+ metro_no_occupation: "Pas d'occupation"
+
+ metro_tunnel_sentries: "Sentinelles de tunnels"
+
+ metro_militia_oversight: "Contrôle de la milice"
+
+ metro_curfew: "Couvre-feu pour les citoyens"
+
+ metro_martial_law: "Loi martiale"
+
+ metro_forced_work: "Travail forcé"
+
+
+
+
+
+

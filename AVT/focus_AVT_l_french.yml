@@ -1,0 +1,214 @@
+﻿l_french:
+  communist_introduction:0 "La Première Brigade Internationale Che Guevara"
+  communist_introduction_desc:0 "Sous le commandement du Commissaire Rusakov, la brigade sillonne presque tout le métro, réalisant des activités de soutien armé et portant la guerre jusqu'à la porte du Reich."
+  
+  communist_collectivization:0 "Collectivisation"
+  communist_collectivization_desc:0 "De grands progrès doivent être faits pour organiser et gérer correctement notre station. Comment allons-nous lutter contre les pouvoirs en place, si nous ne pouvons pas coopérer efficacement parmi toutes les facettes de notre société ?"
+
+  communist_gas_lighting:0 "Appareils d'éclairage au gaz"
+  communist_gas_lighting_desc:0 "On ne sait pas exactement ce qui se cache dans l'obscurité. Qu'il s'agisse de ceux qui cherchent à dépouiller la révolution ou de plus sinistres encore. Nous devons rester vigilants. L'installation d'un éclairage approprié servirait mieux les rotations entre nos postes de gardes."
+
+  communist_preliminary_defences:0 "Stockades préliminaires"
+  communist_preliminary_defences_desc:0 "L'ennemi peut frapper à tout moment et en tout lieu. Il serait sage de préparer des structures défensives."
+
+  communist_tunnel_clearing:0 "Nettoyage des tunnels"
+  communist_tunnel_clearing_desc:0 "On peut supposer que nos opérations s'étendront dans tout le métro. Mais nous ne devons pas être pris au dépourvu par des attaques surprises. Avoir une connaissance détaillée de notre propre zone locale serait un bon plan."
+
+  communist_infrastructure_3:0 "Développement des infrastructures"
+  communist_infrastructure_3_desc:0 "Cela fait 20 ans que le métro n'a pas fait l'objet d'un entretien de routine et des fissures commencent à apparaître. D'après les estimations actuelles, un effondrement du tunnel pourrait se produire à tout moment, ce qui réduirait considérablement nos opérations et risquerait de nous couper du métro. Des barrières et des supports appropriés doivent être érigés immédiatement."
+
+  communist_population_build_slots:0 "Assurer le passage en toute sécurité des réfugiés"
+  communist_population_build_slots_desc:0 "Nous ne sommes pas seulement une force révolutionnaire - Nous construisons une société pour demain, construite par les mains des gens d'aujourd'hui. Les pauvres, les affamés et les malades peuvent venir en sachant qu'ils seront tranquilles."
+
+  communist_industry_2:0 "Planification des stations"
+  communist_industry_2_desc:0 "Bien sûr, nous ne pouvons pas nous contenter de créer des ateliers et des logements sans tenir compte de l'espace. Il faut adopter une attitude globale pour établir de nouvelles bases. Maximiser au mieux l'espace limité dont nous disposons."
+
+  communist_industry_3:0 "Formation de technicien"
+  communist_industry_3_desc:0 "Bien sûr, aller du point A au point B dans le métro est un effort de longue durée. Il serait beaucoup plus rapide et plus facile d'y arriver avec un wagon. Le problème est que la plupart des chariots et des draisines que nous avons trouvés sont en train de rouiller. Heureusement, nous connaissons la bonne personne pour nous aider à les réparer."
+
+  communist_using_the_terminal:0 "Craquage d'ordinateur"
+  communist_using_the_terminal_desc:0 "Un commerçant nous a proposé une bonne affaire pour ce vieil ordinateur. Apparemment, il a été pris à un ancien officier du Commandement Central Métropolitain. Les informations à l'intérieur de l'ordinateur sont cryptées et le commerçant en a assez d'essayer de les décrypter. Nous pourrions être en mesure de les craquer."
+
+  communist_scrapping_for_parts:0 "Mise au rebut de pièces détachées"
+  communist_scrapping_for_parts_desc:0 "Malgré leurs anciennetés, elles sont dans un état remarquable. Ces pièces seraient mieux utilisées ailleurs."
+ 
+
+  communist_industry_5:0 "Mettre l'ordinateur à profit"
+  communist_industry_5_desc:0 "C'est assez fou ce que ces vieux ordinateurs peuvent faire. Presque vénéré comme un ancien artefact mystique par les jeunes. Nous pouvons l'utiliser à bon escient en contribuant aux efforts de R&D."
+
+  communist_industry_6:0 "Récupération de l'ancien outillage"
+  communist_industry_6_desc:0 "Malgré leurs anciennetés, les vieux outils et équipements conservent une qualité remarquables. Comme le dit le dicton, ''si ce n'est pas cassé...''".
+
+  communist_community_resource_share:0 "Centre de ressources communautaires"
+  communist_community_resource_share_desc:0 "Le partage des ressources entre toutes les branches de notre communauté permettrait de mieux les attribuer là où elles sont le plus nécessaires et d'alimenter efficacement notre économie."
+
+  communist_equal_duty:0 "Devoirs égaux"
+  communist_equal_duty_desc:0 "Chaque membre de notre communauté, indépendamment de sa taille, de son âge ou de ses capacités, est appelé à aider les autres pour le bien de tous."
+
+  communist_getting_the_good_stuff:0 "Obtenir les meilleures conditions"
+  communist_getting_the_good_stuff_desc:0 ""
+
+  communist_equal_duty_2:0 "Radio de propagande"
+  communist_equal_duty_2_desc:0 ""
+
+  communist_socialist_science:0 "Amélioration des efforts de R&D"
+  communist_socialist_science_desc:0 ""
+
+  communist_socialist_science_2:0 "Saccager le laboratoire"
+  communist_socialist_science_2_desc:0 ""
+
+  communist_eco_buff:0 "Économie de la Guérilla"
+  communist_eco_buff_desc:0 ""
+
+  communist_eco_idea:0 "Économie Socialiste"
+  communist_eco_idea_desc:0 ""
+
+  communist_eco_idea_1:0 "Soutenir la communauté"
+  communist_eco_idea_1_desc:0 ""
+
+  communist_eco_idea_2:0 "La communauté qui soutient"
+  communist_eco_idea_2_desc:0 ""
+
+  communist_industry_tech_buff_1:0 "Remise à neuf des vieux billets"
+  communist_industry_tech_buff_1_desc:0 ""
+
+  communist_industry_tech_buff_2:0 "Des outils modernes pour un peuple moderne"
+  communist_industry_tech_buff_2_desc:0 ""
+
+  communist_industry_tech_buff_3:0 "Fabriquer des outils"
+  communist_industry_tech_buff_3_desc:0 ""
+
+  communist_industry_tech_buff_4:0 "Travail d'amour"
+  communist_industry_tech_buff_4_desc:0 ""
+
+  communist_eco_idea_buff_1:0 "Effort Collectif Commun"
+  communist_eco_idea_buff_1_desc:0 ""
+
+  communist_eco_idea_buff_2:0 "Ateliers Spécialisés"
+  communist_eco_idea_buff_2_desc:0 ""
+
+  communist_eco_idea_buff_3:0 "Plus d'espace, plus de stations"
+  communist_eco_idea_buff_3_desc:0 ""
+
+  communist_eco_idea_buff_4:0 "Révolution de l'industrie"
+  communist_eco_idea_buff_4_desc:0 ""
+
+  communist_world_tension_unlock:0 "Guerre à l'horizon"
+  communist_world_tension_unlock_desc:0 ""
+
+  communist_doctrine_1:0 "Analyser les programmes de combat"
+  communist_doctrine_1_desc:0 ""
+
+  communist_mobilise_army:0 "Mobiliser la Brigade"
+  communist_mobilise_army_desc:0 ""
+
+  communist_train_red_line:0 "Opérations conjointes avec Sokolnicheskaya"
+  communist_train_red_line_desc:0 ""
+
+  communist_our_own_advisors:0 "Notre propre voie"
+  communist_our_own_advisors_desc:0 ""
+
+  communist_our_own_advisors_2:0 "Le véhicule tout-terrain"
+  communist_our_own_advisors_2_desc:0 ""
+
+  communist_our_own_advisors_3:0 "Chercheur de pénitence"
+  communist_our_own_advisors_3_desc:0 ""
+
+  communist_train_red_line:0 "Agent de liaison pour les missions de combat".
+  communist_train_red_line_desc:0 ""
+
+  communist_train_red_line_2:0 "Exercices de routine"
+  communist_train_red_line_2_desc:0 ""
+
+  communist_train_red_line_3:0 "Guerres du passé pour demain"
+  communist_train_red_line_3_desc:0 ""
+
+  communist_perfect_force:0 "L'armée du peuple"
+  communist_perfect_force_desc:0 ""
+
+  communist_recruitment_1:0 "Hisser le drapeau rouge"
+  communist_recruitment_1_desc:0 ""
+
+  communist_recruitment_2:0 "...pour le monde de demain"
+  communist_recruitment_2_desc:0 ""
+
+  communist_recruitment_3:0 "...Pour le monde d'aujourd'hui"
+  communist_recruitment_3_desc:0 ""
+
+  communist_recruitment_4:0 "Pourquoi devons-nous se battre ?
+  communist_recruitment_4_desc:0 ""
+
+  communist_military_1:0 "Stockage d'armes"
+  communist_military_1_desc:0 ""
+
+  communist_military_2:0 "Un métier de quartier-maître"
+  communist_military_2_desc:0 ""
+
+  communist_military_0:0 "Autosuffisance"
+  communist_military_0_desc:0 ""
+
+  communist_contact_BAU:0 "Contacter Baumanskaya"
+  communist_contact_BAU_desc:0 ""
+
+  communist_our_own_technicians:0 "Nos propres techniciens"
+  communist_our_own_technicians_desc:0 ""
+
+  communist_contact_KUZ:0 "Contacter Kuznetsky-Most"
+  communist_contact_KUZ_desc:0 ""
+
+  communist_gun_buff:0 "Armes à feu améliorées"
+  communist_gun_buff_desc:0 ""
+
+  communist_weapon_research_speed:0 "De meilleurs schémas"
+  communist_weapon_research_speed_desc:0 ""
+
+  communist_tech_buff_1:0 "Ce qui persiste dans l'obscurité..."
+  communist_tech_buff_1_desc:0 ""
+
+  communist_tech_buff_2:0 "Masques à gaz améliorés"
+  communist_tech_buff_2_desc:0 ""
+
+  communist_tech_buff_3:0 "Missions de reconnaissance en surface"
+  communist_tech_buff_3_desc:0 ""
+
+  communist_tech_buff_4:0 "Stalkers Rouges"
+  communist_tech_buff_4_desc:0 ""
+
+  communist_expanding_the_depot:0 "Réparation des draisines"
+  communist_expanding_the_depot_desc:0 ""
+
+  communist_first_interstational_brigade:0 "Première Brigade Internationale Mécanisée"
+  communist_first_interstational_brigade_desc:0 ""
+
+  AVT_reforming_inner_sphere:0 "Réformer la sphère intérieure"
+  AVT_reforming_inner_sphere_desc:0 ""
+
+  AVT_Anatoly_takes_helm:0 "Anatoly devient chef temporaire"
+  AVT_Anatoly_takes_helm_desc:0 ""
+
+  AVT_move_south:0 "Déplacement vers le Sud"
+  AVT_move_south_desc:0 ""
+
+  AVT_guerilla_tactics:0 "Tactiques de Guérilla"
+  AVT_guerilla_tactics_desc:0 ""
+
+  politics_communism_establish_bases:0 "Établir des bases avancées"
+  politics_communism_establish_bases_desc:0 ""
+
+  politics_improve_relations:0 "Améliorer notre réputation"
+  politics_improve_relations_desc:0 ""
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+

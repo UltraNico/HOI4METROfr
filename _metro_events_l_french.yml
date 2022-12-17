@@ -1,0 +1,31 @@
+﻿l_french:
+ nf_metro.1.t:0 "Bienvenue sur le mode Métro !"
+ nf_metro.1.d:0 "Bienvenue sur le mode Métro HOI4. Le mod est actuellement en phase de développement Early Alpha. A partir de la version initiale, le mod est travaillé par un seul développeur. Gardez donc cela à l'esprit si vous rencontrez l'un des nombreux bugs, des problèmes de rupture de jeu ou d'autres problèmes involontaires. Les mises à jour et les corrections devraient être progressivement déployées au fil du temps. Avec des mises à jour de contenu décentes toutes les deux semaines environ, espérons-le. \n Si vous rencontrez des bugs ou des problèmes, veuillez le faire savoir dans le Discord ou sur Steam. Ou si vous voulez faire des suggestions ou des critiques constructives. Tout est accepté. \n J'espère que vous apprécierez le mode ! \n- Albanian."
+ nf_metro.1.a:0 "Merci"
+ nf_metro.1.b:0 "Feuille de route"
+
+ nf_metro.2.t:0 "Feuille de route"
+ nf_metro.2.d:0 "§RVeuillez noter que cette liste est susceptible d'être modifiée et complétée au fil du temps. Rien de ce qui est listé n'est définitif!§!.\n\nUPDATE 1 (Planned ETA §Rlate September / Post BBA DLC§! )\n\n-- Focus Tree for Che Guevara First International Brigade (Revolutionists)\n-- Fixes & Further Additions for the Red Line\n\nUPDATE 2 (Planned ETA §ROctober / November§! )\n\n-- Focus Tree for Arbat Confederation\n-- Implementation of LR espionage mechanics\n\nUPDATE 3 (Planned §RETA December / Early 2023§!)\n\n-- Overhaul of the Fourth Reich\n-- Focus Tree for The 1905 Confederation\n\nUPDATE 4 (Planned ETA §REarly 2023§!)\n\n-- Focus Tree for Satanist\n-- Focus Tree for Islamic Caliphate\n"
+
+ scavenge_mission.2.t:0 "L'équipe expéditionnaire a échoué"
+ scavenge_mission.2.d:0 "L'équipe d'expédition est revenue, mais la queue entre les jambes. Ils n'ont pas réussi à explorer et à récupérer ce que nous espérions."
+ scavenge_mission.1.t:0 "Réussite de récupérations"
+ scavenge_mission.1.d:0 "La mission de récupération a été un succès. Nos Stalkers sont revenus avec des biens et des équipements rapportés de la surface. En plus de cela, ils se rappellent avoir découvert 3 endroits distincts dans les ruines de Moscou où nous pouvons envoyer d'autres expéditions. Cependant, ils croient que, compte tenu de la nature agressive de la surface, la plupart des découvertes seront dépouillées ou les repères seront brouillés par le climat violent. Nous ne pouvons choisir qu'un seul de ces 3 points d'intérêt pour y envoyer une expédition."
+
+ scavenge_mission.1.a:0 "Ressources"
+ scavenge_mission.1.b:0 "Technologie"
+ scavenge_mission.1.c:0 "Équipement"
+ 
+ ### Reclaimation Events
+ 
+ reclaimation_event.2.t:0 "Territoire métropolitain reconstitué"
+ reclaimation_event.2.d:0 "Les colons que nous avons envoyés dans le métro sont revenus victorieux et ont réussi à s'emparer d'une plus grande partie du métro, ce qui nous a permis de progresser et de défendre notre cause."
+ reclaimation_event.2.a:0 "Bien joué"
+ 
+ reclaimation_event.mutants.t:0 "Attaques de mutants"
+ reclaimation_event.mutants.d:0 "Les colons que nous avons envoyés dans le métro, s'ils devaient revenir, reviendront dans des sacs mortuaires. Des mutants féroces ont attaqué notre équipe, tuant la plupart d'entre eux. Cette perte ne sera pas vaine."
+ reclaimation_event.mutants.a:0 "Une triste journée"
+ 
+ reclaimation_event.lost.t:0 "Perte dans le métro"
+ reclaimation_event.lost.d:0 "Notre équipe de colonisation a été perdue, nous n'avons reçu aucune communication d'eux et devons donc les présumer morts. Cette perte ne sera pas oubliée."
+ reclaimation_event.lost.a:0 "Une triste journée"

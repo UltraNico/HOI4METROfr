@@ -1,0 +1,206 @@
+﻿l_french:
+
+ RUS:0 "Russie"
+ RUS_DEF:0 "Forces résiduelles russes"
+ RUS_ADJ:0 "Russe"
+  
+ RED:0 "ligne Rouge"
+ RED_DEF:0 "La Ligne Rouge"
+ RED_ADJ:0 "Communiste"
+
+ RCH:0 "IVe Reich"
+ RCH_DEF:0 "Le IVe Reich"
+ RCH_ADJ:0 "Nazi"
+
+ HNZ:0 "Hansa"
+ HNZ_DEF:0 "Communauté de la ligne circulaire"
+ HNZ_ADJ:0 "Hansa"
+
+ PLS:0 "Polis"
+ PLS_DEF:0 "Polis"
+ PLS_ADJ:0 "Polis"
+
+ MUT:0 "Mutants"
+ MUT_DEF:0 "Stations contrôlées par les mutants"
+ MUT_ADJ:0 "Mutant"
+
+ ARB:0 "Arbatskaya"
+ ARB_DEF:0 "Confédération de l'Arbat"
+ ARB_ADJ:0 "Arbat"
+
+ VDN:0 "VDNKh"
+ VDN_DEF:0 "VDNKh"
+ VDN_ADJ:0 "VDNKh"
+
+ KTG:0 "Kitay-Gorod"
+ KTG_DEF:0 "Kitay-Gorod"
+ KTG_ADJ:0 "Kitay-Gorod"
+
+ TRT:0 "Venice"
+ TRT_DEF:0 "Triangle des gangs, Alliance Tretyakovskaya"
+ TRT_ADJ:0 "Venise"
+
+ ULI:0 "Confédération 1905"
+ ULI_DEF:0 "La COnfédération 1905"
+ ULI_ADJ:0 "Ulitsa 1905"
+
+ BAU:0 "Alliance Bauman"
+ BAU_DEF:0 "Alliance Baumanskaya"
+ BAU_ADJ:0 "Baumanskaya"
+
+ MSU:0 "Cité d'Émeraude"
+ MSU_DEF:0 "Université d'État de Moscou"
+ MSU_ADJ:0 "Cité d'Émeraude"
+
+ GWC:0 "Culte du Grand Ver"
+ GWC_DEF:0 "Les cannibales sauvages du culte du grand vers"
+ GWC_ADJ:0 "Cultiste"
+
+ HMS:0 "Société des Humains-Mutants"
+ HMS_DEF:0 "La société des humains-mutants"
+ HMS_ADJ:0 "Société des Humains-Mutants"
+
+ MIT:0 "Communauté de Mitino"
+ MIT_DEF:0 "La Communauté de Mitino"
+ MIT_ADJ:0 "Mitino"
+
+ EUR:0 "Communauté Europe
+ EUR_DEF:0 "Communauté "Europe""
+ EUR_ADJ:0 "Europe"
+
+ KRY:0 "Unité de Krylatskoe"
+ KRY_DEF:0 "L'Unité de Krylatskoe"
+ KRY_ADJ:0 "Krylatskoe"
+
+ BRK:0 "Fermes & Usines"
+ BRK_DEF:0 "L'Association des Fermes Libres, Fermes et kolkhozes"
+ BRK_ADJ:0 "Fermes & Usines"
+
+ HUL:0 "République Houliaïpole"
+ HUL_DEF:0 "La République Houliaïpole"
+ HUL_ADJ:0 "Anarchiste"
+
+ DIM:0 "Alliance Dimitrovskaya"
+ DIM_DEF:0 "L'alliance Dimitrovskaya"
+ DIM_ADJ:0 "Dimitrovskaya"
+
+ SAT:0 "Satanistes"
+ SAT_DEF:0 "Les Satanistes"
+ SAT_ADJ:0 "Satanistes"
+
+ ISL:0 "Émirat du Nord"
+ ISL_DEF:0 "Le califat islamique du Nord"
+ ISL_ADJ:0 "Islamiste"
+
+ SCA:0 "République des Stations Scaven"
+ SCA_DEF:0 "République des Stations Scaven"
+ SCA_ADJ:0 "Scaven"
+
+ ALT:0 "Peuple libre d'Altufyevskaya
+ ALT_DEF:0 "Altufuevskaya"
+ ALT_ADJ:0 "Altufyevo"
+
+ YAS:0 "Communauté Yasenevskaya"
+ YAS_DEF:0 "La Communauté Yasenevskaya"
+ YAS_ADJ:0 "Yasenevskaya"
+
+ SEV:0 "Sevastopolskaya"
+ SEV_DEF:0 "Centrale hydroélectrique de Sevastopolskaya"
+ SEV_ADJ:0 "Sevastopolskaya"
+
+ MDR:0 "République de Pervomaiskaya"
+ MDR_DEF:0 "La République de Pervomaiskaya"
+ MDR_ADJ:0 "République de Pervomaiskaya"
+
+ KAL:0 "Confédération de Kalininskaya"
+ KAL_DEF:0 "La Confédération de Kalininskaya"
+ KAL_ADJ:0 "Kalininskaya"
+
+ PEC:0 "Confédération Pechatniki"
+ PEC_DEF:0 "La Confédération Pechatniki"
+ PEC_ADJ:0 "Pechatniki"
+
+ TSH:0 "Tushino"
+ TSH_DEF:0 "La ville libre de Tushino"
+ TSH_ADJ:0 "Tushino"
+
+ RYZ:0 "Communauté Riazan"
+ RYZ_DEF:0 "La Communauté Riazan"
+ RYZ_ADJ:0 "Riazan"
+
+ ATQ:0 "Antiquaires"
+ ATQ_DEF:0 "Les Antiquaires"
+ ATQ_ADJ:0 "Antiquaires"
+
+ KUZ:0 "Kuznetsky Most"
+ KUZ_DEF:0 "Les techniciens de la station Kuznetsky Most"
+ KUZ_ADJ:0 "Kuznetsky Most"
+
+ AVT:0 "Révolutionnaires"
+ AVT_DEF:0 "Les révolutionnaires de la gare d'Avtozavodskaya"
+ AVT_ADJ:0 "Révolutionnaires"
+
+ SUN:0 "Adorateurs du soleil"
+ SUN_DEF:0 "Les Adorateurs du soleil"
+ SUN_ADJ:0 "Adorateurs"
+
+ PAG:0 "Païens"
+ PAG_DEF:0 "Les Païens de la station Spartacus"
+ PAG_ADJ:0 "Paganistes"
+
+ MOB:0 "Crime Organisé"
+ MOB_DEF:0 "Les Bandits"
+ MOB_ADJ:0 "Bandits"
+
+ SPT:0 "L'Ordre"
+ SPT_DEF:0 "Les Rangers de l'Ordre"
+ SPT_ADJ:0 "Spartiates"
+
+ DMD:0 "Domodedovskaya"
+ DMD_DEF:0 "L'Alliance de Domodedovskaya"
+ DMD_ADJ:0 "Domodedovskaya"
+
+ SHD:0 "Shodnenskaya"
+ SHD_DEF:0 "L'Alliance de Shodnenskaya"
+ SHD_ADJ:0 "Shodnenskaya"
+
+ TRB:0 "Trubnaya"
+ TRB_DEF:0 "La Confédération de Trubnaya"
+ TRB_ADJ:0 "Trubnaya"
+
+ STG:0 "Strogino"
+ STG_DEF:0 "Station Strogino"
+ STG_ADJ:0 "Strogino"
+
+ RIZ:0 "Rizhskaya"
+ RIZ_DEF:0 "Communauté Rizhskaya"
+ RIZ_ADJ:0 "Rizhskaya"
+
+ ALK:0 "Alexeyevskaya"
+ ALK_DEF:0 "Communauté Alexeyevskaya"
+ ALK_ADJ:0 "Alexeyevskaya"
+
+ DRY:0 "Dry Station"
+ DRY_DEF:0 "Dry Station Bandits"
+ DRY_ADJ:0 "Bandits of Dry Station"
+
+ PVL:0 "Paveletskaya"
+ PVL_DEF:0 "Communauté Paveletskaya"
+ PVL_ADJ:0 "Paveletskaya"
+
+ RUI:0 "Ruines"
+ RUI_DEF:0 "Ruines"
+ RUI_ADJ:0 "Ruines"
+
+ SRA:0 "Agence de récupération du Sud"
+ SRA_DEF:0 "L'autorité de récupération du Sud"
+ SRA_ADJ:0 "Hanséatique"
+
+ PPL:0 "Révolutionnaires des Champignons"
+ PPL_DEF:0 "Les révolutionnaires des Champignon"
+ PPL_ADJ:0 "Revolteurs"
+
+ RMJ:0 "Junte militaire de la Ligne Rouge"
+ RMJ_DEF:0 "La junte militaire de la Ligne Rouge"
+ RMJ_ADJ:0 "Communiste"
+ 

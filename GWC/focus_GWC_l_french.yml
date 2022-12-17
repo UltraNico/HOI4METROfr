@@ -1,0 +1,241 @@
+﻿l_french:
+ GWC_followers_of_the_worm:0 "Les adeptes du Ver"
+ GWC_followers_of_the_worm_desc:0 "Nous sommes ses enfants. Nous sommes ceux qui écoutent et tiennent compte de sa volonté."
+
+ GWC_2:0 "Le Ver se cache"
+ GWC_2_desc:0 "C'est une époque de changement, notre chef regarde vers l'extérieur, vers le reste du monde métropolitain. L'humanité ne s'est pas encore débarrassée des péchés de l'ancien monde. Ce n'est que par notre voie que nous pourrons nous libérer de l'ignorance des civilisations."
+
+ GWC_left_path_1:0 "La loi du plus fort"
+ GWC_left_path_1_desc:0 "Dans un monde parfait, la guerre et les conflits n'existeraient pas. Mais ce n'est pas un monde parfait, et les êtres et âmes parfaits n'existent pas. La seule chose qui reste évidente est le règne des puissants sur les faibles."
+
+ GWC_all_to_muster:0 "Tous au rassemblement"
+ GWC_all_to_muster_desc:0 "Les adorateurs doivent répondre à l'appel du Ver. Alors que les ennemis empiètent sur notre territoire, notre mode de vie est en danger. Nous canalisons la volonté du Ver en nous. Nous devons sauvegarder tout ce qui est sacré."
+
+ GWC_against_all_odds:0 "Contre toute attente"
+ GWC_against_all_odds_desc:0 "Avec leur technologie et leur ignorance, ils croient qu'ils récupèrent la terre et restaurent la "civilisation". Deux fois plus fiers..."
+
+ GWC_ramp_up_production:0 "Accélérer la fabrication d'outilsg"
+ GWC_ramp_up_production_desc:0 "Il faut produire plus d'herminette et de sarbacanes pour nos guerriers."
+
+ GWC_mark_our_territory:0 "Marquer notre domaine"
+ GWC_mark_our_territory_desc:0 "Notre domaine est sacré, tout le sous-sol l'est. Mais pour effrayer les éventuels intrus, nous devons inspirer la peur et l'effroi dans les cœurs et les esprits de ceux qui veulent nous faire du mal."
+
+ GWC_preserved_meat:0 "Stocker des conserves de viande"
+ GWC_preserved_meat_desc:0 "Un espace de stockage doit être créé pour conserver les viandes en cas de conflit."
+
+ GWC_right_path_1:0 "L'esclavage païen"
+ GWC_right_path_1_desc:0 "Pourquoi se contenter de manger les païens quand on peut aussi les faire travailler à creuser, puis les manger ? Des mains supplémentaires sont toujours nécessaires."
+
+ GWC_learn_from_our_adversaries:0 "Histoires de chasse"
+ GWC_learn_from_our_adversaries_desc:0 "Bien qu'ils vivent dans le métro depuis plus de dix ans, les restes de l'humanité sont toujours superstitieux. Anxieux au moindre mouvement ou déplacement dans l'obscurité. La superstition et l'illusion des chasseurs de primes sévissent dans leur société."
+
+ GWC_right_path_3:0 "Mille et une façons de tuer"
+ GWC_right_path_3_desc:0 "Nos outils et nos armes doivent être produits avec des moyens plus élaborés pour porter des coups à nos ennemis. Tuer est un art en soi qui doit être pratiqué et affiné."
+
+ GWC_a_culture_of_blood:0 "Hémophilie"
+ GWC_a_culture_of_blood_desc:0 "Les coups et la torture font ressortir le goût succulent de la chair. Des pratiques spéciales sont conseillées et réalisées pour attendrir la viande de nos victimes."
+
+ GWC_spikier_clubs:0 "Des massues plus pointues"
+ GWC_spikier_clubs_desc:0 "Plus de pointes signifie plus de sang."
+
+ GWC_ravage_and_spoil:0 "Ravager et dépouiller"
+ GWC_ravage_and_spoil_desc:0 "Ravagez et dépouillez tous ceux qui entrent dans notre domaine !"
+
+ GWC_worm_skulks:0 "Le Ver nous fait signe"
+ GWC_worm_skulks_desc:0 "Le Ver demande aux enfants, ses enfants, de débarrasser le métro des non-croyants. Le temps de l'inaction est terminé. Cela doit être fait. La révérence et les chants malheureux sont prononcés en son nom. Ces chants s'échappent des murs en décomposition, se transformant en faibles hurlements et cris étouffés. Des gémissements d'innombrables gorges d'êtres vils peuvent être entendus. Les battements de tambour résonnent. Les stations voisines tremblent sous l'angoisse de ce qui va arriver."
+
+ GWC_KRY:0 "Les païens du Nord"
+ GWC_KRY_desc:0 "Krylatskoye est sous l'oeil vigilant de Vishin, son chef de station. Il dirige la station plus comme un campement militaire que comme une station normale. La peur et la paranoïa des ténèbres sont omniprésentes, et les mutants aperçus au sud font peur à ses habitants. Mais maintenant, ils ont quelque chose de plus à craindre."
+
+ GWC_adrenaline_rush:0 "Poussée d'adrénaline"
+ GWC_adrenaline_rush_desc:0 "La frénésie du combat, et le pur sentiment viscéral du conflit se précipitent à travers nos adorateurs. La catharsis de la chasse. Des victimes capturées et des païens à avaler et à manger."
+
+ GWC_head_on_stake:0 "Tête sur piquets"
+ GWC_head_on_stake_desc:0 "La station est dans notre ligne de mire. Leurs lampes fluorescentes au mercure sont tamisées au fond du tunnel. Les mutants sont le dernier de leurs problèmes maintenant."
+
+ GWC_head_trophy:0 "Trophée de tête"
+ GWC_head_trophy_desc:0 "Le chef de la station a opposé une forte résistance. Ses propres poings nus ont tué quelques-uns de nos fidèles, mais ce n'était pas suffisant. Déchiré membre par membre par une hachette. Sa puissance et sa férocité auraient fait de lui un guerrier remarquable. Au lieu de cela, il fera un beau trophée perché sur les murs de Parc de la Victoire."
+
+ GWC_a_great_feast:0 "Un grand festin"
+ GWC_a_great_feast_desc:0 "Les habitants de Krylatskoye ont péri. Ceux qui n'ont pas évacué les tunnels ont fait une dernière résistance, mais ce n'était pas suffisant. Abattus avec une facilité relative, les vieux et les mourants n'ont pas fait de formidables combattants."
+
+ GWC_padded_armor:0 "Armure osseuse"
+ GWC_padded_armor_desc:0 "Effrayant pour ceux qui n'ont jamais vu une cage thoracique grossièrement façonnée en plusieurs os. Avec des hanche et du tibia pour créer une image terrifiante lors d'une confrontation."
+
+ GWC_secret_tunnels:0 "Passages secrets"
+ GWC_secret_tunnels_desc:0 "Des sentiers secrets et des tunnels creusés par le Ver se trouvent juste sous nos pieds. Une chaîne enchevêtrée de chemins et de trous menant à travers les souterrains connus. Nous pouvons l'utiliser pour voyager et chercher de nouvelles victimes."
+
+ GWC_HMS:0 "La Menance Mutante"
+ GWC_HMS_desc:0 "Molodezhnaya abrite les humains qui ne sont pas morts de radiation mais qui ont succombé à bien pire. Défigurés et en désaccord avec le reste du métro, ils se retirent dans leur petit coin en espérant rester à l'écart de tout intrus potentiel."
+
+ GWC_rend_for_the_worm:0 "Rendement pour le ver"
+ GWC_rend_for_the_worm_desc:0 "Fendez, Déchirez, Rivez, Fendez et Déchirez au nom du Vers, allez-y et faites du mal aux païens !"
+
+ GWC_mutant_menace:0 "Éradiquer la menace"
+ GWC_mutant_menace_desc:0 "La menace mutante s'accroche encore à la notion d'humanité, allant même jusqu'à lire des extraits de manuscrits et de poèmes disparus depuis longtemps. Comme c'est malheureux, on pourrait considérer que les mutants pourraient devenir de dignes alliés du culte. Mais plus maintenant, malheureusement."
+
+ GWC_HMS_4:0 "Viande de cuir"
+ GWC_HMS_4_desc:0 "La viande de mutant est beaucoup plus rugueuse et coriace que la chair humaine traditionnelle. Mais néanmoins un délice apprécié par notre société."
+
+ GWC_spoils:0 "Un butin à prendre"
+ GWC_spoils_desc:0 "Les stations des païens est libre, les souterrains peuvent être utilisés. C'est un espace sacré, alors que le cœur battant du Ver grandit toujours plus, plus de feux et de tambours doivent battre en son nom."
+
+ GWC_dismantle_arms:0 "Démantèlement des armes"
+ GWC_dismantle_arms_desc:0 "La "technologie" des païens doit être détruite, démantelée. Aucun fusil ou pistolet ne sera autorisé dans le domaine du Culte du Ver."
+
+ GWC_flesh_granaries:0 "Greniers à chair"
+ GWC_flesh_granaries_desc:0 "Les carcasses et les corps peuvent être stockés dans les tunnels et les chambres pour une conservation sûre. Leur viande devient tendre et savoureuse dans les circonstances du métro."
+
+ GWC_call_on_me:0 "Faites appel à moi"
+ GWC_call_on_me_desc:0 "Plus de corps doivent être sollicités pour apporter et pour préparer le combat contre les païens du Ver. Leur destruction est presque là."
+
+ GWC_STG:0 "Le Grand Nord"
+ GWC_STG_desc:0 "Strogino est blotti dans sa propre cachette dans le métro. Séparée de Krylatskoye par une longue section de tunnel stérile, la station s'est plutôt bien débrouillée. Elle possède sa propre bibliothèque et son propre approvisionnement en arsenal. Son chef, un homme du nom de Voronin, est originaire d'une toute autre station. Mais les rapports de silhouettes effrontées observant dans l'ombre ont mis la station sous pression. Les livres et les manuscrits de l'ancien monde ne sont plus."
+
+ GWC_all_bow_to_worm:0 "Inclinez-vous devant le Ver"
+ GWC_all_bow_to_worm_desc:0 "Le Ver est tout, le Ver est nous. Saluez le Ver et chérissez son nom. Vive le Ver !"
+
+ GWC_EUR:0 "Communauté Européenne"
+ GWC_EUR_desc:0 "Dans l'arrière-pays du métro se trouve le la Communauté Européenne. Etrangers aux conflits, ils gardent leurs distances avec le reste du métro."
+
+ GWC_ARB:0 "Confédération de l'Arbat"
+ GWC_ARB_desc:0 "L'Arbat se trouve juste devant, au-delà du tunnel. Les habitants profanes se gavent de la technologie et des connaissances hérétiques de l'ancien monde en envoyant des expéditions à la surface."
+
+ GWC_MIT:0 "Communauté Mitino"
+ GWC_MIT_desc:0 "La République vit dans un coin reculé du métro, ses habitants menant une vie simple et sans histoire. Pour eux, les attaques de mutants sont rares. Mais nous allons leur donner une nouvelle raison de craindre l'obscurité."
+
+ GWC_war_devolved:0 "La guerre dévolue"
+ GWC_war_devolved_desc:0 "La troisième guerre mondiale a été menée avec des fusils et des grenades. Maintenant, cette guerre sera combattue avec les dents et les ongles."
+
+ GWC_primal_fury:0 "Fureur primitive"
+ GWC_primal_fury_desc:0 "Dans sa forme fondamentale, tous nos adorateurs portent en eux les mots du Ver lui-même. Une haine des non-croyants et une folle envie de ruiner la civilisation décadente qui envahit le métro, la maison du Ver."
+
+ GWC_antediluvian_armaments:0 "Armements antédiluviens"
+ GWC_antediluvian_armaments_desc:0 "Nous pouvons nous contenter de lancer des pierres et de taper des bâtons sur des bâtons, mais nous pouvons faire mieux. Nous pouvons produire des armements élaborés et détaillés qui feraient peur à nos ennemis."
+
+ GWC_bone_armor:0 "Armure d'os"
+ GWC_bone_armor_desc:0 "Les ossements et les carcasses de ceux qui ont été mangés peuvent être utilisés comme armure protectrice pour les guerriers les plus robustes. Elle offrira un semblant de protection lors des combats. Malgré son apparence encombrante et grossière, elle joue en sa faveur. Nos adorateurs portant les os de nos ennemis scelleront le sort de tout intrus."
+
+ GWC_doped_shrooms:0 "Champignons dopés"
+ GWC_doped_shrooms_desc:0 "Ces champignons qui poussent dans nos tunnels ont des propriétés particulières. Une fois ingérés, les utilisateurs entrent dans une transe hypnotique. Ils voient des images vives et entendent la voix; la voix du Ver."
+
+ GWC_a_hundred_bodies:0 "Une centaine de cadavres"
+ GWC_a_hundred_bodies_desc:0 "Nous allons inonder le métro avec le son du tonnerre de pas. Ils n'y réfléchiront pas à deux fois."
+
+ GWC_worm_warriors:0 "Guerriers du Ver"
+ GWC_worm_warriors_desc:0 "Des gens endurcis au combat qui sont capables de braver les ténèbres et de se battre pour le Ver lui-même. Les champions du culte."
+
+ GWC_irradiated_tunnels:0 "Tunnels irradiés"
+ GWC_irradiated_tunnels_desc:0 "Au-delà du Parc de la Victoire se trouve une étendue de tunnels et de stations rayonnantes avec des fissures ouvertes menant à la surface. Des mutants parcourent constamment ce territoire à la recherche de leur prochain repas."
+
+ GWC_salvage_it_all:0 "Récupérer les vestiges"
+ GWC_salvage_it_all_desc:0 "Des restes de civilisation habitent encore ici. Des récits de personnages et d'âmes errantes, de l'agitation perchés sur les quais attendant leur dernier train vers le gouffre. Il vaut mieux laisser ces tunnels abriter les morts, plutôt que pour nos adorateurs."
+
+ GWC_stake_a_claim:0 "Revendication"
+ GWC_stake_a_claim_desc:0 "Ces tunnels sont légitimement les nôtres, c'est ce que dit le Prêtre. A nous de les revendiquer."
+
+ GWC_brawling_grounds:0 "Terrains de bagarre"
+ GWC_brawling_grounds_desc:0 "Les mutants s'aventurent constamment dans les étendues désolées du métro. Il n'y a pas de meilleur endroit pour entraîner nos guerriers toujours plus nombreux."
+
+ GWC_wanderlust:0 "Wanderlust"
+ GWC_wanderlust_desc:0 "Ces tunnels et stations de métro s'étendent plus loin que nous le pensions. Nous pouvons envoyer nos jeunes guerriers dans les profondeurs. S'ils reviennent, ils seront de vrais guerriers."
+
+ gwc_core_irradiated_tunnels:0 "A nous de jouer"
+ gwc_core_irradiated_tunnels_desc:0 "Les bêtes étant parties, nous pouvons maintenant entrer librement dans les tunnels, bien qu'il soit préférable de ne pas rester trop longtemps, car les radiations persistent et suintent d'en haut."
+
+ gwc_depot_cracking:0 "Craquage de dépôt"
+ gwc_depot_cracking_desc:0 "Nos éclaireurs ont signalé une grande porte métallique au fond d'un des tunnels. La porte reste intacte, bien que verrouillée. On ne sait pas à quoi elle sert, mais on entend des sons faibles de l'autre côté."
+
+ GWC_military_branch:0 "Chef de meute"
+ GWC_military_branch_desc:0 "Alors que les adorateurs du ver se préparent à lutter, il doit y avoir quelqu'un pour diriger notre puissance tribale croissante. Le prêtre supervise tout, mais il ne peut pas à la fois commander les forces, diriger les cérémonies et enseigner à la jeunesse. Une personne volontaire et compétente doit se lever pour prendre le chapeau."
+
+ GWC_war_crafts_1:0 "Création d'armes"
+ GWC_war_crafts_1_desc:0 "Malgré ce que le Prêtre a enseigné, que la production de technologie mène toujours à la guerre et à la destruction. Il a autorisé la production limitée d'artisanat et d'outils tels que les sarbacanes et les gourdins."
+
+ GWC_war_crafts_2:0 "Production d'armement"
+ GWC_war_crafts_2_desc:0 "Il est permis de produire des outils rudimentaires et des sarbacanes, sous la surveillance du prêtre. Nos guerriers sur le terrain, ou dans les profondeurs, doivent être équipés, au cas où ils se retrouveraient face à des forces hostiles."
+
+ GWC_a_culture_of_conflict:0 "Une culture de conflit"
+ GWC_a_culture_of_conflict_desc:0 "L'humanité a été, et sera toujours, une société construite uniquement sur les os et les carcasses d'elle-même. Aucun autre être n'est capable de mener une guerre aussi complète et aussi efficace que l'Homme. Rien n'est plus évident que la troisième guerre mondiale, plongeant l'humanité dans un bain de damnation et de feu éternels. Mais nous ne sommes pas l'humanité, ni une bête. Nous sommes plus que cela."
+
+ GWC_a_culture_of_conflict_2:0 "De nouveaux modes de guerre"
+ GWC_a_culture_of_conflict_2_desc:0 "La civilisation évolue inéluctablement vers sa forme primitive, basique. La guerre change toujours, alors que la technologie cède, la guerre elle, est combattue par les dents, les ongles et les griffes. Sa plus ancienne itération."
+
+ GWC_war_crafts_3:0 "Artisanat mortel"
+ GWC_war_crafts_3_desc:0 "Peu orthodoxe, maladif et grossier. Efficace et dangereux. Leurs fusils n'ont aucune chance contre nos armes, qui les réduiront en miettes."
+
+ GWC_military_branch_2:0 "Héraut du Ver"
+ GWC_military_branch_2_desc:0 "L'ignorance des non-croyants est évidente. Mais les guerriers vont s'assurer que les païens apprennent à craindre les adorateurs du ver. Leurs machines ne les sauveront pas."
+
+ GWC_military_branch_3:0 "Logistique"
+ GWC_military_branch_3_desc:0 "Les guerriers connaissent le prix de la victoire. Il se résume à un soin et une dilligence considérables. Pour lutter correctement contre les païens, il faut plus qu'une bataille téméraire, et les guerriers le savent plus que quiconque."
+
+ GWC_military_branch_4:0 "Planification"
+ GWC_military_branch_4_desc:0 "Les guerriers s'assurent que les forces du Ver sont correctement préparées pour traverser le métro. En utilisant la dissimulation dans l'obscurité et les subterfuges à notre avantage."
+
+ GWC_heart_of_darkness:0 "Cœur des ténèbres"
+ GWC_heart_of_darkness_desc:0 "Parc Pobedy ne ressemble en rien à ce qu'il en était avant la troisième guerre mondiale. Maintenant, drapé dans les restes d'une voie orthodoxe complètement étrangère et hérétique à la civilisation elle-même. Ici se trouve la mort et la destruction de l'humanité, et la résurgence manifeste des adorateurs du Ver. Une naissance sinistre dans le déclin de l'humanité."
+
+ GWC_rid_the_machines:0 "Débarrassez-vous des machines"
+ GWC_rid_the_machines_desc:0 "Ces mêmes machines et pièces technologiques sont considérées comme hérétiques au sein du culte du ver, et doivent être mises à la poubelle puis détruites. Ensuite, lesdits objets sont soit jetés, soit décomposés en leurs composants et utilisés ailleurs. Le Prêtre montre clairement et objectivement que la technologie dans son ensemble est un apostat à notre mode de vie."
+
+ GWC_sharper_sticks:0 "Baricades tranchantes"
+ GWC_sharper_sticks_desc:0 "En taillant les pieux que nous plaçons pour marquer notre territoire, il sera plus difficile pour les intrus de pénétrer davantage. Un obstacle qui rendra leurs mouvements lents, et de meilleures cibles pour nos sarbacanes."
+
+ GWC_scarier_stakes:0 "Des enjeux plus effrayants"
+ GWC_scarier_stakes_desc:0 "Des fossés et des pointes enfoncés dans la terre ne sont pas synonymes de danger. Mais décorés avec les cadavres mutilés et en décomposition de ceux qui ont voulu s'y introduire ? Ils réfléchiront à deux fois avant d'entrer dans notre domaine."
+
+ GWC_ind_3:0 "Production paléolithique"
+ GWC_ind_3_desc:0 "Étonnamment, la fabrication d'outils en pierre est plutôt complexe. Vous ne pouvez pas ramasser n'importe quelle pierre ou n'importe quel rocher et, malgré son potentiel, l'utiliser pour réduire en bouillie le crâne d'un ennemi sans méfiance. Certaines roches ont des caractéristiques naturelles qui correspondent bien à leurs usages."
+
+ GWC_ind_4:0 "Industrie de l'outillage"
+ GWC_ind_4_desc:0 L'utilisation d'une pierre plus grande, plus durable, et son utilisation pour écailler un autre morceau de roche plus petit en en détachant des morceaux, est plutôt efficace pour produire des pointes de lame."
+
+ GWC_ind_5:0 "Étendre la portée"
+ GWC_ind_5_desc:0 "Au fur et à mesure de l'expansion de notre cœur battant, nous entrerons inévitablement en contact avec d'autres peuples. Nous devons nous assurer qu'ils savent qu'ils pénètrent dans notre domaine. Les pièges à pointes, les effigies et les pieux les feront réfléchir à deux fois avant de s'aventurer plus loin."
+
+ GWC_toolmaking_smiths:0 "Culture de l'outillage"
+ GWC_toolmaking_smiths_desc:0 "Des outils plutôt élaborés ont été produits, améliorant nos connaissances sur cette tâche plutôt ardue. Nos artisans sont occupés à travailler constamment à affiner leurs connaissances sur la fabrication des outils en pierre."
+
+ GWC_cave_fungus:0 "Champignon des cavernes"
+ GWC_cave_fungus_desc:0 "Un cadeau du Ver à ses enfants ? Le Prêtre y croit, et nous le croirons aussi."
+
+ GWC_medicinal_wonders:0 "Merveilles médicinales"
+ GWC_medicinal_wonders_desc:0 "Alors que le prêtre nous enseigne que nous devons nous régaler de la moelle et de la chair des non-croyants, il nous a permis, uniquement en cas de besoin, de nous régaler des champignons qui poussent sur le bord du chemin, dans les tunnels."
+
+ GWC_ind_6:0 "Fabrication néolithique"
+ GWC_ind_6_desc:0 "Le béton et les barres d'armature ne sont guère plus que des déchets en bord de route, mais les pierres et la terre qui se trouvent sous nos pieds ? On peut les construire et les tailler en outils fins et élaborés pour répondre à nos besoins."
+
+ GWC_ind_7:0 "Travail artisanal"
+ GWC_ind_7_desc:0 "Il faut beaucoup d'efforts et de savoir-faire pour produire, avec seulement les mains et un outillage de base, des ornements élaborés avec de fines connaissances artistiques."
+
+ GWC_ind_9:0 "Défense du domaine"
+ GWC_ind_9_desc:0 "Ceux qui sont étrangers au Ver, et ceux qui détestent extérieurement son amour et sa grâce peuvent s'avérer être des intrus dans notre domaine. Avec de mauvaises intentions et prêts à faire du mal au troupeau du Prêtre. Nous devons être vigilants, et promettre que nous rendrons la justice avec cruauté."
+
+ GWC_into_the_earth:0 "Frappez dans la terre"
+ GWC_into_the_earth_desc:0 "La Terre contient des richesses qui nous ont été données par le Grand Ver. Nous sommes ses enfants et nous récolterons ses louanges."
+
+ GWC_worm_provides:0 "Le Ver offre"
+ GWC_worm_provides_desc:0 "Nous, les enfants, avons été assurés par le Grand Ver qui aime tendrement ses enfants. Rendons grâce à ses offrandes."
+
+ GWC_worm_punishes:0 "Le Ver punit"
+ WC_worm_punishes_desc:0 "Le ver punit ceux qui s'éloignent de sa parole, et ceux qui défient ses dons toujours si sacrés pour ses enfants."
+
+ GWC_heart_of_darkness1:0 "Bibelots sacrés"
+ GWC_heart_of_darkness1_desc:0 "On dit que les chefs religieux du culte du Ver bénissent les bibelots et colliers de cérémonie avec la grâce personnelle du Ver lui-même. Cela permet de résister aux radiations et même aux conditions glaciales du métro."
+
+ GWC_heart_of_darkness0:0 "Effort militaire"
+ GWC_heart_of_darkness0_desc:0 "Pour punir les païens qui s'appuient encore sur la technologie, nous devons nous battre contre eux."
+
+ GWC_heart_of_darkness2:0 "Effort militaire II"
+ GWC_heart_of_darkness2_desc:0 "L'augmentation de notre puissance militaire est une tâche ardue, mais qui portera ses fruits à long terme."
+
+
+
+
+
+
+
+
+
+

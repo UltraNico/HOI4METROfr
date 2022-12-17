@@ -1,0 +1,27 @@
+﻿l_french:
+ TRAINS:0 "Chariots sur rails"
+ TRAINS_COLON:0 "$TRAINS$:"
+ TRUCKS:0 "Fournitures"
+ TRUCKS_COLON:0 "$CAMIONS$:"
+ CONVOYS_COLON:0 "$CONVOI$:"
+ NEEDED:0 "BESOIN"
+ NUM_NEEDED:0 "$BESOIN$: $NUM|H$"
+ RECEIVED:0 "REÇU"
+ NUM_RECEIVED:0 "$REÇU$: $NUM|H$"
+ BUFFERED:0 "TAMPON"
+ NUM_BUFFERED:0 "$TAMPON$: $NUM|H$"
+ IN_STOCKPILES:0 "Dans les stocks"
+ NUM_IN_STOCKPILES:0 "$DANS_LES_STOCKS$: $NUM|H$"
+ SATISFIED:0 "Satisfaits"
+ EFFICIENCY:0 "Efficacité"
+ RATIO_SATISFIED:0 "$SATISFAITS$: $RATIO|.0%H$"
+ TRUCKS_LOST_ATTRITION:0 "Perdu par érosion (30 jours): §R$NUM|.0$§!"
+ TRUCKS_LOST_KILLED:0 "Perdu à cause d'un bombardement ennemi (30 jours): §R$NUM|.0$§!"
+ LOGISTICS_CAPACITY:1 "Gestion de la logistique"
+ LOGISTICS_CAPACITY_DETAILED_DESC:1 "La capacité logistique représente le degré de satisfaction de vos lignes d'approvisionnement. Si votre pays ne dispose pas de §YChariots sur rails§! ou de §YMatériel d'approvisionnement§! nécessaire pour transférer tous les besoins d'approvisionnement, vos unités auront un approvisionnement réduit et seront affectées par des pénalités d'approvisionnement."
+ SUPPLY_NODE_TRUCK_TOOLTIP:0 "§H$CAMIONS$§!\n  $BESOIN$: $NUM_BESOIN|H$\n  $SATISFAITS$: $RATIO$"
+ SUPPLY_NODE_CONVOY_TOOLTIP:0 "§HTotal des convois en cours de route§!\n  $BESOIN$: $NUM_BESOIN|H$\n  $REÇU$: $NUM_ASSIGNÉ|H$\n  $EFFICACITÉ$: $RATIO$"
+
+
+
+
