@@ -1,0 +1,71 @@
+﻿l_french:
+ HNZ_satellite:0 "Sous le regard de l'Aigle"
+
+ HNZ_satellite_header:0 "Hansa est immensément puissant. Tant par son économie pure, que par son pouvoir politique !"
+
+ satellite_economy_subversion_text:0 "§O[?satellite_economic_subversion]%§!"
+
+ satellite_politics_subversion_text:0 "§O[?satellite_politics_subversion]%§!"
+
+ satellite_workshops_leased_text:0 "§C[?satellite_workshops_leased]§!"
+
+ weapons_leased_text:0 "§C[?total_armaments_leased]§!"
+
+ POLITICS_SUBVERSION_TOOLTIP:0 "Au fur et à mesure que l'influence de Hansa sur la politique de votre station grandit, ils seront en mesure de manipuler vos lois et vos conseillers. Hansa pourra même forcer votre nation à adopter le commerce ouvert ou à se démobiliser !"
+
+ ECONOMY_SUBVERSION_TOOLTIP:0 "Au fur et à mesure que l'influence de Hansa s'accroît sur l'économie de vos stations, vous vous retrouverez de plus en plus dépendants de leur commerce et de leurs ressources et ne serez plus en mesure d'être autosuffisants !"
+
+ satellite_begin_requesting_factories_tt:0 "Nous allons demander une assistance industrielle militaire à Hansa."
+
+ satellite_max_factory_request_threshold_tt:0 "Le seuil maximum d'usines que nous pouvons demander est de 3."
+
+ satellite_begin_requesting_factories_tt:0 "Nous demanderons à Hanza de soutenir nos efforts militaires en nous fournissant des ateliers militaires."
+
+ WEAPONS_LEASED_TOOLTIP:0 "Amount of Weapons provided - §C[?satellite_guns_given]§! \n\nQuantité de lance-flammes fournie - §C[?satellite_flamethrower_given]§! \n\nQuantité de Gatling fournie - §C[?satellite_gattling_given]§! \n\nMontant d'explosif fourni - §C[?satellite_explosive_given]§!"
+
+ WORKSHOPS_LEASED_TOOLTIP:0 "Montant actuel des ateliers militaires que Hansa nous a loués."
+
+ satellite_bullets_wip_tt:0 "§OFinalement, ces décisions nécessiteront un coût initial de Balles qui sera mis en œuvre dans les futures évolutions.§!"
+
+ must_complete_centralisation_tt:0 "§RNous ne pouvons nous concentrer que sur un seul axe à la fois. Nous devons nous centraliser avant de pouvoir commencer un autre effort de reconstruction !§!"
+
+ satellite_small_eco_subversion_tt:0 "§OCela va bouleverser notre économie par une petite marge !§!\n"
+
+ satellite_medium_eco_subversion_tt:0 "§OCela aura un effet de subversion moyen sur notre économie !§!\n"
+
+ satellite_large_eco_subversion_tt:0 "§OCela aura un effet subversif important sur notre économie !§!\n"
+
+ satellite_small_pol_subversion_tt:0 "§OCela va bouleverser notre politique d'une faible ampleur !§!\n"
+
+ satellite_medium_pol_subversion_tt:0 "§OCela aura d'amples répercussions sur notre toile politique !§!\n"
+
+ satellite_large_pol_subversion_tt:0 "§OCela va bouleverser la politique de nos stations !§!\n"
+
+ satellite_hiring_economic_advisor_tt:0 "Tant que nous aurons engagé cet officier de liaison, cela augmentera la portée de son influence sur nos stations !"
+
+ satellite_request_factories:0 "Demande d'assistance en matière d'armement"
+
+ satellite_cancel_factory_request:0 "Annulé l'assistance"
+
+ satellite_request_technican_knowledge:0 "Demande d'informations techniques"
+
+ satellite_hire_economic_advisor:0 "Engager un économiste"
+
+ satellite_request_guns:0 "Demande d'armements"
+
+ satellite_request_flamethrowers:0 "Demande de lance-flammes"
+
+ satellite_request_gatling:0 "Demande de Gatling"
+
+ satellite_request_explosive:0 "Demande d'explosifs"
+
+ satellite_economic_liason_tt:0 "\nUn conseiller politique décent, qui diminuera vos biens de consommation globaux et augmentera la production des usines !"
+
+ satellite_remove_subversion:0 "Supprimer la subversion hanséatique"
+ satellite_remove_subversion_desc:0 "Garder un œil sur les individus qui passent, et surveiller de près les commerçants hanséatiques. Si nécessaire, les empêcher d'avoir des droits sur notre station."
+ satellite_remove_subversion:0 "Nous allons commencer à supprimer, ou essayer de bloquer la subversion hanséatique sur notre station."
+
+ satellite_kick_out_hansa_merchants:0 "Mettre à la porte les marchands de Hansa"
+ satellite_kick_out_hansa_merchants_desc:0 "Trop c'est trop ! Obligez nos gardes à les forcer personnellement à quitter notre territoire. Débarrassez-vous des rats une fois pour toutes !"
+ hanza_wont_like_this:0 "§OHansa n'appréciera pas cela et réagira à nos actions !§!"
+
