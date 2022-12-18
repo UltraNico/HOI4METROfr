@@ -1,0 +1,16 @@
+﻿l_french:
+  category_rail_vehicles: "Véhicules sur rails"
+  category_rail_cart: "Chariots sur rails"
+  category_rail_car: "Wagons"
+  category_rail_panzer: "Panzers sur rails"
+  category_gatling: "Équipement Gatling"
+  category_flamethrower: "Équipement de lance-flammes"
+  category_explosive: "Équipement explosif"
+  flamethrower_support: "Équipes chargées des lance-flammes"
+  explosive_support: "Équipes chargées d'explosif"
+  gatling_support: "Equipes de feu de support en Gatling"
+
+  ### Units ###
+  inf_recon: "Équipes de reconnaissance"
+  nkvd_support: "Bataillon du NKVD"
+  nkvd_support_desc:0 "Le NKVD est chargé d'optimisé le travail en première ligne. Motiver nos forces armées à combattre avec plus de détermination."
