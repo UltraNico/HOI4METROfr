@@ -1,0 +1,42 @@
+﻿l_french:
+ HNZ_ring_line:0 "Chaque station de la Hansa gagne §G1§! §YInfrastructure§!."
+
+ HNZ_grizzled_veterans_tt:0 "§YGénération de 2 divisions aguerries avec support gattling et explosif§!"
+
+ HNZ_heavy_team_tt:0 "§YCréez 3 divisions d'opérations spéciales avec un support gattling et reconnaissance!"
+
+ HNZ_foreign_merc_tt:0 "§YCréer 3 divisions d'infanterie avec des hôpitaux et de la logistique§!"
+
+ HNZ_new_military_laws_tt:0 "Remplace les lois sur la conscription des §YForce militaire centralisée§! et de §YL'armée de la communauté§!. Les mettre à niveau vers deux nouvelles lois sur le recrutement !"
+
+ HNZ_MOB_merc_tt:0 "§YCréer 2 divisions d'infanterie avec reconnaissance et soutien explosif§!"
+
+ HNZ_pressure_reich_tt:0 "Permet une série de §YDécisions§! pour faire pression sur le Reich dans notre sphère d'influence !"
+
+ HNZ_trade_with_reich_tt:0 "Permet une série de §YDécisions§! pour commercer pacifiquement avec le Reich !"
+
+ HNZ_trade_with_mobsters_tt:0 "Permet une série de §YDécisions§! pour commercer avec certains Bandits !"
+
+ HNZ_press_into_service_tt:0 "§YNous allons rappeler nos Stalkers de la surface pour nous aider à combattre !§!"
+
+ HNZ_committee_war_plans:0 "§CPermettez-nous d'élaborer des plans de guerre contre les ennemis potentiels et futurs !§!"
+
+ command_power_more_than_30:0 "Pouvoir de commande = 30"
+
+ HNZ_committee_war_plans_tt:0 "§ONous permet de prendre une série de décisions lorsque nous sommes en guerre contre des ennemis potentiels§!"
+
+ HNZ_joint_operations_tt:0 "§ONous permet de demander des exercices militaires conjoints entre nos forces et celles des Rangers §!"
+
+ HNZ_southern_reclaimation_authority_tt:0 "§gLa station Tul'skaya sera laissée aux mains de l'Autorité de récupération du Sud. Chargée de nettoyer les tunnels sud du métro et de les relier à la station Sevastopolskaya§!"
+
+ HNZ_OVMSB_tooltip:0 "§YCréation de 2 brigades de chariots ferroviaires avec soutien logistique§!"
+
+ HNZ_stalker_elites_tt:0 "§YCréez une unité d'élite des opérations spéciales avec une mitrailleuse et un support explosif dans la capitale§!"
+
+ HNZ_reclaimation_tt:0 "§YPermet de prendre une série de décisions pour fouiller les ruines de Moscou à la recherche de ressources ou d'autres objets de valeur!§!"
+
+ HNZ_satellite_stations_decision_tt:0 "\n§YPermettre une série de décisions pour attirer nos voisins dans notre cercle d'influence!§!"
+
+  satellite_small_eco_subversion_tt:0 "§OCela va bouleverser l'économie de nos satellites d'une petite marge!§!\n"
+
+  satellite_small_pol_subversion_tt:0 "§OCela va bouleverser la structure politique de nos satellites d'une petite marge!§!\n"
