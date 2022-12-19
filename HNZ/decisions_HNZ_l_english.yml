@@ -1,8 +1,8 @@
 ﻿l_french:
- HNZ_external_relations:0 "External Relations"
- HNZ_pressure_reich:0 "Pressure the Reich"
+ HNZ_external_relations:0 "Relations extérieures"
+ HNZ_pressure_reich:0 "Faire pression sur le Reich"
 
- HNZ_pressure_reich_open_trade:0 "Pressure the Reich to Open Trade"
+ HNZ_pressure_reich_open_trade:0 "Faire pression sur le Reich pour ouvrir le commerce"
  HNZ_pressure_reich_open_trade_desc:0 "The Reich sits upon untold amounts of pre-war technology, not to mention they are a self-sustaining isolationist economy with very little interaction with the outside world. Their military is unmatched, but at a constant knifes edge with the Red Line, they'll have to make the difficult choice to either submit to our demands, or be caught making enemies with both of the major superpowers."
 
  HNZ_reich_peaceful_trade_resources:0 "Trade Resources"
