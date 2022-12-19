@@ -1,0 +1,24 @@
+﻿l_french:
+ arbat:0 "Confédération Arbat"
+ arbat_desc:0 "La Confédération d'Arbat est une communauté modérément capitaliste. Habitée à la fois par les nationalités russes et caucasiennes. Il fut un temps où la communauté disposait d'un pouvoir et d'une population considérables. Elle s'est affaiblie en recevant le mauvais côté du bâton pendant la guerre Hansa-Ligne Rouge. Néanmoins, aujourd'hui, la communauté peut se vanter d'avoir un grand nombre de Stalkers, bien que l'influence et la gloire d'Arbat ne soient plus qu'un rêve d'un temps révolu."
+
+ hanza_under_sphere_of_influence:0 "Sous le regard des aigles"
+ hanza_under_sphere_of_influence_desc:0 "Être situé à côté de l'immensément puissante Ligue Hanséatique est une épée à double tranchant. Ils cherchent constamment à saper notre légitimité politique et économique afin de nous rendre dépendants de leurs biens et de leur protection."
+
+ hanza_satellite:0 "Satellite hanséatique"
+ hanza_satellite_desc:0 "Alors que notre légitimité en tant qu'État indépendant se réduit lentement de jour en jour. Il y a des avantages économiques. Cependant, être entrelacé avec Hansa est une chose entièrement différente."
+
+ hanza_puppet:0 "Marionnette hanséatique"
+
+ satellite_factories_from_hanza_1:0 "Usines de Hansa"
+
+ satellite_factories_from_hanza_2:0 "Usines de Hansa"
+
+ satellite_factories_from_hanza_3:0 "Usines de Hansa"
+
+ bump_in_the_night:0 "Bruit dans la nuit"
+ bump_in_the_night_desc:0 "Les rapports sur la disparition d'habitants de Kiev ont secoué la Confédération. Des enfants enlevés à la tombée de l'obscurité ont semé la peur, secouant la station et la communauté dans son ensemble. Les citoyens les plus aisés ont fui vers les stations voisines. Terrifiés pour leur propre sécurité et celle de leurs enfants.\n\n §gFIdentifier ce qui est responsable du kidnapping de nos enfants, et éliminer cette menace pourrait rassurer notre population§!"
+
+ ARB_hnz_volunteers:0 "Volontaires de Hansa"
+ 
+ HNZ_mutual_help:0 "Collaboration Hansa-Arbat"
