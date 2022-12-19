@@ -1,14 +1,14 @@
-﻿l_english:
+﻿l_french:
 
  ARB_tvaltvadze:0 "Giorgi Tvaltvadze"
  ARB_TVALTVADZE_DESC:0 ""
 
  ARB_semyonovich:0 "Arkadiy Semenovich"
  ARB_SEMYONOVICH_DESC:0 ""
- ARB_semyonovich_trait:0 "Station-Master"
+ ARB_semyonovich_trait:0 "Chef de station"
 
  ARB_arman:0 "Arman"
- ARB_arman_trait:0 "Head Vacharrakan" ##Trader
+ ARB_arman_trait:0 "Le chef Vacharrakan" ##Trader
  ARB_ARMAN_DESC:0 ""
 
  ARB_khandukht:0 "Khandukht"
