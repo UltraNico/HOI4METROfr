@@ -8,16 +8,16 @@
 
   HNZ_loginov:0 "Valeri Petrovich Loginov"
   HNZ_LOGINOV_DESC:0 "L'actuel président de la Communauté de la ligne circulaire hanséatique. Sous sa direction, il guide Hansa à travers la politique délicate du métro. Mais sous son calme prudent se cache un homme brisé, hanté par les âmes de ceux à qui il a donné un faux espoir d'asile pendant la sanglante guerre Hansa contre la Ligne Rouge. Cette décision de livrer les dissidents dits "anti-révolutionnaires" à la Ligne Rouge, afin d'épargner ses propres troupes, a été le catalyseur qui a propulsé sa carrière politique. Cette sombre vérité est à peine plus qu'effleurée. Le sang des hommes, des femmes et des enfants souille encore aujourd'hui ses mains."
-  loginov_polis_committee_member:0 "Ancien membre du Comité".
-  loginov_arbat_resident:0 "Ancien habitant de la ligne Sokolnicheskaya".
-  loginov_pursuit_of_profit:0 "Élu - Poursuite de l'activité lucrative".
-  loginov_neutrality:0 "Élu - État de neutralité".
+  loginov_polis_committee_member:0 "Ancien membre du Comité"
+  loginov_arbat_resident:0 "Ancien habitant de la ligne Sokolnicheskaya"
+  loginov_pursuit_of_profit:0 "Élu - Poursuite de l'activité lucrative"
+  loginov_neutrality:0 "Élu - État de neutralité"
   loginov_defender:0 "Élu - Défense de l'anneau"
-  loginov_haunted:0 "Hanté par le regret".
+  loginov_haunted:0 "Hanté par le regret"
 
   ## General Manager ##
 
-  HNZ_general_manager:0 "Directeur Général".
+  HNZ_general_manager:0 "Directeur Général"
   HNZ_MANAGER_DESC:0 "Le représentant de l'élite dirigeante de la Ligue hanséatique est situé dans un bunker privé sous la station Polyanka. Un homme vraiment quelconque avec une position remarquablement puissante. Sous son apparence, il orchestre les souhaits et les demandes de l'Illustre Élite et exécute leurs mystérieux ordres."
   
   ## Donator Exclusive ##
