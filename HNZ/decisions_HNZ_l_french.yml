@@ -1,0 +1,61 @@
+﻿l_french:
+ HNZ_external_relations:0 "Relations extérieures"
+ HNZ_pressure_reich:0 "Faire pression sur le Reich"
+
+ HNZ_pressure_reich_open_trade:0 "Faire pression sur le Reich pour ouvrir le commerce"
+ HNZ_pressure_reich_open_trade_desc:0 "Le Reich repose sur des quantités incalculables de technologies d'avant-guerre, sans oublier qu'il s'agit d'une économie isolationniste autonome avec très peu d'interaction avec le monde extérieur. Leur armée est inégalée, mais ils sont constamment sur le fil du rasoir avec la Ligne Rouge. Ils devront faire le choix difficile de se soumettre à nos demandes, ou d'être considérés comme des ennemis des deux grandes superpuissances."
+
+ HNZ_reich_peaceful_trade_resources:0 "Ressources commerciales"
+
+ HNZ_reich_peaceful_trade_guns:0 "Commerce d'armes"
+
+ HNZ_reich_treaty:0 "Traité avec le Reich"
+ HNZ_reich_treaty_desc:0 "Il n'est pas surprenant que le Reich rêve d'expansion. Assis dans leur station fortifiée, ils planifient et élaborent des aspirations de lebensraum. Et si nous leur donnions un passage ? Exigeons qu'ils se tiennent à l'écart de Polis et de notre sphère d'influence, et en retour, laissons-les prendre une petite partie du Métro. Ils seront d'excellents partenaires commerciaux... Et un allié de taille face à la Ligne Rouge !"
+
+ HNZ_southern_reclaimation_authority:0 "Créer l'Autorité de Reconquête du Sud"
+ HNZ_establish_southern_reclaimation_authority:0 "Création de l'Autorité"
+  HNZ_production_shift:0 "Agenda Hansa"
+
+  HNZ_increase_industrial_shift:0 "Augmenter les quotas industriels"
+  HNZ_increase_industrial_shift_desc:0 "Augmenter nos quotas de production fiscale. Notre main-d'œuvre devra supporter plus d'heures supplémentaires et grogner et se plaindre. Mais c'est pour une bonne cause."
+
+  HNZ_decrease_industrial_shift:0 "Diminution des quotas industriels"
+  HNZ_decrease_industrial_shift_desc:0 "Diminuer nos quotas fiscaux de production. Notre main-d'œuvre se réjouira mais notre industrie souffrira de ne pas pouvoir maximiser son potentiel."
+
+  HNZ_industrial_renovation:0 "Rénovations industrielles"
+  HNZ_industrial_renovation_desc:0 "Remettre en état les industries et les armureries obsolètes avec de nouvelles capacités de production."
+
+  HNZ_nationalise_infrastructure:0 "Enveloppe Industries privées"
+  HNZ_nationalise_infrastructure_desc:0 "Alors que Hansa opère sur la base du marché libre. Cela ne signifie pas que le gouvernement n'a pas les yeux fixés sur des biens prometteurs à incorporer dans la juridiction de la Ligue Hanséatique. Placer des routes commerciales importantes et des demeures sous notre propriété."
+
+  HNZ_reinforce_ring_line:0 "Renforcer la Ligne Circulaire Hanséatique"
+  HNZ_reinforce_ring_line_desc:0 "Renforcez le périmètre de la ligne circulaire contre tout ennemi qui pourrait chercher à briser notre anneau d'acier."
+
+  HNZ_privatise_land_share:0 "Privatiser des secteurs de station"
+  HNZ_privatise_land_share_desc:0 "Vendre des installations et des équipements industriels obsolètes et sous-utilisés à toute entité privilégiée privée."
+
+  HNZ_extend_research_administration:0 "Prolonger la durée de la recherche"
+  HNZ_extend_research_administration_desc:0 "Heures supplémentaires pour notre département R&D"
+
+  HNZ_extend_station_administration:0 "Étendre l'administration des stations"
+  HNZ_extend_station_administration_desc:0 "Remplacer les chefs les plus indulgents et les plus audacieux par de nouveaux chefs plus jeunes, partisans de l'avènement de l'administration de Hansa."
+
+  HNZ_scavenging_decisions:0 "Fouiller la surface"
+
+  scavenge_for_tooling:0 "Industrie du recyclage"
+  scavenge_resources:0 "Récupération de ressources"
+
+  command_power_20: "£command_power §Y20§!"
+  command_power_20_blocked: "£command_power §R20§!"
+
+  command_power_40: "£command_power §Y40§!"
+  command_power_40_blocked: "£command_power §R40§!"
+  
+  command_power_25: "£command_power §Y25§!"
+  command_power_40_blocked: "£command_power §R25§!"
+
+  
+  HNZ_subvert_eco:0 "Subvertir [FROM.GetName] Sphère économique"
+  HNZ_subvert_pol:0 "Subvertir [FROM.GetName] Sphère politique"
+  HNZ_pull_puppet:0 "Puppet the// [FROM.GetName]"
+  HNZ_mobilise:0 "Mobiliser les [FROM.GetName]"
