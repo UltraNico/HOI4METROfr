@@ -119,7 +119,7 @@
  HNZ_war_committee:0 "Comité de guerre"
  HNZ_war_committee_desc:0 ""
 
- HNZ_go_big_or_go_home:0 "Go Big or..." (en anglais) ///
+ HNZ_go_big_or_go_home:0 "Voyez grand ou..." 
  HNZ_go_big_or_go_home_desc:0 ""
 
  HNZ_shock_and_awe:0 "Tactique du choc et de l'effroi"
@@ -134,7 +134,7 @@
  HNZ_recruitment_surge:0 "Appel aux recrutements"
  HNZ_recruitment_surge_desc:0 ""
 
- HNZ_war_bonds:0 "Acheter des obligations de guerre" ///
+ HNZ_war_bonds:0 "Obligations de guerre"
  HNZ_war_bonds_desc:0 ""
 
  HNZ_armament_production:0 "Production d'armement"
@@ -158,10 +158,10 @@
  HNZ_gattling_boost:0 "Production d'équipes de feu"
  HNZ_gattling_boost_desc:0 ""
 
- HNZ_trade_with_neighbours:0 "Relations d'amitié"  ///
+ HNZ_trade_with_neighbours:0 "Relations amicales"
  HNZ_trade_with_neighbours_desc:0 ""
 
- HNZ_minigun_support:0 "Soutien pour les minigunettes" ///
+ HNZ_minigun_support:0 "Support minigun"
  HNZ_minigun_support_desc:0 ""
 
  HNZ_gun_improvement:0 "Armes à feu moins chères"
