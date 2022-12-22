@@ -1,0 +1,80 @@
+﻿l_french:
+ random_event_vagrants.01.t:0 "Vagabonds dans les tunnels"
+ random_event_vagrants.01.d:0 "On entend des bruits provenant des profondeurs des tunnels, juste à la frontière de notre territoire. Le son de marmonnements et de voix incompréhensibles, qui semblent être humains. Une équipe envoyée pour enquêter découvre que le bruit provient d'une bande de vagabonds qui se cachent dans une salle de maintenance sur le côté du tunnel. Ils y ont établi un camp rudimentaire. Avec pour seul refuge les affaires qu'ils portent sur leur dos. Certains des membres brandissent des armes à main plutôt rudimentaires, mais sophistiquées, fabriquées à partir de ferraille. Ils parlent une langue inconnue et pourtant, étrangement, ils ont accueilli votre équipe à bras ouverts. En établissant la communication entre les vagabonds à l'aide de gestes et de la langue des signes, vous découvrez qu'ils sont originaires du sud du métro. Ils avaient vécu d'un endroit à l'autre, sans jamais s'arrêter. Dirigés par leur patriarche, récemment décédé suite à une rencontre avec un démon effrayant, ils se retrouvent maintenant sans chef et souhaitent s'installer."
+ random_event_vagrants.01.a:0 "Laissez-les se joindre à nous"
+ random_event_vagrants.01.b:0 "Dites leurs de dégager."
+
+ random_event_vagrants.a_tt:0 "§gBien qu'ils soient étrangers, ils semblent être des gens bien intentionnés. Nous leur ouvrons notre porte en tant qu'amis!§!"
+ random_event_vagrants.b_tt:0 "§gNos citoyens passent en premier, malheureusement. L'arrivée d'un groupe inconnu pourrait rendre notre propre population mal à l'aise.§!"
+
+ random_event_glitters.01.t:0 "Briller dans l'obscurité"
+ random_event_glitters.01.d:0 "Un des gardiens du tunnel jure qu'il voit quelque chose briller dans l'obscurité. Chaque rotation, lorsqu'il retourne à la station, il aperçoit une lueur au-delà du tunnel, dans l'un des anciens chemins latéraux de maintenance. Il n'est pas en mesure d'enquêter car le tunnel en question a été condamné, et il n'y a qu'un léger aperçu pour voir à distance. Le tunnel en question a été fermé il y a des années en raison d'incursions de mutants dans ses profondeurs. L'homme s'en tient à ses armes, affirmant qu'il ne s'agit pas d'un effet de la lumière ou de son imagination. Il y a quelque chose là-bas, et souhaite enquêter."
+ random_event_glitters.01:0 "Enlever les barricades"
+ random_event_glitters.01:0 "Il vaut mieux ne pas y aller"
+
+ random_event_glitters.02.t:0 "Mutant dans le tunnel"
+ random_event_glitters.02.d:0 "Les barricades de bois ont été ouvertes pour révéler ce qui se trouvait là-bas. Au-delà du vide absolu, il n'y avait rien. Puis une centaine de petits yeux blancs perçent l'obscurité. Il y avait une raison pour laquelle ce tunnel était fermé. Aujourd'hui, nous avons reçu un sinistre rappel de cette raison."
+ random_event_glitters.02.a:0 "Merde !"
+
+ random_event_glitters.03.t:0 "Rien de précieux"
+ random_event_glitters.03.d:0 "Les barricades de bois ont été ouvertes pour révéler ce qui se trouvait derrière. Au-delà du vide absolu, il n'y avait rien. Là où le soldat avait dit qu'il pouvait voir des taches de lumière, il n'y avait rien. Une forme circulaire noircie s'est imprimée sur le sol et le plafond. Cela sentait comme un mélange de caoutchouc brûlé et de soufre. Bien qu'étrange pour le moins, rien de particulier n'a été trouvé. La barricade se ralluma et rapidement ce tunnel fut à nouveau oublié."
+ random_event_glitters.03.a:0 "Merde !"
+
+ random_event_glitters.04.t:0 "Quelque chose de perdu, quelque chose de retrouvé"
+ random_event_glitters.04.d:0 "Les barricades de bois ont été ouvertes pour révéler ce qui se trouvait derrière. Au-delà du vide absolu, il n'y avait rien. Une recherche préliminaire n'a pas permis de trouver les lueurs, et la recherche était sur le point d'être annulée jusqu'à ce que la lumière rebondissante d'une des lampes de poche révèle une étincelle dans l'obscurité. Un rayon de lumière dirigé vers les lueurs a révélé que le soldat disait la vérité en fait. Ce qui se trouvait au-delà était..."
+ random_event_glitters.04.a:0 "Une cachette de métaux rares"
+ random_event_glitters.04.b:0 "Une caisse d'armement"
+ random_event_glitters.04.c:0 "Un trésor de bibelots précieux"
+
+ random_event_station_babbler.01.t:0 "Le fou de la station"
+ random_event_station_babbler.01.d:0 "Un homme étrange a commencé à divaguer au milieu de la station. Pendant qu'il n'est pas en train de travailler, il se tient debout, perché au sommet d'une vieille boîte à savon et déblatère sur les sujets les plus amusants. Des croyances marginales sur la façon dont "Eurasia va s'unir" et l'humanité doit creuser pour atteindre le légendaire royaume souterrain d'Agartha. Des sujets plus humoristiques comme l'idée que le métro a été construit par des gnomes intelligents au 4ème siècle qui ont utilisé le système de métro pour cacher et stocker leurs quantités absurdes de Kvass. Tandis que les enfants s'assoient et écoutent ses bavardages insensés, beaucoup de nos citoyens s'en moquent. Ils trouvent ses divagations quelque peu amusantes."
+ random_event_station_babbler.01.a:0 "Mettez-le à la porte"
+ random_event_station_babbler.01.b:0 "Laisse-le tranquille"
+
+ random_event_station_babbler.a_tt:0 "§gInoffensif, mais ça ne lui donne pas d'excuse pour se déchaîner sur des sujets absurdes. Passant son temps à effrayer les enfants avec de fausses histoires. Donnez-lui un coup de pied au cul et dites-lui d'aller voir ailleurs.§!"
+ random_event_station_babbler.b_tt:0 "§gC'est un vieil homme inoffensif, qui apporte un confort comique à la vie quotidienne des habitants de la station. Bien qu'il en sache beaucoup sur les§! §OGnomes§! §g!§!"
+
+ random_event_disappearance.01_t:0 "Chambre cachée"
+ random_event_disappearance.01_d:0 "Un mur autrement banal et inintéressant qui était bloqué par des débris et d'autres types de déchets a été dégagé. Avec le dégagement des déchets, la découverte d'une porte autrefois bloquée a été accomplie. Au-delà de la porte se trouvait une ancienne salle d'entretien. L'excitation de sa découverte est devenue terne, les spéculations et les commérages sauvages ont été interrompus alors que l'espace n'était guère plus qu'une salle de maintenance vacante. L'espace en question était plutôt ennuyeux, mais le fait que nous n'ayons pas connu cet espace depuis une vingtaine d'années laisse beaucoup de questions. Quoi qu'il en soit, l'espace est actuellement vacant, et peut être utilisé à n'importe quelle fin que nous jugeons appropriée."
+ random_event_disappearance.01.a:0 "Quels autres endroits cachés existent encore dans le métro ?"
+
+  ### Disappearance Event Line ###
+
+ random_event_disappearance.01.t:0 "Disparition"
+ random_event_disappearance.01.d:0 "Nous avons reçu un rapport inquiétant d'un de nos avant-postes à la frontière de notre territoire, près de tunnels de métro abandonnés. Selon le messager, une patrouille de routine ne s'est pas présentée depuis plusieurs jours. Bien qu'un tel événement ne soit pas nécessairement alarmant en soi, les gardes étant souvent retardés, oubliant de se présenter ou désertant carrément, les familles de ces hommes ont signalé leur disparition et nous supplient d'envoyer quelqu'un pour découvrir ce qui s'est passé.\n\nLe commandant de l'avant-poste s'est personnellement porté garant de la loyauté et des capacités de ces hommes, et demande à être autorisé à envoyer une autre équipe pour enquêter sur le sort de la patrouille disparue, faisant valoir que si la cause de la disparition des gardes n'est pas étudiée, il est possible que nous subissions d'autres pertes. Néanmoins, la décision finale de scruter ou non les tunnels nous revient."
+ random_event_disappearance.01.a:0 "Dites au commandant d'enquêter ! Nous devons ramener nos gars à la maison"
+ random_event_disappearance.01.b:0 "Mieux vaut prévenir que guérir. Ordonnez au commandant de l'avant-poste de rester sur place"
+
+ random_event_disappearance.02.t:0 "Découverte d'équipements"
+ random_event_disappearance.02.d:0 "Nous venons de recevoir un rapport sinistre de l'équipe d'investigation. Après plusieurs heures, ils sont tombés sur l'équipement de la patrouille disparue, caché dans une crevasse. Il est clair que cela a été fait dans la précipitation - aucun effort n'a été fait pour camoufler correctement les armes abandonnées, ce qui a permis à notre équipe de les découvrir facilement.\n\nNous ne pouvons pas dire avec certitude ce qui est arrivé à la patrouille manquante. La raison pour laquelle ils ont décidé d'abandonner leur armure ou leurs armes et de fuir plus loin dans les tunnels dépasse notre compréhension. Le seul indice que nous ayons est l'odeur épaisse de soufre et de champignon qui règne dans le tunnel."
+ random_event_disappearance.02.a:0 "Merde. Ordonnez à l'équipe de revenir immédiatement !"
+
+ random_event_disappearance.03.t:0 "Découverte de la patrouille perdue"
+ random_event_disappearance.03.d:0 "Nous venons de recevoir d'heureuses nouvelles de notre équipe d'enquêteurs. Après plusieurs heures, ils ont réussi à trouver la patrouille manquante qui se cachait dans une cavité de tunnel, effrayée et débitant des absurdités incohérentes, et ont pu les ramener à l'avant-poste.\n\nNotre interrogatoire pour déterminer ce qui s'est passé n'a pas rencontré beaucoup de succès, cependant. Tout ce que nous avons pu glaner d'eux, c'est que pendant que les gardes effectuaient leur patrouille de routine, ils sont tombés sur de grandes et minces silhouettes humanoïdes qui étaient imperméables aux balles. Après avoir tenté de les abattre, les gardes se sont enfuis dans les tunnels et se sont cachés jusqu'à ce que nous les retrouvions.\n\nCette explication nous laisse avec plus de questions que de réponses. Qui sont ces humanoïdes, quelles sont leurs intentions et comment ils sont capables d'être immunisés contre nos attaques, c'est quelque chose que nous ne saurons probablement jamais, à moins qu'ils ne se révèlent une fois de plus."
+ random_event_disappearance.03.a:0 "Ça fait froid dans le dos. Ordonnez à l'équipe restante, de revenir immédiatement."
+
+ ######################################################################
+ ## BAD ##
+
+ random_event_bad.1.t:0 "Rats !"
+ random_event_bad.1.d:0 "Ce ne sont pas les rats typiques. Ils sont grands, à fourrure noire, avec de longues queues enroulées. Ils s'infiltrent dans l'obscurité et se frayent un chemin à travers n'importe quoi. Ils s'introduisent dans nos réserves de nourriture et se régalent de porcelets sans méfiance. Ce qui est encore plus inquiétant, c'est qu'ils ne se laissent pas intimider par les tentatives de nos civils de les faire fuir. Des comptes rendus les décrivent même en train de courir et de ronger des enfants et des cadavres. Quoi qu'il en soit, il faut mettre davantage l'accent sur la chasse aux rats."
+
+ random_event_bad.2.t:0 "Embuscade de bandits !"
+ random_event_bad.2.d:0 "Une de nos caravanes a récemment été prise en embuscade lors de son voyage de routine entre les stations. Désarmés, les caravaniers ont fui, laissant derrière eux leurs provisions. Nos soldats ne devraient avoir aucun problème à s'occuper des bandits, mais nos commerçants en herbe ne veulent pas, ou sont trop nerveux pour s'aventurer hors de la station pour le moment."
+ random_event_bad.2.a:0 "Merde !"
+
+ random_event_bad.3.t:0 "Champs en jachère"
+ random_event_bad.3.d:0 "Que ce soit à cause d'un mauvais entretien, d'un travail excessif du sol ou d'un pathogène bizarre, nos parcelles agricoles dépérissent. Les rendements attendus sont bien inférieurs à ce dont nous avons besoin pour approvisionner nos citoyens. Le rationnement est dû, ce qui va mettre à rude épreuve notre population déjà mécontente."
+ random_event_bad.3.a:0 "Ça craint"
+ random_event_bad.3.b:0 "Nous pouvons utiliser nos soldats, pour aider à travailler et restaurer les parcelles"
+
+ ######################################################################
+ ## GOOD ##
+
+ random_event_good.1.t:0 "Soldats de fortune"
+ random_event_good.1.d:0 "Un groupe d'individus s'est approché de l'entrée de notre station. Des combattants endurcis par les conflits constants dans le métro. Ils cherchent du réconfort dans notre station et un endroit où s'installer. En retour, ils offrent de servir notre administration."
+ random_event_good.1.a:0 "Bienvenue"
+
+ random_event_good.2.t:0 "Les bonnes choses"
+ random_event_good.2.d:0 "Un de nos gardes sentinelles est revenu ravi de sa découverte.\nAlors qu'il était en train d'échanger des tâches de patrouille avec le groupe de gardes suivant, comme par miracle, il est tombé sur plusieurs petites caisses poussiéreuses. En jetant un coup d'œil à l'intérieur, l'homme a découvert des dizaines de bouteilles de vodka et d'autres alcools assortis. Qu'elles aient été déposées par une caravane, un bandit ou autre chose. Prenant un échantillon de leur contenu sur place, l'homme a pris ce qu'il pouvait. Gardant certaines des bouteilles pour lui. Donnant le reste à notre administration comme un geste de bonne volonté."
+ random_event_good.2.a:0 "Portons un toast pour aujourd'hui, buvons à ceux d'hier et faisons la fête pour demain !"
