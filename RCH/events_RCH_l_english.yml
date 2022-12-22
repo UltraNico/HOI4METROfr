@@ -1,7 +1,7 @@
-﻿l_english:
- nf_RCH.6:0 "Fascist Incursion"
- nf_RCH.6.t:0 "Fascists at the Gate"
- nf_RCH.6.d:0 "We have more than just the Nosalis and Watchmen pouring in from the surface to contend with. Recent reports indicate that a mounting offense by Reich Stalkers are approaching with our station in their sights. Any adequate preparations will be made null as they are already closing in on our station. We have to stand firm, or we may find some common ground. A laughable offer to any, but our position is not a good one to be standing in."
- nf_RCH.6.a:0 "Despite best efforts, our forces were unmatched!"#
- nf_RCH.6.b:0 "Somehow, for whatever reason, the Hole showed hospitality to the Stalkers, who were grateful"
- nf_RCH.6.c:0 "The Reich Hit-teams, with pure grit and determination, were fought off by our militia"
+﻿l_french:
+ nf_RCH.6:0 "Incursion fasciste"
+ nf_RCH.6.t:0 "Fascistes à nos portes"
+ nf_RCH.6.d:0 "Nous n'avons pas seulement à affronter les Nosalis et les autres mutants qui affluent de la surface. Des rapports récents indiquent qu'une offensive croissante de Stalkers du Reich s'approche de notre station. Les préparatifs adéquats seront nuls car ils sont déjà très proches de notre station. Nous devons rester fermes, ou nous pourrions trouver un terrain d'entente. Une offre risible pour tous, mais notre position n'est pas bonne à prendre."
+ nf_RCH.6.a:0 "Malgré tous les efforts, nos forces étaient inégalées!"#
+ nf_RCH.6.b:0 "D'une manière ou d'une autre, le Trou a montré de l'hospitalité aux Stalkers, qui en ont été reconnaissants."
+ nf_RCH.6.c:0 "Les équipes de choc du Reich ont été repoussées par notre milice avec beaucoup de courage et de détermination."
