@@ -151,7 +151,7 @@
  RED_MSU_radio_jammers:0 "Déployer un brouilleur radios"
  RED_MSU_radio_jammers_desc:0 "Déployer une réserve de brouilleurs radio visant à bloquer complètement la communication entre la Cité d'Émeraude et les équipes de Stalkers sur le terrain. Au fur et à mesure que leur communication s'affaiblit, nous pouvons nous préparer à frapper !"
  
- RED_MSU_stalker_hit_squads:0 "Défenses des sondes"
+ RED_MSU_stalker_hit_squads:0 "Reconnaissance"
  RED_MSU_stalker_hit_squads_desc:0 "L'envoi de nos propres forces spéciales, pour explorer et repérer tout point d'intérêt avantageux, sera utile lorsque la guerre frappera inévitablement."
 
  RED_MSU_escalate_war:0 "§RGuerre!§! avec la Cité d'Émeraude"
