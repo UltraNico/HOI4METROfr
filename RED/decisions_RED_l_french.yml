@@ -6,7 +6,7 @@
  RED_get_rid_of_law:0 "Améliorer notre Situation Militaire"
  RED_get_rid_of_law_desc:0 "Apprendre de la désastreuse guerre Hanza-Redline, et des tactiques des conflits armés menés dans le Métro nous permettra d'améliorer notre Armée."
 
- RED_crisis_category:0 "Ligne rouge en crise".
+ RED_crisis_category:0 "Ligne rouge en crise"
 
  RED_not_in_crisis_tt:0 "Actuellement pas en crise"
 
@@ -18,7 +18,7 @@
  RED_unlock_mutiny_branch_tt:0 "§Cactiver§ ! Branche inférieure de la §Cbranche de la Mutinerie militaire§!"
  RED_military_mutiny_rid_mutinies_2:0 "Éliminer les rebelles"
 
- RED_military_mutiny_remove_power:0 "Retirer le pouvoir du haut commandement".
+ RED_military_mutiny_remove_power:0 "Retirer le pouvoir du haut commandement"
 
  RED_sieze_arms:0 "Arme supplémentaire"
  RED_sieze_arms_desc:0 "Nous avons découvert l'endroit où Kovshov et ses forces ont amassé des armes et des fournitures dans le but de se préparer à un conflit extérieur. Comme le dit le proverbe, ce qui est à toi est à moi..."
