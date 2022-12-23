@@ -17,7 +17,7 @@
  RCH_politically_competent:0 "Politiquement compétent"
  RCH_politically_competent_desc:0 "Beaucoup de nos officiers auront une expérience dans la Gestapo, ce qui apportera de nombreux avantages à leurs capacités militaires."
 
-RCH_competently_political:0 " Compétence politique "
+ RCH_competently_political:0 " Compétence politique"
  RCH_competently_political_desc:0 "La politique est souvent trop complexe et peut nuire à nos opérations. La Gestapo est parfaite pour donner aux personnalités coriaces quelques... encouragements"
 
  RCH_proclaim_slavic_unity:0 "Proclamez l'unité slave"
@@ -26,8 +26,8 @@ RCH_competently_political:0 " Compétence politique "
  RCH_ministry_of_culture:0 "Créer le ministère de la Culture"
  RCH_ministry_of_culture_desc:0 "Notre culture et nos idéaux mêmes sont menacés par des influences extérieures. Nous devons protéger notre mode de vie."
 
-RCH_envelope_cultural_institutions:0 "Institutions culturelles de la communauté"
-RCH_envelope_cultural_institutions_desc:0 "En plaçant toutes les sources culturelles sous notre influence, nous pouvons nous assurer que les bons messages sont diffusés dans nos tunnels."
+ RCH_envelope_cultural_institutions:0 "Institutions culturelles de la communauté"
+ RCH_envelope_cultural_institutions_desc:0 "En plaçant toutes les sources culturelles sous notre influence, nous pouvons nous assurer que les bons messages sont diffusés dans nos tunnels."
 
  RCH_russia_for_russians:0 "La Russie pour les Russes !"
  RCH_russia_for_russians_desc:0 "La Russie appartient de droit aux vrais Russes, à personne d'autre. Notre peuple est le noyau dur du Reich, il doit être fier !"
@@ -42,12 +42,12 @@ RCH_envelope_cultural_institutions_desc:0 "En plaçant toutes les sources cultur
  RCH_propaganda_in_education_desc:0 "Les enfants sont l'avenir, et c'est à nous de nous assurer qu'ils reçoivent une bonne éducation dès le départ. Ils porteront notre héritage en avant."
 
  RCH_inner_reforms:0 "Réformes internes"
-RCH_inner_reforms_desc:0 "Apaiser les discours envers certains groupes de la population peut être bénéfique à long terme. Nous devons rester pratiques tout en pensant à la situation dans son ensemble."
+ RCH_inner_reforms_desc:0 "Apaiser les discours envers certains groupes de la population peut être bénéfique à long terme. Nous devons rester pratiques tout en pensant à la situation dans son ensemble."
 
  RCH_tolerate_minorities:0 "Tolérance envers les non-Slaves"
-RCH_tolerate_minorities_desc:0 "Notre tolérance envers les minorités est habituellement faible. Cependant, nous devons être pragmatiques dans notre approche - ils sont prêts à se battre pour le Reich, et un nouveau soldat avec une arme est une chance supplémentaire d'arrêter la menace communiste."
+ RCH_tolerate_minorities_desc:0 "Notre tolérance envers les minorités est habituellement faible. Cependant, nous devons être pragmatiques dans notre approche - ils sont prêts à se battre pour le Reich, et un nouveau soldat avec une arme est une chance supplémentaire d'arrêter la menace communiste."
 
-RCH_open_sphere:0 "Sphère politique intérieure libre"
+ RCH_open_sphere:0 "Sphère politique intérieure libre"
  RCH_open_sphere_desc:0 "Permettre aux personnalités politiques d'être plus ouvertes dans leurs pensées peut apporter des idées et des perspectives nouvelles à nos plans. Nous devrions toujours viser la perfection, non ?"
 
  RCH_the_true_enemy:0 "Le véritable ennemi"
@@ -60,7 +60,7 @@ RCH_open_sphere:0 "Sphère politique intérieure libre"
  RCH_open_trade_desc:0 "Ouvrir certaines parties de notre économie apportera des avantages économiques pour nourrir notre cause. Nous ne pouvons pas ignorer la valeur que le commerce apporte."
 
  RCH_allow_outside_recruitment:0 "Autoriser le recrutement extérieur"
-RCH_allow_outside_recruitment_desc:0 "Nous avons besoin de bras pour nos forces. Il est sûrement préférable qu'un indésirable meure plutôt qu'un des nôtres ?"
+ RCH_allow_outside_recruitment_desc:0 "Nous avons besoin de bras pour nos forces. Il est sûrement préférable qu'un indésirable meure plutôt qu'un des nôtres ?"
 
  RCH_lebensraum:0 "Lebensraum"
  RCH_lebensraum_desc:0 "Nous devons préparer notre économie aux expansions de nos terres. Notre peuple a besoin d'espace pour se développer !"
@@ -89,7 +89,7 @@ RCH_allow_outside_recruitment_desc:0 "Nous avons besoin de bras pour nos forces.
  RCH_stockpile_vanguard:0 "Rembourser le stock"
  RCH_stockpile_vanguard_desc:0 "S'assurer que notre armurerie est suffisamment approvisionnée rend l'approvisionnement de nos troupes moins préoccupant. Nous ne pouvons pas tenir nos lignes si nous n'avons pas les outils pour les défendre."
 
-RCH_send_in_the_deathsquads:0 "Envoyez les équipes de choc"
+ RCH_send_in_the_deathsquads:0 "Envoyez les équipes de choc"
  RCH_send_in_the_deathsquads_desc:0 "En envoyant de petites incursions en territoire ennemi, nous pouvons perturber leurs lignes pour saper leur effort de guerre."
 
  RCH_new_divisions:0 "Maillet contre le marxisme"
@@ -104,7 +104,7 @@ RCH_send_in_the_deathsquads:0 "Envoyez les équipes de choc"
  RCH_industry_right_1:0 "Réseaux d'infrastructure"
  RCH_industry_right_1_desc:0 "L'amélioration de nos réseaux d'infrastructure existants nous permettra d'acheminer plus rapidement les fournitures et les troupes vers les lignes de front."
 
-RCH_industry_right_2:0 "Favoriser la relance de l'industrie"
+ RCH_industry_right_2:0 "Favoriser la relance de l'industrie"
  RCH_industry_right_2_desc:0 "Beaucoup de nos usines ont besoin d'être rafraîchies et réparées. Détourner les ressources et les efforts vers leur amélioration permettra d'obtenir de meilleures performances industrielles."
 
  RCH_industry_3:0 "Mettre en commun les talents techniques"
@@ -129,10 +129,10 @@ RCH_industry_right_2:0 "Favoriser la relance de l'industrie"
  RCH_industry_5_left_desc:0 "Nous pouvons organiser les travailleurs de manière localisée en libérant les anciens espaces pour les ateliers et les usines. En créant un quartier d'habitation à proximité, ils pourront se rendre rapidement au travail."
 
  RCH_industry_5_right:0 "Fonderies de guerre"
-RCH_industry_5_right_desc:0 "La machinerie de guerre du Reich est alimentée par des soldats et de l'acier ! La création de plus d'usines de munitions nous permettra de faire la guerre et de nous protéger."
+ RCH_industry_5_right_desc:0 "La machinerie de guerre du Reich est alimentée par des soldats et de l'acier ! La création de plus d'usines de munitions nous permettra de faire la guerre et de nous protéger."
 
  RCH_military2:0 "Inaugurer le nouveau sang"
-RCH_military2_desc:0 "Chaque homme doit jouer son rôle en combattant pour le IVe Reich ! L'élargissement de notre conscription donnera à plus d'hommes une chance de contribuer."
+ RCH_military2_desc:0 "Chaque homme doit jouer son rôle en combattant pour le IVe Reich ! L'élargissement de notre conscription donnera à plus d'hommes une chance de contribuer."
 
  RCH_military3:0 "Connaissances paramilitaires"
  RCH_military3_desc:0 "Nous comptons dans nos rangs de nombreux vétérans du monde d'avant. Leur expérience sera précieuse pour nos soldats."
@@ -143,7 +143,7 @@ RCH_military2_desc:0 "Chaque homme doit jouer son rôle en combattant pour le IV
  RCH_military5:0 "La main droite du parti"
  RCH_military5_desc:0 "Nous devons à tout prix maintenir la discipline dans nos rangs, tout ce qui n'est pas parfait ne sera pas toléré."
 
-RCH_military6_desc:0 " Conscrire les citoyens"
+ RCH_military6_desc:0 "Conscrire les citoyens"
  RCH_military6_desc:0 "Avec nos tunnels menacés, il y a un besoin immédiat d'augmenter nos effectifs. Les gens du peuple seront enrôlés dans les rangs !"
 
  RCH_military7:0 "Campagnes de recrutement"
@@ -156,14 +156,14 @@ RCH_military6_desc:0 " Conscrire les citoyens"
  RCH_military9_desc:0 "Les tunnels abritent des inventions créatives, mais mortelles. Nous devrions acquérir ce que nous pouvons pour améliorer nos propres armes à feu."
 
  RCH_military10:0 "Équipement amélioré"
-RCH_military10_desc:0 "En améliorant la qualité de nos équipements vestimentaires, nous pouvons faire en sorte que notre peuple affronte les conditions difficiles des tunnels et de la surface bien mieux qu'avant."
+ RCH_military10_desc:0 "En améliorant la qualité de nos équipements vestimentaires, nous pouvons faire en sorte que notre peuple affronte les conditions difficiles des tunnels et de la surface bien mieux qu'avant."
 
  RCH_military11:0 "Conception d'armes améliorées"
  RCH_military11_desc:0 "Rendre nos armes plus fiables diminuera les chances qu'elles se brisent pendant la bataille. Nos expéditions de surface en bénéficieront également car les conceptions améliorées facilitent la maintenance sur le terrain."
 
  RCH_unlock_sturmgewehr_tt:0 "§g\nDébloque la capacité de recherche et de production§ ! §YSturmgewehr 33§ !"
 
-RCH_military12:0 "Équipes lourdes de Stalkers"
+ RCH_military12:0 "Équipes lourdes de Stalkers"
  RCH_military12_desc:0 "Les Stalkers lourdement équipés sont mieux placés pour faire face aux hostilités de la surface ainsi que pour renforcer nos points faibles. Nous pouvons nous aventurer plus loin en surface"
 
  RCH_military13:0 "Équipement de combat amélioré"
@@ -175,7 +175,7 @@ RCH_military12:0 "Équipes lourdes de Stalkers"
  RCH_military15:0 "Le poing du Führer"
  RCH_military15_desc:0 "Forgés dans l'acier du Reich, nos wagons ont été améliorés pour être plus efficaces contre l'infanterie et les blindés ennemis."
 
-RCH_topside:0 "Expéditions de surface"
+ RCH_topside:0 "Expéditions de surface"
  RCH_topside_desc:0 "Bien que dangereuse et hostile, la surface recèle encore d'énormes quantités de ressources. Des équipes organisées de Stalkers seraient un excellent moyen de les rassembler ces ressources pour le Reich."
 
  RCH_vehicle_technology:0 "Étudier les véhicules ferroviaires"
@@ -185,7 +185,7 @@ RCH_topside:0 "Expéditions de surface"
  RCH_topside2_desc:0 "Nos équipes d'expédition de la surface trouvent régulièrement de vieux appareils électroniques. Nous pouvons les transformer en pièces utiles."
 
  RCH_topside6:0 "Récupérer les machines industrielles"
-RCH_topside6_desc:0 "Une expédition de surface a récemment découvert une énorme usine à proximité et a signalé la présence de machines qui peuvent être récupérées. Cela va grandement renforcer nos efforts industriels."
+ RCH_topside6_desc:0 "Une expédition de surface a récemment découvert une énorme usine à proximité et a signalé la présence de machines qui peuvent être récupérées. Cela va grandement renforcer nos efforts industriels."
 
  RCH_topside3:0 "Récupération de ferraille
  RCH_topside3_desc:0 "En affinant nos processus de mise au rebut, nous pouvons obtenir plus de ressources de chaque élément mis au rebut. Les pièces que nous ne pouvions pas traiter auparavant nous sont désormais utiles."
@@ -203,7 +203,7 @@ RCH_topside6_desc:0 "Une expédition de surface a récemment découvert une éno
  RCH_expansion_pls_annex_desc:0 "Aleksandrovskiy Sad devrait maintenant être reconnue comme l'une de nos propres stations maintenant qu'elle est à notre portée."
 
  RCH_expansion_trubnaya_core:0 "Trubnaya"
- RCH_expansion_trubnaya_core_desc:0 "Trubnaya nous appartient. La population locale résistera probablement, mais elle apprendra à coopérer ."
+ RCH_expansion_trubnaya_core_desc:0 "Trubnaya nous appartient. La population locale résistera probablement, mais elle apprendra à coopérer."
 
  RCH_expansion_barrikadnaya_core:0 "Noyau de Barrikadnaya"
  RCH_expansion_barrikadnaya_core_desc:0 "Nous avons tenu cette station suffisamment longtemps pour la proclamer comme faisant partie de notre territoire et y installer notre peuple. Nous nous attendons à des pertes pendant que nous extirpons les insurgés des anciens détenteurs, mais ils seront rapidement traités."
@@ -211,7 +211,7 @@ RCH_topside6_desc:0 "Une expédition de surface a récemment découvert une éno
  RCH_hole_alliance:0 "Subvertir la station du trou"
  RCH_hole_alliance_desc:0 "Il existe une station neutre non loin du sud de nous, prête à être prise. Ayant des difficultés avec les mutants car sa porte hermétique est endommagée et en mauvais état, les citoyens sont à la merci de la nature. Nous pouvons envoyer une équipe de Stalkers à la station et exercer notre droit de contrôle."
 
-RCH_hole_aggression_tt:0 "\nNous allons envoyer une équipe d'expédition de Stalkers d'élite pour exercer le contrôle sur la station !"
+ RCH_hole_aggression_tt:0 "\nNous allons envoyer une équipe d'expédition de Stalkers d'élite pour exercer le contrôle sur la station !"
  
 
 
