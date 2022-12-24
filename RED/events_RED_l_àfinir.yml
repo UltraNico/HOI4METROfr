@@ -60,7 +60,7 @@
  ### REDUNDANT ### nf_RED.9.d:0 "[ESTABLISHING NEW MINISTRIES AFTER THE WARS END]"
  ### REDUNDANT ### nf_RED.9.a:0 "The Department is established"
 
- RED_ministry_departments_tt:0 "§gPar le biais des§! §YObjectif§!, §YDécisions§! §get§! §YÉvénements§! §gVous débloquerez§! §YConseillers§! §gà ajouter à votre §GMinistère.§! Ces §YConseillers§! peuvent être améliorés dans le menu des décisions, ce qui augmentera leurs bonus.\n\n §Certains§! §YObjectifs§!, §YDécisions§! §get§! §YÉvénements§! §gLes récompenses permettront de débloquer des §GDécisions§! pour améliorer§! §gles bonus des §YConseillers§! d'une manière spécifique."
+ RED_ministry_departments_tt:0 "§gPar le biais des§! §YObjectif§!, §YDécisions§! §get§! §YÉvénements§! §gVous débloquerez§! §YConseillers§! §gà ajouter à votre §GMinistère.§! Ces §YConseillers§! peuvent être améliorés dans le menu des décisions, ce qui augmentera leurs bonus.\n\n Certains §YObjectifs§!, §YDécisions§! §get§! §YÉvénements§! §gLes récompenses permettront de débloquer des §GDécisions§! pour améliorer§! §gles bonus des §YConseillers§! d'une manière spécifique."
  RED_minister_of_economics_departments_tt:0 "\n§YStepan Markelov§! §gSera recruté et prendra la tête du ministère de l'économie.§!"
 
  nf_RED.10.t:0 "Nouveau module économique"
