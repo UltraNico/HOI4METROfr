@@ -1,4 +1,4 @@
-﻿l_french:
+l_french:
 
  nf_RED.1.t:0 "La Révolution"
  nf_RED.1.d:0 "Ce n'est pas un hasard si la Ligne Rouge a jailli de la ligne Sokolnicheskaya. Chaque édifice et chaque façade de la ligne est finement détaillée avec des statues de Staline et de Lénine. Les monuments de certains saints autrefois vénérés sont un témoignage survivant du monde d'avant. À l'instar des tombes égyptiennes, son aura éphémère de puissance a attiré des gens de tous horizons, des pèlerins venus témoigner de ce qui était. Au fil du temps, l'admiration s'est transformée en révérence, puis en dévotion. Avec la disparition du monde tel que nous le connaissions, et seulement ces souvenirs fanés du passé qui existaient. Cela a donné de l'espoir, une opportunité de construire un nouveau bastion socialiste, libéré des fardeaux du passé. Les figures du Komsomol et ceux qui ont vécu sous le règne du socialisme ont commencé à mettre en place un renouveau socialiste. Ils ont renversé les stations locales et installé des conseils révolutionnaires à travers la ligne Sokolnicheskaya, déclarant une première Interstation ; leur but, unir l'ensemble du métro sous le communisme. Andrey Moskvin était l'un de ces révolutionnaires, sa vigueur et sa fermeté étant le fer de lance de la révolution et il se retrouva bientôt à superviser la révolution nouvellement établie."
@@ -223,64 +223,64 @@
  nf_RED.54.c:0 "Des travailleurs de la Sokolnicheskaya"
 
  nf_RED.64.t:0 "Rapports sur l'activité socialistey"
- nf_RED.64.d:0 "Nous avons reçu des rapports alarmants d'éclaireurs communistes se déplaçant sur le site de Sparrow Hills par nos équipes d'enquête. Pas seulement des Stalkers occasionnels de la Sokolnicheskaya, mais des équipes d'enquête entièrement équipées. Si c'est effectivement correct, cela signifie que la Ligne Rouge cherche un moyen de traverser le pont."
+ nf_RED.64.d:0 "Nous avons reçu des rapports alarmants d'éclaireurs communistes se déplaçant sur le site de Vorobiovy Gory par nos équipes d'enquête. Pas seulement des Stalkers occasionnels de la Sokolnicheskaya, mais des équipes d'enquête entièrement équipées. Si c'est effectivement correct, cela signifie que la Ligne Rouge cherche un moyen de traverser le pont."
  nf_RED.64.a:0 "Nous sommes prêts"
 
  nf_RED.65.t:0 "Brouilleurs radio"
  nf_RED.65.d:0 "La Ligne Rouge a déployé des intercepteurs radio pour griller les transmissions entre la base et nos équipes de Stalkers. La communication est déjà difficile sur le terrain, mais maintenant nos équipes sont complètement seules à la surface désolée et dure. L'absence de communication rendra difficile le repérage pour le moment, jusqu'à ce que nous puissions décrypter correctement les transmissions."
  nf_RED.65.a:0 "Maudit sois-tu"
 
- nf_RED.66.t:0 "Explosion at Sparrow Hills"
- nf_RED.66.d:0 "Whether one of our soldiers accidentally activated a IED, or whether by University hands, there was an explosion at Sparrow Hills bridge. A large chunk of the bridge collapsing into the freezing waters below.No evacuation could be properly made as the explosion was sudden\n\n The Bridge was already poorly maintained, furthermore adding strain upon our logistics down there. The bridge is not fully collapsed however, but will be difficult to properly move troops across for the forseeable future."
- nf_RED.66.a:0 "Damn"
+ nf_RED.66.t:0 "Éxplosion à Vorobiovy Gory"
+ nf_RED.66.d:0 "Que ce soit un de nos soldats qui ait accidentellement activé une bombe artisanale, ou que ce soit l'oeuvre de l'université, il y a eu une explosion au pont de Vorobiovy Gory. Une grande partie du pont s'est effondrée dans les eaux glaciales en dessous. Aucune évacuation n'a pu être effectuée correctement car l'explosion a été soudaine. Le pont était déjà mal entretenu, ce qui a ajouté une pression supplémentaire sur notre logistique là-bas. Le pont n'est pas complètement effondré, mais il sera, à présent, difficile d'y faire passer les troupes."
+ nf_RED.66.a:0 "Merde"
 
 
- nf_RED.73.t:0 "Upcomming Elections"
- nf_RED.73.d:0 "Election date draws near. After the Hansa-Redline war concluded it was established that each subsequent general secretary would serve 10 years in office, and furthermore elections would take place amongst the various station chiefs and members of the Politburo to cast their votes. That day soo draws near"
- nf_RED.73.a:0 "Lets hope our party comes out on top.. right?"
+ nf_RED.73.t:0 "Élections à venir"
+ nf_RED.73.d:0 "La date des élections approche. Après la fin de la guerre entre la Hanse et la Ligne Rouge, il a été établi que chaque secrétaire général suivant aurait un mandat de 10 ans. De plus, des élections auraient lieu parmi les différents chefs de station et les membres du Politburo pour exprimer leurs votes. Ce jour approche à grands pas."
+ nf_RED.73.a:0 "Espérons que notre parti sortira vainqueur... d'accord ?"
 
- RED_2033_election_tt:0 "§gThe Elections to decide the next General Secretary are slated to occur in §C2033§!.§g Check Decisions§!"
+ RED_2033_election_tt:0 "§gLes élections pour désigner le prochain secrétaire général sont prévues pour §C2033§!.§g Contrôler les décisions§!"
 
- nf_RED.74.t:0 "Elections"
+ nf_RED.74.t:0 "Élections"
  nf_RED.74.d:0 ""
- nf_RED.74.a:0 "Noted"
+ nf_RED.74.a:0 "Noté"
 
- nf_RED.75.t:0 "Losing Faith in the Secretary"
+ nf_RED.75.t:0 "Perdre la foi en son secrétaire"
  nf_RED.75.d:0 ""
- nf_RED.75.a:0 "Trechary? Preposterous!"
- nf_RED.75.b:0 "Envious with ideals of power, Maxim plots his rise"
- nf_RED.75.c:0 "Seeing his time to strike, Korbut takes the mantle"
+ nf_RED.75.a:0 "Trechary ? C'est absurde !"
+ nf_RED.75.b:0 "Envieux de ses projets de pouvoir, Maxim prépare son ascension."
+ nf_RED.75.c:0 "Voyant qu'il est temps de frapper, Korbut prend le relais."
 
- RED_election_maxim_path_tt:0 "§OThis will set in motion for§! §GMaxim Moskvin§! §Oto become country Leader!§!\n\n§CThis is the Historical Route§!"
- RED_election_korbut_path_tt:0 "§OThis will set in motion for§! §GKorbut§! §Oto become country Leader!§!"
+ RED_election_maxim_path_tt:0 "§OCela fera que§! §GMaxim Moskvin§! §O devienne leader du pays!§!\n\n§CC'est la voie historique§!"
+ RED_election_korbut_path_tt:0 "§OCela fera que§! §GKorbut§! §Odevienne leader du pays!§!"
 
- nf_RED.76.t:0 "Calm before the Storm"
- nf_RED.76.d:0 "Korbut Approached Maxim. Knowing full well the current situation which Andrey faced in the Red Line and seeking to undermind him, whilst furthering his own agenda.\n\n§tI overheard one conversation between your brother and his advisor.. about the threat you pose and ways to eliminate it.§! With that, Korbut usurped Maxims mind and planted it with delusions. But Korbut would give him a taste for power, only to further his own career. His plan to remove Andrey would be put in motion.\n\n"
- nf_RED.76.a:0 "Those documents Korbut attained from Kostoyev will do"
- nf_RED.76.b:0 "With Korbuts Advice, Maxim will pay his brother a visit"
+ nf_RED.76.t:0 "Calme avant la tempête"
+ nf_RED.76.d:0 "Korbut s'est approché de Maxim. Connaissant parfaitement la situation actuelle à laquelle Andrey faisait face dans la Ligne Rouge et cherchant à le saper, tout en poursuivant son propre agenda. Il a entendu une conversation entre Andrey et l'un de ses conseiller... sur la menace que représente Maxim.\n\n"
+ nf_RED.76.a:0 "Ces documents que Korbut a obtenu de Kostoyev feront l'affaire."
+ nf_RED.76.b:0 "Avec le conseil de Korbuts, Maxim rendra visite à son frère."
 
- RED_election_maxim_path_korbut_influence_large_tt:0 "§gKorbut will pull strings to ennact his plan. Maxim Moskvin will become leader once the elections are near§!"
+ RED_election_maxim_path_korbut_influence_large_tt:0 "§gKorbut tirera les ficelles pour mettre en place son plan. Maxim Moskvin deviendra le leader une fois que les élections seront proches.§!"
  
- RED_election_maxim_path_korbut_influence_small_tt:0 "§gMaxim Moskvin will meet with his brother. Whilst Korbut pulls strings from the shadows§!"
+ RED_election_maxim_path_korbut_influence_small_tt:0 "§gMaxim Moskvin va rencontrer son frère. Pendant que Korbut tire les ficelles dans l'ombre.§!"
 
- nf_RED.77.t:0 "Blood Brothers"
- nf_RED.77.d:0 "The two brothers had finally met after so long. It had been an eternity since the two of them had done so. Not in some stuffy boiler room deciding the fate of traitors, or on a perched, ramshackle balcony watching battlions of troops march in an overwhelming show of dominance and loyalty to the Red Line. Just the two. To sit and chat and dine like brothers. And in the end? Through it all? the schemes and underhanded play, Andrey still loved his brother no more than anything else in this world. He remembered fondly of the time the two would play together as kids. A happy youth few will remember, or would ever have again. The bond the two had, and shared had now rotted away. A festering carcass of bitterness and resentment. The glorious days in contrast with the drab room. Those days of brotherly love was gone. \n\n§tMaxim, brother! I'm so pleased that we finally made up. It was a fight over nothing. Let's have a drink!§!\n\nAs his brother raised his glass in a toast, and sipped upon the Mushroom Tea, Maxims face stood firm. Through the 20 years of struggle and toil. Of always being in his brothers shadow. The insurmountable scorn and envy he had dealt with, all manifested to this moment. But he yielded not even a flinch. Watching, observing as his brother succumbed to the poison. Gagging gasping upon the floor as Andrey gave his last dying gasps for life. Not a word."
- nf_RED.77.a:0 "It was done. His fate was sealed"
+ nf_RED.77.t:0 "Frères de sang"
+ nf_RED.77.d:0 "Les deux frères s'étaient enfin rencontrés après si longtemps. Cela faisait une éternité qu'ils ne l'avaient pas fait tous les deux. Pas dans une chaufferie étouffante décidant du sort des traîtres, ou sur un balcon perché et délabré regardant des bataillons de troupes défiler dans une démonstration écrasante de domination et de loyauté envers la Ligne Rouge. Juste les deux. Pour s'asseoir, discuter et dîner comme des frères. Andrey aimait toujours son frère plus que tout au monde. Il se souvenait avec tendresse du temps où ils jouaient ensemble, enfants. Une jeunesse heureuse dont peu de gens se souviendront, ou qu'ils ne retrouveront jamais. Le lien que les deux avaient, et partageaient, avait maintenant pourri. Une carcasse suppurante d'amertume et de ressentiment. Les jours glorieux en contraste avec la chambre terne. Ces jours d'amour fraternel étaient partis. \n\n §tMaxim, mon frère ! Je suis si heureux que nous nous soyons finalement réconciliés. C'était une dispute pour rien. Prenons un verre ! Tandis que son frère levait son verre pour porter un toast, et buvait le thé aux champignons, le visage de Maxim restait ferme. Pendant les 20 années de lutte et de labeur. A être toujours dans l'ombre de son frère. Le mépris et l'envie insurmontables qu'il a dû affronter, tout s'est manifesté en ce moment. Mais il n'a pas cédé, pas même un tressaillement. Observant son frère succomber au poison. S'étouffant sur le sol, Andrey poussait ses derniers soupirs de vie."
+ nf_RED.77.a:0 "C'est fait. Son destin est scellé"
 
- nf_RED.78.t:0 "Brother"
- nf_RED.78.d:0 "What did he have to show for all the bodies littering the station gaps and misery he's caused? Lonely and relegated to being a tool manipulated by higher forces that be. His own son disgusted by his father, resenting him. The corrupt and laughing-stock of a Socialist State is still corrupt just as the day he became General Secretary. Enemies lay all around, within and without which will snuff out the Revolution for good.\n\nMaxim's whole life was swallowed by grief and bitterness towards his brother. Always wanting something more from life, no amount of power or vanity could fill that void. He has no glory day to reminisce about, because he never found any fufillment from life. Not with his brother, not before the war. A pitiful loser. Who will eventually find himself behind the barrel of an up and coming rival."
- nf_RED.78.a:0 "Forgive me, Brother..."
+ nf_RED.78.t:0 "Frère"
+ nf_RED.78.d:0 "Qu'avait-il à montrer pour tous les corps jonchant les interstices de la station et la misère qu'il a causée ? Solitaire et relégué au rang d'outil manipulé par des forces supérieures. Son propre fils dégoûté par son père, lui en voulant. L'État Socialiste, corrompu et risible, est toujours corrompu comme le jour où il est devenu Secrétaire Général. Des ennemis se trouvent tout autour, à l'intérieur et à l'extérieur, qui étoufferont la révolution pour de bon.\n\n La vie entière de Maxim a été avalée par le chagrin et l'amertume envers son frère. Il a toujours voulu quelque chose de plus dans la vie, et aucun pouvoir ou vanité n'a pu combler ce vide. Il n'a pas de jour de gloire à se remémorer, car il n'a jamais trouvé d'épanouissement dans la vie. Ni avec son frère, ni avant la guerre. Un perdant pitoyable. Qui finira par se retrouver derrière le canon d'un rival prometteur."
+ nf_RED.78.a:0 "Pardonnez-moi, Frère..."
 
- nf_RED.79.t:0 "Election"
- nf_RED.79.d:0 "With the election coming to a close, the concensus between the Politburo and station Chiefs was decided. But Maxims wildcard was put into play. Pitted against his own brother, yet no fear or remorse on Maxims brow. The discovery of damning information curtailed Andreys political career right there on the spot."
- nf_RED.79.a:0 "The Damning evidence destroyed Andreys credibility. Left to rot in a cell of Lubyanka"
+ nf_RED.79.t:0 "Élection"
+ nf_RED.79.d:0 "L'élection touchant à sa fin, le consensus entre le Politburo et les chefs de station a été décidé. Mais le caractère sauvage de Maxim a été mis en jeu. Opposé à son propre frère, Maxim n'a ni peur ni remords. La découverte d'informations accablantes a mis fin à la carrière politique d'Andrey sur le champ."
+ nf_RED.79.a:0 "Les preuves accablantes ont détruit la crédibilité d'Andry. Il a été laissé dans une cellule de la Lubyanka."
 
- nf_RED.80.t:0 "Korbut Takes the Helm"
- nf_RED.80.d:0 "Scheming, plotting his way to the top came easy. Now, all of the fruits of his labour would come into season. Andrey only had to be removed."
- nf_RED.80.a:0 "With Andrey's death, Korbut assumed control."
+ nf_RED.80.t:0 "Korbut prend les commandes"
+ nf_RED.80.d:0 "Se frayer un chemin jusqu'au sommet était facile. Maintenant, tous les fruits de son travail vont arriver en saison. Andrey n'avait plus qu'à être retiré."
+ nf_RED.80.a:0 "Avec la mort d'Andrey, Korbut a pris le contrôle."
 
- nf_RED.85.t:0 "Election Day"
- nf_RED.85.a:0 "Unanimous, Andrey was relected as General Secretary"
- nf_RED.85.b:0 "Maxim was elected as the New General Secretary
+ nf_RED.85.t:0 "Jour du vote"
+ nf_RED.85.a:0 "A l'unanimité, Andrey a été réélu secrétaire général."
+ nf_RED.85.b:0 "Maxim a été élu comme nouveau secrétaire général.""
 
 
