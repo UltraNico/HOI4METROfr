@@ -56,7 +56,7 @@
 
  ## Berilag ##
 
- RED_BERILAG_SA_TOOLTIP:0 "La quantité d'équipements §CScientifiques§! que §OBerilag§! a à sa disposition. Celles-ci sont utilisées lors des §CExpériences scientifiques§!"
+ RED_BERILAG_SA_TOOLTIP:0 "La quantité d'équipements §CScientifiques§! que §OBérilag§! a à sa disposition. Celles-ci sont utilisées lors des §CExpériences scientifiques§!"
 
  RED_berilag_SA_text:0 "§C[?berilag_SA]§!"
 
@@ -76,11 +76,11 @@
  RED_berilag_subtract_RP_80_tt:0 "§C80 PS§! §sont supprimé§!"
  RED_berilag_subtract_RP_60_tt:0 "§C60 PS§! §sont supprimé§"!
 
- RED_BERILAG_POW_TOOLTIP:0 "Le nombre de §OPrisonniers§! que nous avons à notre disposition. S'épuisent en échange de §Points Scientifiques§! Notre §Capacité de Prisonniers§! est directement liée à l'infrastructure de §OBerilag§!"
+ RED_BERILAG_POW_TOOLTIP:0 "Le nombre de §OPrisonniers§! que nous avons à notre disposition. S'épuisent en échange de §Points Scientifiques§! Notre §Capacité de Prisonniers§! est directement liée à l'infrastructure de §OBérilag§!"
 
  RED_berilag_POW_text:0 "§O[?berilag_POW]§!/§R[?berilag_POW_CAP]§!"
 
- RED_BERILAG_GM_TOOLTIP:0 "Le nombre de §GGardes§! défendent §CBerilag§!. Ils dissuaderont les §Oémeutiers§! et les intrus. Notre §Ocapacité de garde§! est directement liée à §Cl'infrastructure§! de §OBerilag!§!"
+ RED_BERILAG_GM_TOOLTIP:0 "Le nombre de §GGardes§! défendent §CBérilag§!. Ils dissuaderont les §Oémeutiers§! et les intrus. Notre §Ocapacité de garde§! est directement liée à §Cl'infrastructure§! de §OBérilag!§!"
 
  RED_berilag_GM_text:0 "§G[?berilag_GM]§!/§R[?berilag_GM_CAP]§!"
 
@@ -94,12 +94,12 @@
  RED_berilag_add_SA_20_tt:0 "§Y20 Équipements Scientifiques§! §sont ajouté au stock§!"
  RED_berilag_add_SA_100_tt:0 "§Y100 Équipements Scientifiques§! §sont ajoutés au stock§!"
 
- RED_berilag_increase_occupant_capacity_tt:0 "§gNous allons§! §Yaugmenter§! §Gla capacité§! d'occupation de §OBerilag§!. §gNous allons§! §Yaugmenter§! §Gla capacité§! d'accueil des §Rprisonniers§! et des §Ygardes§!.
+ RED_berilag_increase_occupant_capacity_tt:0 "§gNous allons§! §Yaugmenter§! §Gla capacité§! d'occupation de §OBérilag§!. §gNous allons§! §Yaugmenter§! §Gla capacité§! d'accueil des §Rprisonniers§! et des §Ygardes§!.
  berilag_POW_less_than_cap_tt:0 "§gNous avons suffisamment de capacité pour loger plus de§! §RPrisoners§!"
  berilag_GM_less_than_cap_tt:0 "§gNous avons la capacité de loger plus de§! §YGardes§!"
- RED_berilag_add_POW_5_tt:0 "§5 prisonniers§! §sont incarcérés à! §OBerilag§!"
- RED_berilag_add_POW_10_tt:0 "§O10 Prisonniers§! §sont incarcérés à§! §OBerilag§!"
- RED_berilag_add_GM_5_tt:0 "§G5 Gardes§! §sont envoyés pour garder le§! §OBerilag§!"
+ RED_berilag_add_POW_5_tt:0 "§5 prisonniers§! §sont incarcérés à! §OBérilag§!"
+ RED_berilag_add_POW_10_tt:0 "§O10 Prisonniers§! §sont incarcérés à§! §OBérilag§!"
+ RED_berilag_add_GM_5_tt:0 "§G5 Gardes§! §sont envoyés pour garder le§! §OBérilag§!"
 
  ## Generic Decisions ##
 
@@ -146,7 +146,7 @@
  RED_emerald_city_category:0 "La ville légendaire"
 
  RED_MSU_vorobyovy_gory_bridge:0 "Capture du pont de Vorobyovy Gory"
- RED_MSU_vorobyovy_gory_bridge_desc:0 "Envoyez une équipe de Stalker pour nettoyer le pont de Sparrow Hills des mutants, et établir un quartier général. Envoyez y des expéditions à travers le pont. Nous trouverons ce qui se trouve au-delà. Quoi qu'il en soit."
+ RED_MSU_vorobyovy_gory_bridge_desc:0 "Envoyez une équipe de Stalker pour nettoyer le pont de Vorobiovy gory des mutants, et établir un quartier général. Envoyez y des expéditions à travers le pont. Nous trouverons ce qui se trouve au-delà. Quoi qu'il en soit."
  
  RED_MSU_radio_jammers:0 "Déployer un brouilleur radios"
  RED_MSU_radio_jammers_desc:0 "Déployer une réserve de brouilleurs radio visant à bloquer complètement la communication entre la Cité d'Émeraude et les équipes de Stalkers sur le terrain. Au fur et à mesure que leur communication s'affaiblit, nous pouvons nous préparer à frapper !"
@@ -154,5 +154,5 @@
  RED_MSU_stalker_hit_squads:0 "Reconnaissance"
  RED_MSU_stalker_hit_squads_desc:0 "L'envoi de nos propres forces spéciales, pour explorer et repérer tout point d'intérêt avantageux, sera utile lorsque la guerre frappera inévitablement."
 
- RED_MSU_escalate_war:0 "§RGuerre!§! avec la Cité d'Émeraude"
+ RED_MSU_escalate_war:0 "§RPréparatifs de Guerre!§! avec la Cité d'Émeraude"
 
