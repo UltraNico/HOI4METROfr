@@ -227,7 +227,7 @@
  nf_RED.64.a:0 "Nous sommes prêts"
 
  nf_RED.65.t:0 "Brouilleurs radio"
- nf_RED.65.d:0 "La Ligne Rouge a déployé des intercepteurs radio pour griller nos transmissions entre la base et nos équipes de Stalkers. La communication est déjà difficile sur le terrain, mais maintenant nos équipes sont complètement nues sur la surface désolée et dure. L'absence de communication rendra difficile le repérage de tout empiètement de la Ligne Rouge pour le moment, jusqu'à ce que nous puissions décrypter correctement les transmissions."
+ nf_RED.65.d:0 "La Ligne Rouge a déployé des intercepteurs radio pour griller les transmissions entre la base et nos équipes de Stalkers. La communication est déjà difficile sur le terrain, mais maintenant nos équipes sont complètement seules à la surface désolée et dure. L'absence de communication rendra difficile le repérage pour le moment, jusqu'à ce que nous puissions décrypter correctement les transmissions."
  nf_RED.65.a:0 "Maudit sois-tu"
 
  nf_RED.66.t:0 "Explosion at Sparrow Hills"
