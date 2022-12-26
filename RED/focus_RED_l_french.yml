@@ -1,0 +1,920 @@
+﻿l_french:
+
+ fascist_communist_skirmishes_tt:0 "\nNous veillerons à ce que l'autre camp soit rayé de la surface de la terre. Aucune option autre que la soumission ne fera l'affaire !"
+
+ RED_bulwark_of_socialism:0 "Rempart du socialisme"
+ RED_bulwark_of_socialism_desc:0 "La Ligne Rouge est née de Sokolnicheskaya, le testament et la gloire de l'Etat Soviétique lui-même. Formée de figures du Komsomol, de vétérans survivants et de nombreux autres nostalgiques du passé socialiste de la Russie. La Ligne Rouge est le seul endroit à reproduire la grandeur et la vigueur de l'Union soviétique."
+
+ RED_state_of_the_line:0 "L'état de la ligne"
+ RED_state_of_the_line_desc:0 "Bien que désastreux pour les participants. Les répercussions de la guerre entre Hanza et Redline peuvent être ressenties plus sévèrement au sein de la Ligne Rouge. Les rêves de Andrey d'un métro unifié - écrasés. Avec la paix, cela n'a fait que créer un sentiment de faiblesse en son sein. Des mutineries de dissidents politiques, et de révolutionnaires lointains. La situation doit être abordée."
+
+ RED_question_of_economy:0 "Question d'économie"
+ RED_question_of_economy_desc:0 "Notre économie a tout simplement atteint un point mort. Il faudra plus de pragmatisme qu'une simple injection de fonds pour réparer l'état délabré dans lequel elle se trouve."
+
+ RED_economic_demobilisation:0 "Démobilisation économique"
+ RED_economic_demobilisation_desc:0 "La guerre entre Hansa et la Ligne Rouge n'étant plus qu'un vague souvenir dans la vie des citoyens, leur quantité de travail quotidien reste le même. Nous suivons toujours les mêmes politiques économiques et les mêmes quotas de production que pendant la guerre, il n'y a pas plus d'une demi-décennie. Malgré tous les efforts d'Andrey pour revitaliser la Ligne Rouge, économiquement stagnante, plusieurs obstacles se sont dressés. Maintenant, elle requiert son attention injustifiée."
+
+ RED_formalise_ministry_of_economics:0 "Formaliser le ministère de l'économie"
+ RED_formalise_ministry_of_economics_desc:0 "Dans un effort pour combattre le ressentiment croissant au sein de notre population, l'économie de la Ligne Rouge doit être formellement adressée. Andrey et son groupe soudé de ministres et de secrétaires ne peuvent pas suivre toutes les stations, les fermes isolées et les carcasses de porcs de la Ligne Rouge. Avec le retrait de nos réquisitions de céréales, nous pouvons maintenant nous concentrer sur la croissance de notre économie."
+
+ RED_assume_kulak_property:0 "Assumer les propriétés des Kulak"
+ RED_assume_kulak_property_desc:0 "Fournir à nos citoyens des rabais économiques, en particulier à l'intention de nos agriculteurs, injectera un surplus monétaire bien nécessaire dans notre économie. Cependant, il a été une préoccupation croissante que certains de nos agriculteurs peuvent en effet être trop bon pour leur propre bien. Des fermiers qui ont déjà commencé à vendre "trop" de céréales. C'est ainsi, l'émergence d'une classe moyenne secrète de Kulaks. Le profit capitaliste juste sous notre nez."
+
+ RED_unionise_inefficient_sectors:0 "Syndiquer les secteurs inefficaces"
+ RED_unionise_inefficient_sectors_desc:0 "La stagnation des salaires et des conditions de travail est à l'origine de notre crise. Les secteurs inefficaces de notre économie doivent être améliorés. Pendant le conflit entre Hansa et la Ligne Rouge, les administrations locales ont été autorisées à contrôler directement les industries inter-stationales sans être impliquées. Mais maintenant la guerre est passée. Au fur et à mesure que notre mobilité à produire et à soutenir la ligne augmentera, le besoin de main d'œuvre augmentera."
+
+ RED_question_of_prodrazvyorstka:0 "Question de Prodrazviorstka"
+ RED_question_of_prodrazvyorstka_desc:0 "La Prodrazviorstka, ou la demande de céréales basée sur les quotas de l'État, a permis de soutenir et d'approvisionner immensément notre armée pendant la guerre contre la Hansa, mais nous ne nous battons plus sur tous les fronts. Notre économie est stagnante, et notre population est épuisée par l'assaut constant des stocks de nourriture. Les quotas de nourriture devraient être reconsidérés."
+
+ RED_question_of_military:0 "Question de l'armée"
+ RED_question_of_military_desc:0 "Notre armée reste gonflée, et a un besoin urgent d'une révision rapide et complète. Le seul problème est le pouvoir absurde que le haut commandement militaire fait régner sur la Ligne Rouge. Retirer leur pouvoir est quelque chose à faire avec prudence, de peur qu'ils ne réfléchissent qu'à deux fois à leur allégeance au Secrétariat Général."
+
+ RED_command_reforms:0 "Réformes du commandement"
+ RED_command_reforms_desc:0 "Pendant la guerre, une grande partie de nos forces étaient réparties de manière dispersée sur la ligne Sokolnicheskaya, les opérations combinées étaient peu fréquentes étant donné la nature de la guerre. Avec une structure de commandement plus complète et unifiée, nos forces pourraient être déployées plus efficacement, et être améliorées à partir d'un comité organisé."
+
+ RED_military_renovations:0 "Les rénovations militaires"
+ RED_military_renovations_desc:0 "Malgré l'une des plus grandes forces armées actuelles du métro, l'état de nos forces prouve le contraire. Une bande de vagabonds avec des pistolets à plomb, plutôt que des forces armées à part entière. Il faut faire quelque chose à propos de son état."
+
+ RED_establish_officer_academy:0 "Créer une Académie d'officiers"
+ RED_establish_officer_academy_desc:0 "Les nouvelles générations de jeunes officiers devront endurer les nouvelles et dures réalités du métro. Cela doit inclure le paysage toujours changeant et évolutif de la guerre."
+
+ RED_new_officer_corps:0 "Le service des jeunes officiers"
+ RED_new_officer_corps_desc:0 "Les jeunes sont l'avenir. Nous devons les guider, leur apprendre à hériter de la terre, ce qu'ils feront un jour. Nous devons aussi leur conférer les connaissances nécessaires pour préserver la Ligne Rouge et l'intérêt de la Révolution."
+
+ RED_young_officer_academy:0 "Créer une académie pour les jeunes officiers"
+ RED_young_officer_academy_desc:0 "Les jeunes en herbe et les jeunes officiers d'aujourd'hui, et les généraux et commandants de demain. Par le feu, l'acier et le pur courage, ils vont reconquérir le monde. Dans les flammes de la Révolution, et pas des radiations cette fois."
+
+ RED_future_officers_tt:0 "§g La création d'une académie d'officiers prendra un certain temps, mais rendra nos futurs commandants beaucoup plus compétents.§!"
+
+ RED_question_of_brotherhood:0 "Question de fraternité"
+ RED_question_of_brotherhood_desc:0 "Une question plus urgente pour Andrey, et qui le touche de plus près. Son frère. Il a prouvé qu'il était un stratège compétent ces dernières années, quelqu'un en qui Andrey pouvait avoir confiance, surtout en ces jours de trahison. Cependant, cela serait vrai si Maxim n'avait pas de rancune secrète envers son frère aîné."
+
+ RED_new_economic_draft:0 "Nouvelle ébauche économique"
+ RED_new_economic_draft_desc:0 "Les questions urgentes étant réglées, les efforts peuvent maintenant être faits pour redresser l'économie en déclin. Andrey pense qu'avec l'introduction de nouvelles politiques économiques, la Ligne Rouge peut devenir économiquement rajeunie. Si ce n'est même capable de rivaliser avec la Hansa."
+
+ RED_new_economic_draft_tt:0 "§gSur la base de vos décisions, un plan économique sera élaboré. Cela déverrouillera l'arbre de priorité suivant. Il n'est pas possible de se retirer de l'arbre de priorité actuel tant qu'il n'est pas terminé."
+
+ RED_crisis:0 "Ligne Rouge en péril"
+ RED_crisis_desc:0 "Le péril s'empare de la Ligne Rouge. La secouant jusqu'à ses fondations les plus profondes. Andrey doit faire preuve de légèreté pour assurer la préservation de la ligne entière."
+
+ RED_inaugerate_korbut:0 "Inaugurer Korbut"
+ RED_inaugerate_korbut_desc:0 "Avec les membres désobéissants de l'armée, et les craintes grandissantes de soulèvements violents de notre population. Sans parler de ceux de notre propre parti qui se sont enfuis, avec des documents secrets qui pourraient condamner toute la Ligne Rouge s'ils tombaient entre de mauvaises mains. Le gouvernement d'Andrey est en péril. Le KGB est toujours loyal et peut être utilisé à bon escient. Cependant, leur chef est la dernière personne qu'Andrey aurait voulu voir. Mieux vaut le démon qu'on connaît que celui qu'on ne connaît pas."
+
+ RED_korbut_inaugerate_tt:0 "Le §YComité de sécurité de l'État§!, ou §YKGB§! §gaura un pouvoir d'urgence. La situation avec le transfuge sera traitée et les documents compromettants seront restaurés§!."
+ 
+ RED_deal_with_military_mutinies:0 "Traiter les mutineries"
+ RED_deal_with_military_mutinies_desc:0 "Les protestataires militaires doivent être combattus immédiatement. Les mutinés potentiels doivent être arrêtés. Que cela serve de leçon à ceux qui ont tourné le dos à la Ligne Rouge."
+
+ RED_military_mutinies_decisions_tt:0 "§gCeci va débloquer la capacité de traiter l'insubordination au sein de notre armée par le biais§! §CDécisions.§!"
+
+ RED_rid_mutinies:0 "Débarrassez-vous des mutineries"
+ RED_rid_mutinies_desc:0 "Les ennemis de la révolution se trouvent tout autour de nous, et pourtant nous nous battons entre nous. Ces mutineries militaires ne sont rien de plus qu'un barrage menant à l'inéluctable chemin du communisme. Une tumeur cancéreuse sur notre règne. Les militaires se servent d'eux-mêmes, et non des vrais idéaux de Lénine. Ils doivent être supprimés, leur pouvoir doit disparaître."
+
+ RED_military_rid_mutinies_tt:0 "§gNous serons en mesure de supprimer les§! §YMutineries militaires§! avec §gl'esprit national à travers§! §CDécisions.§!"
+
+ RED_nkvd_divisions:0 "Créer des bataillons du NKVD"
+ RED_nkvd_divisions_desc:0 "Le NKVD est toujours dévoué, malgré les intérêts de l'armée. Quelles que soient les intentions de Korbut, son coeur reste indiscutablement loyal à la Ligne Rouge, et il veillera à ce que ces contre-révolutionnaires soient écrasés. Avec cela, le NKVD doit être modernisé et étendu ; il effectuera les fonctions de combat principal en même temps."
+
+ RED_NKVD_oob_tt:0 "\n§C2§! §gdivisions du NKVD vont apparaître dans notre capitale!§!"
+
+ RED_approach_dissenters:0 "Approcher les dissidents"
+ RED_approach_dissenters_desc:0 "Tous les contestataires ne sont pas loyaux envers Kovshov. Il existe un groupe assez important de ceux qui sont encore fidèles à Andrey, ainsi que ceux qui sont encore fidèles à la Ligne Rouge."
+
+ RED_approach_commanders_tt:0 "Nous allons approcher ceux qui ne se sont pas rangés du côté de Andrey ou de Kovshov, et gagner leur soutien."
+
+ RED_out_of_sight:0 "Hors de vue"
+ RED_out_of_sight_desc:0 "Comme le dit le proverbe, le ticket pour la Lubyanka ne va que dans un sens. Utilisée comme une prison politique pour loger ceux qui veulent du mal à l'État. Maintenant, elle peut être utilisée pour héberger les forces militaires qui bravent les règles d'Andrey. Le défi ne sera pas autorisé."
+
+ RED_martyrs_disappear:0 "Les martyrs disparaissent"
+ RED_martyrs_disappear_desc:0 ""
+
+ RED_mutiny_is_crumbling:0 "§gLes§! §RMutineries§! §gdoivent commencer à faiblir!§!"
+
+ RED_rallying_cry:0 "Un cri de ralliement"
+ RED_rallying_cry_desc:0 "Ceux qui sont fidèles à la Ligne Rouge, doivent se lever. Il faut savoir que ceux qui se mettent en travers du chemin de la révolution ouvrière ne valent pas mieux que de vulgaires fascistes ou des capitalistes bouffis. L'ennemi n'est pas seulement à l'extérieur, mais aussi à l'intérieur. Ces deux ennemis doivent être écrasés."
+
+ RED_rallying_cry_tt:0 "\n§C2§! §YDivisions d'infanterie§! §gvont apparaître dans notre capitale!§!"
+
+ RED_name_and_shame:0 "Le nom et la honte"
+ RED_name_and_shame_desc:0 "Il faut l'entendre. Fort et clair. Ceux qui ne sont pas loyaux envers le Secrétaire Général, ne sont pas loyaux envers la Ligne Rouge. Rien de plus que des conspirateurs ennuyeux contre la Révolution."
+
+ RED_squash_dissidents:0 "Dissidents de Kovshov"
+ RED_squash_dissidents_desc:0 "Ceux qui étaient à l'origine fidèles à Kovshov commencent à avoir des doutes et se détournent de lui. Les autres restent des ennemis de la révolution, et doivent être mis à mort."
+
+ RED_promote_loyalty:0 "Promouvoir la loyauté"
+ RED_promote_loyalty_desc:0 "A ceux qui sont restés fidèles au communisme et au gouvernement central, il faut savoir que nous avons leur plus grand respect."
+
+ RED_the_great_show_trial:0 "Commencez le grand procès de démonstration"
+ RED_the_great_show_trial_desc:0 "Le pouvoir de Kovshov commence à s'affaiblir."
+
+ RED_staff_purge:0 "Commencez la purge !"
+ RED_staff_purge_desc:0 "Avec les dissidents réprimés, c'est le meilleur moment pour éliminer complètement la corruption au sein de l'armée. L'armée est au service du gouvernement central, pas l'inverse."
+
+ RED_staff_purge_removal_prerequesites_tt:0 "§gNous ne serons pas en mesure de modifier nos§!§RLois militaires§!"
+
+ RED_unlock_next_focus_tree_tt:0 "\n\n§gUne fois la§! §GPurge du personnel§! et §GLa conviction de la foule atteinte§! §gun événement sera déclenché pour débloquer l'arbre suivant.§!"
+ RED_dismantle_mushroom_revolts:0 "Démanteler les rébellions de champignons"
+ RED_dismantle_mushroom_revolts_desc:0 "Ces insurgés ne sont rien d'autre que des paysans affamés qui souhaitent éteindre les flammes et faire s'écrouler la ligne entière. Ils s'attaquent aux problèmes actuels et les exacerbent davantage. Il faut s'en occuper."
+
+ RED_approach_hansa:0 "Approche Hansa"
+ RED_approach_hansa_desc:0 "Le dernier état que nous aimerions approcher, étant donné que la Ligne Rouge et eux ne sont pas particulièrement en bon termes. Et traiter avec notre ennemi idéologique ? Un état capitaliste ? Absolument inouï."
+
+ RED_new_polis_treaty:0 "Nouveau traité de Polis "
+ RED_new_polis_treaty_desc:0 "De la même manière qu'auparavant, et sous couvert de rectifier le traité du passé. Hansa et la Ligne Rouge se rencontreront à la station Polis. La Hansa approvisionnera la Ligne Rouge en nourriture, tandis que la Ligne Rouge s'engagera à maintenir la neutralité dans le métro. Pour l'instant du moins."
+
+ RED_new_polis_treaty_tt:0 "\n§gNous ne pourrons§! §Opas§! §gmodifier notre§! §Cloi sur le commercew§! §gpendant la durée de§! §Ode l'esprit national.§!\n"
+
+ RED_mushroom_trades:0 "Commerce de champignons"
+ RED_mushroom_trades_desc:0 "Les trains et les wagons de ravitaillement entrent et sortent de Hansa, gardés seulement par les plus fidèles pour ne pas causer de troubles."
+
+ RED_deal_well_made:0 "Marché bien conclu"
+ RED_deal_well_made_desc:0 "L'accord mutuel entre la Ligne Rouge et Hansa s'est avéré lucratif pour le commerce. Les deux nations, malgré leurs divergences, sont au moins capables de faire du commerce de manière diplomatique. Bien qu'avec un air tendu et des doutes silencieux l'un envers l'autre."
+
+ RED_reforms:0 "Réformes intérieures"
+ RED_reforms_desc:0 "La Ligne Rouge s'est éloignée de ses idéaux révolutionnaires de socialisme de classe et d'égalité. Elle s'est militarisée et s'est éloignée de ceux-là mêmes qui l'ont créée il y a tant d'années. Une réforme complète des tenants et aboutissants du parti et de ses opérations est nécessaire pour lui permettre de regagner l'amour et la loyauté des gens du peuple."
+
+ RED_sabotage_the_revolution:0 "Saboter la révolution"
+ RED_sabotage_the_revolution_desc:0 "La révolution ne fait que commencer. Elle va devenir une boule de neige si on ne la contrôle pas. Une idée fournie par la Sécurité d'État est d'implanter des espions dans leurs propres rangs et de causer la destruction de l'intérieur. Un monopole sur le désordre."
+
+ RED_sabotage_the_revolution_tt: "§gNous utilisons la NKVD pour infiltrer et détourner le mécontentement croissant de la révolution§! Par le biais de §YDécisions.§!"
+
+ RED_crackdowns:0 "Mesures de répression"
+ RED_crackdowns_desc:0 ""
+
+ RED_crackdowns_tt:0 "§gPermetre une autre§! §YDécision§! §gpour traiter et réprimer la révolte des champignons.§!"
+
+ RED_repress_the_evidence:0 "Détruire les preuves"
+ RED_repress_the_evidence_desc:0 "Aucun mot ne doit jamais sortir au sujet de ces manifestations ni des incarcérations massives qui ont eu lieu. Les manifestations n'ont jamais eu lieu, ne se sont jamais produites et n'ont jamais existé."
+
+ RED_meet_with_the_revolters:0 "Rencontre avec les protestataires"
+ RED_meet_with_the_revolters_desc:0 "Après d'âpres discussions, une rencontre a été organisée entre le gouvernement central et les manifestants dans une zone isolée. Espérons que tout se passe bien..."
+ 
+ RED_rid_the_ring_leaders:0 "Débarrasser les leaders l'anneau"
+ RED_rid_the_ring_leaders_desc:0 ""
+
+ RED_military_industry_scaleback:0 "Réduire la taille de l'armée"
+ RED_military_industry_scaleback_desc:0 ""
+
+ RED_military_industry_scaleback_lock_tt:0 "§Nous ne serons pas en mesure de modifier notre§! §YLoi sur la mobilisation§! §Rpendant toute la durée de l'Idée!§!"
+
+ RED_reintroduce_workers_councils:0 "Réintroduire les comités d'entreprise"
+ RED_reintroduce_workers_councils_desc:0 ""
+
+ RED_worker_councils_law_lock_tt:0 "§RNous ne serons pas en mesure de modifier notre§! §Yloi sur l'économie§! §Rpendant toute la durée de l'Idée!§!"
+
+ RED_the_crowd_stills:0 "Les images de foule"
+ RED_the_crowd_stills_desc:0 ""
+
+ RED_fund_special_research:0 "Financement de recherches spéciales"
+ RED_fund_special_research_desc:0 ""
+
+ RED_development_the_berilag:0 "Développement de la région de Bérilag"
+ RED_development_the_berilag_desc:0 ""
+
+ RED_allow_volunteers:0 "Autoriser les 'volontaires'"
+ RED_allow_volunteers_desc:0 ""
+
+ RED_additional_funding:0 "Financement supplémentaire"
+ RED_additional_funding_desc:0 ""
+
+ RED_self_autonomy:0 "§CAutonomie de l'individu§!"
+ RED_self_autonomy_desc:0 ""
+ RED_berilag_self_autonomy_tt:0 "\n§OBérilag§! §CDécisions§!§g améliorés§! §GBonus!§!"
+
+ RED_under_jurisdiction:0 "§RSous juridiction§!"
+ RED_under_jurisdiction_desc:0 ""
+ RED_berilag_under_jurisdiction_tt:0 "\n§OBérilag§! §gDécisions§! §station§! §GMoins cher!§!"
+
+ RED_further_volunteers:0 "Autres volontaires"
+ RED_further_volunteers_desc:0 ""
+ RED_further_volunteers_tt:0 "\n§OBérilag§! §RPrisonnier§! §CDécision§! §GDoublement!§!"
+
+ RED_station_renovations:0 "Rénovations de stations"
+ RED_station_renovations_desc:0 ""
+
+ RED_scientific_amenities:0 "Équipements scientifiques"
+ RED_scientific_amenities_desc:0 ""
+
+ RED_retained_guards:0 "Gardes détenus"
+ RED_retained_guards_desc:0 ""
+
+ RED_scientific_reportings:0 "Rapports scientifiques"
+ RED_scientific_reportings_desc:0 ""
+
+ RED_secret_projects:0 "Projets Secrets"
+ RED_secret_projects_desc:0 ""
+
+ RED_mind_control:0 "Contrôle de l'esprit"
+ RED_mind_control_desc:0 ""
+
+ RED_dark_ones:0 "Enquête sur les Sombres"
+ RED_dark_ones_desc:0 ""
+
+ RED_virus:0 "Développements viraux"
+ RED_virus_desc:0 ""
+
+ RED_long_arm_of_the_state:0 "Le bras long de l'État"
+ RED_long_arm_of_the_state_desc:0 ""
+
+ RED_armored_train:0 "Train blindé"
+ RED_armored_train_desc:0 ""
+
+ RED_super_soldaten:0 "Projet de Super Soldat"
+ RED_super_soldaten_desc:0 ""
+
+ RED_socialist_arms:0 "Armes avancées"
+ RED_socialist_arms_desc:0 ""
+
+
+ RED_2030:0 "2030"
+ RED_2030_desc:0 ""
+
+ RED_development_of_the_red_line:0 "Développement de la Sokolnicheskaya"
+ RED_development_of_the_red_line_desc:0 ""
+
+ RED_minister_of_labour_departments_tt:0 "Création du ministère du Travail"
+
+ RED_agricultural_demand:0 "Demande agricole"
+ RED_agricultural_demand_desc:0 ""
+
+ RED_kolkhozes:0 "Kolkhozes"
+ RED_kolkhozes_desc:0 "Organiser nos paysans et agriculteurs en Fermes Collectives permettrait d'améliorer la redistribution des ressources et en plus d'améliorer son rendement agricole."
+
+ RED_sovkhozes:0 "Sovkhozes"
+ RED_sovkhozes_desc:0 "Les fermes d'État et les parcelles de terres agricoles permettraient de gérer plus facilement la production. En outre, le pouvoir de l'État dans chaque station individuelle serait accru par l'affectation de la main-d'œuvre et la surveillance de la production."
+
+ RED_allow_station_autonomy:0 "Permettre l'autonomie des stations"
+ RED_allow_station_autonomy_desc:0 ""
+
+ RED_intergrate_agriculture:0 "Intégration de l'agriculture de station"
+ RED_intergrate_agriculture_desc:0 ""
+
+ RED_increased_pig_output:0 "Fourrage pour porcs"
+ RED_increased_pig_output_desc:0 ""
+
+ RED_increased_pig_output_2:0 "Fourrage pour porcs, amélioré"
+ RED_increased_pig_output_2_desc:0 ""
+
+ RED_pig_feed:0 "Fermes d'élevage de porcs"
+ RED_pig_feed_desc:0 ""
+
+ RED_food_issue:0 "Agriculture autosuffisante"
+ RED_food_issue_desc:0 ""
+
+ RED_state_controlled_plots:0 "Parcelles appartenant à l'État"
+ RED_state_controlled_plots_desc:0 ""
+
+ RED_collectivization:0 "Efforts de collectivisation"
+ RED_collectivization_desc:0 ""
+
+ RED_central_planning:0 "Planification centralisée"
+ RED_central_planning_desc:0 ""
+
+ RED_central_planning_2:0 "Raccorder la Sokolnicheskaya"
+ RED_central_planning_2_desc:0 ""
+
+ RED_central_planning_3:0 "Urbanisation en perspective"
+ RED_central_planning_3_desc:0 ""
+
+ RED_central_planning_4:0 "Pouvoir centralisé"
+ RED_central_planning_4_desc:0 ""
+
+ RED_central_planning_5:0 "Des pistes libres de toute contrainte"
+ RED_central_planning_5_desc:0 ""
+
+ RED_map_out_the_gosplan:0 "Cartographier le Gosplan"
+
+ RED_unionize_artisans:0 "Syndicaliser les artisans"
+ RED_unionize_artisans_desc:0 ""
+
+ RED_military_plant:0 "Créer une usine militaire"
+ RED_military_plant_desc:0 ""
+
+ RED_retooling_artisans_for_war:0 "Se préparer à la guerre"
+ RED_retooling_artisans_for_war_desc:0 ""
+
+ RED_vasily_petrov_trait_tt:0 ""
+
+ RED_military_plant_2:0 "Complexes industriels militaires"
+ RED_military_plant_2_desc:0 "§Ministre de la Défense§! Gagne un §Nouveau Trait!§!"
+
+ RED_department_of_production:0 "Créer le Département de la Production"
+ RED_department_of_production_desc:0 ""
+
+ RED_minister_of_labour_departments_tt:0 "Établir le Département de la Production"
+
+ RED_military_engineering:0 "Contrats d'ingénierie militaire"
+ RED_military_engineering_desc:0 ""
+
+ RED_cutting_edge_developments:0 "Développement de pointe"
+ RED_cutting_edge_developments_desc:0 ""
+
+ RED_quotas_of_production:0 "Quotas de production"
+ RED_quotas_of_production_desc:0 ""
+
+ RED_foster_positive_heroism:0 "Encourager l'héroïsme positif"
+ RED_foster_positive_heroismm_desc:0 ""
+
+ RED_a_world_for_tomorrow:0 "Un monde pour demain "
+ RED_a_world_for_tomorrow_desc:0 ""
+
+ RED_workers_culture:0 "Culture des ouvriers"
+ RED_workers_culture_desc:0 ""
+
+ RED_minister_of_domestics_departments_tt_tt:0 "Créer le ministère des affaires domestiques"
+
+ RED_socialist_radio:0 "Radio socialiste"
+ RED_socialist_radio_desc:0 ""
+
+ RED_bolshoi_theatre:0 "Ouvrir le Théâtre Bolchoï"
+ RED_bolshoi_theatre_desc:0 ""
+
+ RED_tap_into_radio_transmissions:0 "Accéder aux transmissions radio"
+ RED_tap_into_radio_transmissions_desc:0 ""
+
+RED_fund_an_education_department:0 "Financer le département d'éducation"
+ RED_fund_an_education_department_desc:0 ""
+
+ RED_children_schools:0 "Enseignement primaire"
+ RED_children_schools_desc:0 ""
+
+RED_fitness_schools:0 "Écoles de sport"
+ RED_fitness_schools_desc:0 ""
+
+ RED_engineering_academy:0 "Académies d'ingénieurs"
+ RED_engineering_academy_desc:0 ""
+
+ RED_fund_an_education_department_4:0 "Construire un monde meilleur"
+ RED_fund_an_education_department_4_desc:0 ""
+
+RED_getting_the_band_back_together:0 "Reconstituer le groupe"
+ RED_getting_the_band_back_together_desc:0 ""
+
+ RED_question_of_arts_and_culture:0 "Question d'art et de culture"
+ RED_question_of_arts_and_culture_desc:0 ""
+
+ RED_propaganda_in_art:0 "La propagande dans l'art"
+ RED_propaganda_in_art_desc:0 ""
+
+ RED_scouring_lenins_tomb:0 "La tombe de Lénine"
+ RED_scouring_lenins_tomb_desc:0 ""
+
+ RED_unlock_lenin_tomb_tt:0 "\n§oCela débloquera la décision de fouiller le tombeau de Lénine!§!"
+
+ RED_repair_socialist_facades:0 "Réparer les façades socialistes"
+ RED_repair_socialist_facades_desc:0 ""
+
+ RED_project_socialist_nostalgia:0 "Projet de nostalgie socialiste"
+ RED_project_socialist_nostalgia_desc:0 ""
+
+ RED_preach_the_word_of_lenin:0 "Prêchez la parole de Lénine"
+ RED_preach_the_word_of_lenin_desc:0 ""
+
+ RED_propaganda_tune:0 "Musique de propagande"
+ RED_propaganda_tune_desc:0 ""
+
+ RED_project_socialist_nostalgia:0 "Projet de nostalgie socialiste"
+ RED_project_socialist_nostalgia_desc:0 ""
+
+ RED_radio_relations:0 "Lectures d'actualités radiophoniques"
+ RED_radio_relations_desc:0 ""
+
+ RED_radio_subvert_populace:0 "Les radios comme outil de Subversion"
+ RED_radio_subvert_populace_desc:0 ""
+
+ RED_use_korbut:0 "Utiliser les services secrets"
+ RED_use_korbut_desc:0 "Successeur secret et impitoyable du KGB, le Comité de sécurité d'État peut être utilisé pour débarrasser la Ligne Rouge des agitateurs anti-socialistes et éliminer les problèmes auxquels la Ligne Rouge est confrontée. Cependant, il peut chercher des motivations inférieures, qui ne correspondent pas aux objectifs d'Andrey en matière de réforme de la Ligne Rouge."
+
+ RED_reintroduce_chekists:0 "Réintroduire les Tchékistes"
+ RED_reintroduce_chekists_desc:0 "La branche armée du KGB, les Chekistes pourraient être correctement équipés et fournir un service plus interne et actif. Dissuader les intrus, créer un vaste réseau de surveillance de notre population."
+
+ RED_infiltrate_workers_culture:0 "Infiltrer la sphère civile"
+ RED_infiltrate_workers_culture_desc:0 "S'assurer correctement que la population reste indéfectiblement loyale et soumise aux idéaux du Socialisme et de l'État. Infiltrer les sphères civiles est nécessaire pour prévenir et combattre la dissidence anti-soviétique."
+
+ RED_watch_the_politburo:0 "Suivre le Politburo"
+ RED_watch_the_politburo_desc:0 "Malgré le meilleur intérêt du Politburo pour la Ligne Rouge, ce qui ne peut être dit est leur loyauté envers le Secrétaire Général. Garder un œil sur ses membres nous permettrait de surveiller tout acte de trahison. Sans dire que cela n'arrivera jamais, bien sûr. Ils ont le meilleur intérêt pour la Ligne Rouge."
+
+ RED_placate_ministers:0 "Placider les ministres"
+ RED_placate_ministers_desc_:0 "Les administrateurs des stations régionales, les dirigeants locaux et les personnalités prolifiques au sein de notre république peuvent risquer la colère pour s'exprimer contre notre règle. Les apaiser par des cadeaux, ou la bonne vieille peur et l'intimidation devraient les faire taire."
+
+ RED_gather_politburo_support:0 "Réunir le soutien du Politburo"
+ RED_gather_politburo_support_desc:0 "Le Politburo est composé de 10 membres et constitue l'organe directeur du Comité central du Parti communiste. Parmi ses membres figurent des conservateurs de la vieille école qui déterminent les politiques de la Ligne Rouge. Risquer leur hostilité n'est pas une chose à faire. Recueillir leur soutien est donc une priorité absolue."
+
+ RED_banner_of_the_revolution:0 "Bannière de la Révolution"
+ RED_banner_of_the_revolution_desc:0 "Le Politburo se réunit deux fois par mois dans une salle en bois construite au milieu du hall central de la station 'Place de la Révolution'. L'établissement d'un lieu de rassemblement approprié pour le comité peut nous attribué des faveurs en retour"
+
+ RED_workers_councils:0 "Réintroduction des Conseils d'Ouvriers"
+ RED_worrkers_councils_desc:0 ""
+
+ RED_concessions_to_the_masses:0 "Concessions aux gens du peuple"
+ RED_concessions_to_the_masses_desc:0 ""
+
+ RED_shut_down_mutinies:0 "Arrêt des mutineries"
+ RED_shut_down_mutinies_desc:0 ""
+
+ RED_politburo_onboard:0 "Politburo dans le jus"
+ RED_politburo_onboard_desc:0 ""
+
+ RED_crisis_averted:0 "Crise évitée"
+ RED_crisis_averted_desc:0 ""
+
+ RED_civil_war:0 "§Guerre civile!§ !"
+ RED_civil_war_desc:0 "Les agitateurs et autres rebuts de notre société sont sortis des oubliettes pour renverser notre République socialiste. Le rêve est-il... mort ?"
+
+ RED_surface_studies:0 "Études de la surface"
+ RED_surface_studies_desc:0 ""
+
+ RED_stalker_tactics:0 "Tactiques de Stalkers"
+ RED_stalker_tactics_desc:0 ""
+
+ RED_soviet_memrobillia:0 "Récupération de la mémoire soviétique"
+ RED_soviet_memrobillia_desc:0 ""
+
+ RED_lenin_tomb:0 "Excavation du mausolée de Lénine"
+ RED_lenin_tomb_desc:0 ""
+
+ RED_point_in_the_storm:0 "Point dans la tempête"
+ RED_point_in_the_storm_desc:0 ""
+
+ RED_listening_posts:0 "Messages de propagande"
+ RED_listening_posts_desc:0 ""
+
+ RED_might_of_the_red_line:0 "La puissance de la Ligne Rouge"
+
+ RED_conscription_reforms:0 "Réformes de la conscription"
+
+ RED_soviet_soldier_myth:0 "Le mythe du soldat soviétique"
+
+ RED_sniper_teams:0 "Équipes de tireurs d'élite"
+
+ RED_study_tank_designs:0 "Conception de chars de combat"
+
+ RED_NKVD_exceptions:0 "Dérogations aux règles du NKVD"
+
+ RED_permit_special_recruitment:0 "Autoriser le recrutement spécial"
+
+ RED_allow_special_jurisdiction:0 "Autoriser la juridiction spéciale"
+
+ RED_nkvd_exceptions:0 "Dérogations du NKVD "
+ RED_nkvd_exceptions_desc:0 ""
+
+ RED_secret_police_roles:0 "Rôles de la police secrète"
+ RED_secret_police_roles:0 ""
+
+ RED_kortbut_general:0 "Korbut Général"
+ RED_kortbut_general_desc:0 ""
+
+ RED_nkvd_primacy:0 "La suprématie du NKVD"
+ RED_nkvd_primacy_desc:0 ""
+
+ RED_nkvd_military_units:0 "Soutien militaire du NKVD"
+ RED_nkvd_military_units_desc:0 ""
+
+ RED_nkvd_equipment:0 "Équipement du NKVD"
+ RED_nkvd_equipment_desc:0 ""
+
+ RED_allow_administration_roles:0 "Permettre les rôles administratifs"
+
+ RED_permit_military_roles:0 "Permettre les rôles militaires"
+
+ RED_no_227:0 "No.227"
+
+ RED_spy_network:0 "Réseaux d'espionnage"
+ RED_spy_network_desc:0 ""
+
+ RED_unlock_ability_tt:0 "Déblocage de la capacité de commandement; §COrdre No.227§! - §RPas un pas en arrière!§!"
+
+ RED_court_martial_roles:0 "Rôles de cour martiale"
+
+ RED_spy_networks:0 "Réseaux d'espionnage"
+
+ RED_anti_corruption_force:0 "Force anti-corruption"
+
+ RED_give_korbut_general:0 "Donner un général à Korbut"
+
+ RED_establish_gosplan:0 "Établir le Gosplan"
+
+ RED_unionize_trades:0 "Syndicaliser la main d'oeuvre"
+
+ RED_centralised_planning:0 "Comité de planification centralisée"
+
+ RED_allow_for_private_market:0 "Une économie dynamique"
+
+ RED_requisition:0 "Une économie réquisitionnaire"
+
+ RED_prodrazvyorstka:0 "Suppression de la Prodrazvyorstka"
+
+ RED_collectivization_efforts:0 "Commencer les efforts de collectivisation"
+
+ RED_infrastructure_development:0 "Développement des infrastructures de la Ligne Rouge"
+
+ RED_infrastructure_development_inner_line:0 "Développement des infrastructures de la ligne intérieure"
+
+ RED_infrastructure_development_northern_line:0 "Développement des infrastructures de la ligne du Nord"
+
+ RED_infrastructure_developement_southern_line:0 "Développement des infrastructures aux Frontières Sud"
+
+ RED_infrastructure_developement_electricity:0 "Développement des infrastructures électriques"
+
+ RED_economic_plan:0 "Un plan économique pour l'avenir"
+
+RED_great_leap:0 "Grand Bond I"
+
+ RED_great_leap_2:0 "Grand Bond II"
+
+ RED_methodical_leap:0 "Un saut méthodique"
+
+ RED_methodical_leap_2:0 "Améliorer les compétences méthodiques"
+
+ RED_begin_the_4_year_plan:0 "Entamer le plan quadriennal"
+
+ RED_standards:0 "Normes de recrutement"
+
+ RED_cohesive_tactics:0 "Tactique de cohésion"
+
+ RED_adaptability:0 "Capacité d'adaptation"
+
+RED_elite_military:0 "Force d'élite"
+
+ RED_mass_recruitment:0 "Campagnes de recrutement de masse"
+
+ RED_cartridge:0 "Une cartouche par camarade"
+
+ RED_no_victory_without_sacrifice:0 "Pas de victoire sans sacrifice"
+
+ RED_uraaaa:0 "URAAAAA !"
+
+## cemented authority branch
+
+RED_cemented_authority:0 "Autorité cimentée"
+RED_cemented_authority_desc:0 ""
+
+RED_minister_of_foreign_affairs_departments_tt:0 "Créer le ministère des affaires étrangères"
+
+RED_MSU_bridge:0 "Pont sur les eaux troubles"
+RED_MSU_bridge_desc:0 ""
+
+RED_vorobyovy_gory:0 "§gPermet une série de§!§O Décisions§!§g pour coloniser le pont de Vorobiovy Gory.§!"
+
+RED_emerald_city:0 "Fissure de façade"
+RED_emerald_city_desc:0 "Il est temps pour la Cité d'Emeraude de plier le genou. Nos Stalkers et nos équipes d'armes lourdes enfoncent leurs portes hermétiques."
+
+RED_crack_the_facade_tt:0 "§gPermet une série de§!§O Décisions§!§g pour intensifier une guerre avec la§!§G Cité d'Emeraude.§!"
+
+RED_to_the_victors:0 "Aux vainqueurs..."
+RED_to_the_victors_desc:0 "f"
+
+RED_red_line_secured:0 "Sokolnicheskaya Sécurisé"
+RED_red_line_secured_desc:0 ""
+
+RED_bastion_of_socialism:0 "Bastion du socialisme"
+RED_bastion_of_socialism_desc:0 ""
+
+RED_rebuild_line_proper:0 "Construire les bases de demain"
+RED_rebuild_line_proper_desc:0 ""
+
+RED_RCH_frontline:0 "Renforcer les lignes de front"
+RED_RCH_frontline_desc:0 ""
+
+RED_RCH_frontline_agressive:0 "Pas un centimètre de terrain !"
+RED_RCH_frontline_agressive_desc:0 ""
+
+RED_RCH_frontline_defensive:0 "Défense en finesse"
+RED_RCH_frontline_defensive_desc:0 ""
+
+RED_RCH_frontline_sabotage:0 "Saboter les approvisionnements fascistes"
+RED_RCH_frontline_sabotage_desc:0 ""
+
+RED_frontline_sabotage_decision_tt:0 "§gDéverrouiller des§! §GDécisions§! §gen temps de guerre pour perturber l'infrastructure et l'approvisionnement du Reich.!§!"
+
+RED_RCH_frontline_barricades:0 "Défenses préliminaires"
+RED_RCH_frontline_barricades_desc:0 ""
+
+RED_frontline_hunker_down_tt:0 "§gChaque État situé entre nous et le Reich que nous occupons, gagnera des§! §YBunkers§! §get des§! §YInfrastructures!§!"
+
+RED_RCH_frontline_AT:0 "Équipement anti-char"
+RED_RCH_frontline_AT_desc:0 ""
+
+RED_RCH_frontline_reinforce:0 "Renforcer le front"
+RED_RCH_frontline_reinforce_desc:0 ""
+
+RED_RCH_frontline_war:0 "Guerre contre les fascistes"
+RED_RCH_frontline_war_desc:0 ""
+
+RED_flag_above_tverskaya:0 "Bannière rouge sur Tverskaya"
+RED_flag_above_tverskaya_desc:0 ""
+
+RED_RCH_frontline_protect_reich_border:0 "Défense contre l'incursion fasciste"
+RED_RCH_frontline_protect_reich_border_desc:0 ""
+
+RED_RCH_frontline_support_containment:0 "Contenir la menace nazie"
+RED_RCH_frontline_support_containment_desc:0 ""
+
+RED_HNZ_enemy:0 "Guerre contre la Hansa"
+RED_HNZ_enemy_desc:0 ""
+
+RED_breakaways:0 "Amis étrangers"
+RED_breakaways_desc:0 ""
+
+RED_1905:0 "La Confédération 1905"
+RED_1905_desc:0 ""
+
+RED_1905_civ_1:0 "Commerce d'outils en commun"
+RED_1905_civ_1_desc:0 ""
+
+RED_1905_civ_2:0 "Mise au rebut des terminaux"
+RED_1905_civ_2_desc:0 ""
+
+RED_1905_flavor_1:0 "Prêcher l'unité socialiste"
+RED_1905_flavor_1_desc:0 ""
+
+RED_1905_flavor_2:0 "Union des stations"
+RED_1905_saveur_2_desc:0 ""
+
+RED_1905_2:0 "Amitié avec la Confédération 1905"
+
+RED_trotskyists:0 "La Première Brigade Internationale"
+RED_trotskyists_desc:0 ""
+
+RED_trotskyists_civ_1:0 "Envoi de matériel"
+RED_trotskyists_civ_1_desc:0 ""
+
+RED_trotskyists_civ_2:0 "Financement de guerre"
+RED_trotskyists_civ_2_desc:0 ""
+
+RED_guns_for_you_guns_for_me:0 "Des armes pour vous... Des armes pour moi"
+RED_guns_for_you_guns_for_me_desc:0 ""
+
+RED_trotskyists_flavour_2:0 "Collaborations de production conjointe"
+RED_trotskyists_flavour_2_desc:0 ""
+
+RED_trotskyists_2:0 "Une amitié digne de ce nom"
+RED_trotskyists_2_desc:0 ""
+
+RED_technicians:0 "Techniciens"
+RED_technicians_desc:0 ""
+
+RED_anarchists:0 Anarchistes"
+RED_anarchists_desc:0 ""
+
+RED_anarchists_2:0 "Échanges mutuels"
+RED_anarchists_2_desc:0 ""
+
+ROUGE_anarchistes_3:0 "Lutte contre le fascisme"
+RED_anarchists_3_desc:0 ""
+
+RED_technicians_subvert:0 "Des relations plus étroites avec la Kuznetsky Most"
+RED_technicians_subvert_desc:0 ""
+
+RED_technicians_puppet:0 "Sous la juridiction de Sokol'"
+RED_technicians_puppet_desc:0 ""
+
+RED_technicians_factories:0 "Expéditions de produits alimentaires"
+RED_technicians_factories_desc:0 ""
+
+RED_technicians_supply_our_arms:0 "Contrats d'armement conjoints"
+RED_technicians_supply_our_arms_desc:0 ""
+
+RED_technicians_faction_member:0 "Membre de l'Union"
+RED_technicians_faction_member_desc:0 ""
+
+RED_rail_vehicle_designs:0 "Schémas de véhicules ferroviaires"
+RED_rail_vehicle_designs_desc:0 ""
+
+RED_joint_arms_deal:0 "Pacte d'armement conjoint"
+RED_joint_arms_deal_desc:0 ""
+
+RED_technicians_2:0 "Le savoir-faire des techniciens"
+RED_technicians_2_desc:0 ""
+
+RED_dry_station_bandits:0 "Bandits de Sukharevskaya"
+RED_dry_station_bandits_desc:0 ""
+
+RED_taking_back_our_stuff:0 "Reprenons nos affaires"
+RED_taking_back_our_stuff_desc:0 ""
+
+RED_pact_of_friendship:0 "Pacte d'amitié"
+RED_pact_of_friendship_desc:0 ""
+
+RED_pact_de_l'amitié_choix_1:0 "Union glorieuse"
+RED_pact_de_l'amitié_choix_1_desc:0 ""
+
+RED_pact_of_friendship_choice_2:0 "Pour le monde de demain"
+RED_pact_of_friendship_choice_2_desc:0 ""
+
+RED_pact_of_friendship_choice_3:0 "Construire le monde de demain"
+RED_pact_of_friendship_choice_3_desc:0 ""
+
+### Military ###
+
+RED_red_army:0 "Armée de la Sokolnicheskaya"
+RED_red_army_desc:0 ""
+
+RED_minister_of_defense_departments_tt:0 "Création du ministère de la Défense"
+
+RED_red_army_leader_1:0 "Héros du passé"
+RED_red_army_leader_1_desc:0 ""
+
+RED_red_army_flamethrower:0 "Lance-flammes pour la victoire "
+RED_red_army_flamethrower_desc:0 ""
+
+RED_red_army_maxim:0 "Puissance de feu pour la victoire"
+RED_red_army_maxim_desc:0 ""
+
+RED_red_army_conscription_reforms:0 "Réformes de la conscription"
+RED_red_army_conscription_reforms_desc:0 ""
+
+RED_rudimentary_drills:0 "Exercices complets"
+RED_rudimentary_drills_desc:0 ""
+
+RED_equipment_standardisation:0 "Standardisation de l'équipement"
+RED_equipment_standardisation_desc:0 ""
+
+RED_adaptable_force:0 "Une force capable de s'adapter"
+RED_adaptable_force_desc:0 ""
+
+RED_cohesive_force:0 "Une tactique armée cohérente"
+RED_cohesive_force_desc:0 ""
+
+RED_coordination_efforts:0 "Stratégies de coordination"
+RED_coordination_efforts_desc:0 ""
+
+RED_outside_recruitment:0 "Recrutement de volontaires sur le terrain"
+RED_outside_recruitment_desc:0 ""
+
+RED_outside_volunteer_decision_tt:0 "§gDéverrouille une§! §CDécision§! §gpour rechercher des volontaires!§!"
+
+RED_red_army_soviet_myth:0 "Légendes de l'Armée Rouge"
+RED_red_army_soviet_myth_desc:0 ""
+
+RED_mass_recruitment_campagnes:0 "Si demain apporte la guerre..."
+RED_mass_recruitment_campaigns_desc:0 ""
+
+RED_heroic_deeds_of_mother_russia:0 "Des actions sacrées pour la Mère Patrie"
+RED_heroic_deeds_of_mother_russia_desc:0 ""
+
+RED_human_wave_offensive:0 "Offensives de vagues humaines"
+RED_human_wave_offensive_desc:0 ""
+
+RED_peoples_army:0 "Armée du peuple"
+RED_peoples_army_desc:0 ""
+
+RED_peoples_army_decision_tt:0 ""§gDéverrouille une§! §CDécision§! §gpour recruter des soldats pour la Ligne Rouge!§"
+
+RED_uraaa:0 "§RURAAA!§!"
+RED_uraaa_desc:0 ""
+
+RED_cartridge_for_every_comrade:0 "Cartouche pour chaque camarade"
+RED_cartridge_for_every_comrade_desc:0 ""
+
+RED_spetnaz_spec_ops:0 "Forces spéciales Spetsnaz"
+RED_spetnaz_spec_ops_desc:0 ""
+
+RED_heavy_spec_ops:0 "Équipe d'armes lourdes"
+RED_heavy_spec_ops_desc:0 ""
+
+RED_riot-shields:0 "Boucliers anti-émeute"
+RED_riot-shields_desc:0 ""
+
+### Economy Laws ###
+
+RED_war_socialism_stale:0 "Socialisme de guerre épuisé"
+RED_war_socialism_stale_desc:0 ""
+
+RED_demobilising_economy:0 "Économie en voie de démobilisation"
+RED_demobilising_economy_desc:0 ""
+
+RED_new_economic_plan:0 "Nouveau plan économique"
+RED_new_economic_plan_desc:0 ""
+
+RED_planned_economy:0 "Économie planifiée"
+RED_planned_economy_desc:0 ""
+
+RED_mobilising_economy:0 "Économie mobilisatrice"
+RED_mobilising_economy_desc:0 ""
+
+RED_war_socialism:0 "Socialisme de guerre"
+RED_war_socialism_desc:0 ""
+
+RED_army_ransacking:0 "Pillage mandaté"
+RED_army_ransacking_desc:0 ""
+
+RED_heavy_produce_requesition:0 "Réquisition de champignons en abondance"
+RED_heavy_produce_requesition_desc:0 ""
+
+RED_produce_requesition:0 "Réquisition de produits"
+RED_produce_requesition_desc:0 ""
+
+RED_station_requesition:0 "Réquisition de station"
+RED_station_requesition_desc:0 ""
+
+RED_export_requesition:0 "Objectif d'exportation"
+RED_export_requesition_desc:0 ""
+
+RED_outsider_dependency:0 "Dépendance envers les étrangers"
+RED_outsider_dependency_desc:0 ""
+
+### Politiks ###
+
+RED_moskvin_path:0 "Moskvin en tant que secrétaire général"
+RED_moskvin_path_desc:0 ""
+
+RED_inheritor_of_secretary:0 "Héritier du secrétariat"
+RED_inheritor_of_secretary_desc:0 ""
+
+RED_an_oath_to_communism:0 "Serment sur le socialisme"
+RED_an_oath_to_communism_desc:0 ""
+
+RED_chief_of_the_force:0 "Chef des forces armées"
+RED_chief_of_the_force_desc:0 ""
+
+RED_old_soviet_methods:0 "Anciennes méthodes soviétique"
+RED_old_soviet_methods_desc:0 ""
+
+RED_head_the_politburo:0 "Le chef du Politburo"
+RED_head_the_politburo_desc:0 ""
+
+RED_cult_of_personality:0 "Culte de la personnalité"
+RED_cult_of_personality_desc:0 ""
+
+RED_father_of_the_line:0 "Père de la Ligne Rouge"
+RED_father_of_the_line_desc:0 ""
+
+RED_rapid_industrialisation:0 "Début de la militarisation rapide"
+RED_rapid_industrialisation_desc:0 ""
+
+RED_annex_armory:0 "Annexe du pont de Kuznetsky"
+RED_annex_armory_desc:0 ""
+
+RED_andrei_path:0 "La position d'Andrey est assurée"
+RED_andrei_path_desc:0 ""
+
+RED_take_back_the_politburo:0 "Reprendre le Politburo"
+RED_take_back_the_politburo_desc:0 ""
+
+RED_drain_the_swamp:0 "Assécher le marécage"
+RED_drain_the_swamp_desc:0 ""
+
+RED_eye_of_the_snake:0 "L'œil du serpent"
+RED_eye_of_the_snake_desc:0 ""
+
+RED_reform_the_nkvd:0 "Réhabiliter la NKVD"
+RED_reform_the_nkvd_desc:0 ""
+
+RED_a_brothers_fate:0 "Le destin d'un frère"
+RED_a_brothers_fate_desc:0 ""
+
+RED_lenins_descendant:0 "Le descendant de Lénine"
+RED_lenins_descendant_desc:0 ""
+
+RED_one_unified_socialist_state:0 "Un seul État socialiste unifié"
+RED_one_unified_socialist_state_desc:0 ""
+
+RED_fist_of_lenin:0 "Le poing de Lénine"
+RED_fist_of_lenin_desc:0 ""
+
+RED_lenins_fury2:0 "La fureur de Lénine, libérée"
+RED_lenins_fury2_desc:0 ""
+
+RED_korbut_path:0 "Korbut prend le contrôle"
+RED_korbut_path_desc:0 ""
+
+RED_government_roles_for_nkvd:0 "Rôles du gouvernement dans la NKVD"
+RED_government_roles_for_nkvd_desc:0 ""
+
+RED_cheslav_mihaylovich:0 "Népotisme"
+RED_cheslav_mihaylovich_desc:0 ""
+
+RED_gearing_up_for_war:0 ""Se préparer à la guerre""
+RED_gearing_up_for_war_desc:0 ""
+
+RED_great_terror:0 "Déclencher la grande terreur"
+RED_great_terror_desc:0 ""
+
+RED_mind_control_serum:0 "Sérum de contrôle mental"
+RED_mind_control_serum_desc:0 ""
+
+RED_future_updates_tt:0 "\n§CCe focus sera disponible dans les futures mises à jour§!"
+
+RED_recruit_spartan_spy:0 "Un renégat rejoint les rangs"
+RED_recruit_spartan_spy_desc:0 ""
+
+RED_spy_networks_increase:0 "Intensifier les réseaux d'espionnage"
+RED_spy_networks_increase_desc:0 ""
+
+RED_sabotage:0 "Plans de sabotage"
+RED_sabotage_desc:0 ""
+
+RED_weaponize_the_dark_ones:0 "Armez les Sombres"
+RED_weaponize_the_dark_ones_desc:0 ""
+
+
+
+
+
+
+
+
+
+
+
