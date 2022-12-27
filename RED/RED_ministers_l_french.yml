@@ -92,15 +92,15 @@
   RED_fyodor_akimov_3_resource:0 "Ministre de la Récupération §CNiveau III§!"
   RED_fyodor_akimov_3_construction:0 "Ministre de la Récupération §CNiveau III§!"
 
-  RED_minister_of_domestics:0 "Ministre des affaires intérieures"
-  RED_arkady_antonov:0 "Ministre des affaires intérieures §CNiveau I§!"
-  RED_arkady_antonov_2:0 "Ministre des affaires intérieures §CNiveau II§!"
-  RED_arkady_antonov_3:0 "Ministre des affaires intérieures §CNiveau III§!"
+  RED_minister_of_domestics:0 "Ministre de l'Intérieur"
+  RED_arkady_antonov:0 "Ministre de l'Intérieur §CNiveau I§!"
+  RED_arkady_antonov_2:0 "Ministre de l'Intérieur §CNiveau II§!"
+  RED_arkady_antonov_3:0 "Ministre de l'Intérieur §CNiveau III§!"
 
-  RED_minister_of_labour:0 "Ministre du travail"
-  RED_yevgeny_nikiforov:0 "Ministre du travail §CNiveau I§!"
-  RED_yevgeny_nikiforov_2:0 "Ministre du travail §CNiveau I§!"
-  RED_yevgeny_nikiforov_3:0 "Ministre du travail §CNiveau III§!"
+  RED_minister_of_labour:0 "Ministre du Travail"
+  RED_yevgeny_nikiforov:0 "Ministre du Travail §CNiveau I§!"
+  RED_yevgeny_nikiforov_2:0 "Ministre du Travail §CNiveau I§!"
+  RED_yevgeny_nikiforov_3:0 "Ministre du Travail §CNiveau III§!"
 
   ### Other ###
 
