@@ -332,13 +332,13 @@
  RED_tap_into_radio_transmissions:0 "Accéder aux transmissions radio"
  RED_tap_into_radio_transmissions_desc:0 ""
 
-RED_fund_an_education_department:0 "Financer le département d'éducation"
+ RED_fund_an_education_department:0 "Financer le département d'éducation"
  RED_fund_an_education_department_desc:0 ""
 
  RED_children_schools:0 "Enseignement primaire"
  RED_children_schools_desc:0 ""
 
-RED_fitness_schools:0 "Écoles de sport"
+ RED_fitness_schools:0 "Écoles de sport"
  RED_fitness_schools_desc:0 ""
 
  RED_engineering_academy:0 "Académies d'ingénieurs"
@@ -347,7 +347,7 @@ RED_fitness_schools:0 "Écoles de sport"
  RED_fund_an_education_department_4:0 "Construire un monde meilleur"
  RED_fund_an_education_department_4_desc:0 ""
 
-RED_getting_the_band_back_together:0 "Reconstituer le groupe"
+ RED_getting_the_band_back_together:0 "Reconstituer le groupe"
  RED_getting_the_band_back_together_desc:0 ""
 
  RED_question_of_arts_and_culture:0 "Question d'art et de culture"
@@ -518,7 +518,7 @@ RED_getting_the_band_back_together:0 "Reconstituer le groupe"
 
  RED_economic_plan:0 "Un plan économique pour l'avenir"
 
-RED_great_leap:0 "Grand Bond I"
+ RED_great_leap:0 "Grand Bond I"
 
  RED_great_leap_2:0 "Grand Bond II"
 
@@ -534,7 +534,7 @@ RED_great_leap:0 "Grand Bond I"
 
  RED_adaptability:0 "Capacité d'adaptation"
 
-RED_elite_military:0 "Force d'élite"
+ RED_elite_military:0 "Force d'élite"
 
  RED_mass_recruitment:0 "Campagnes de recrutement de masse"
 
@@ -544,369 +544,369 @@ RED_elite_military:0 "Force d'élite"
 
  RED_uraaaa:0 "URAAAAA !"
 
-## cemented authority branch
+ ## cemented authority branch
 
-RED_cemented_authority:0 "Autorité cimentée"
-RED_cemented_authority_desc:0 ""
+ RED_cemented_authority:0 "Autorité cimentée"
+ RED_cemented_authority_desc:0 ""
 
-RED_minister_of_foreign_affairs_departments_tt:0 "Créer le ministère des affaires étrangères"
+ RED_minister_of_foreign_affairs_departments_tt:0 "Créer le ministère des affaires étrangères"
 
-RED_MSU_bridge:0 "Pont sur les eaux troubles"
-RED_MSU_bridge_desc:0 ""
+ RED_MSU_bridge:0 "Pont sur les eaux troubles"
+ RED_MSU_bridge_desc:0 ""
 
-RED_vorobyovy_gory:0 "§gPermet une série de§!§O Décisions§!§g pour coloniser le pont de Vorobiovy Gory.§!"
+ RED_vorobyovy_gory:0 "§gPermet une série de§!§O Décisions§!§g pour coloniser le pont de Vorobiovy Gory.§!"
 
-RED_emerald_city:0 "Fissure de façade"
-RED_emerald_city_desc:0 "Il est temps pour la Cité d'Emeraude de plier le genou. Nos Stalkers et nos équipes d'armes lourdes enfoncent leurs portes hermétiques."
+ RED_emerald_city:0 "Fissure de façade"
+ RED_emerald_city_desc:0 "Il est temps pour la Cité d'Emeraude de plier le genou. Nos Stalkers et nos équipes d'armes lourdes enfoncent leurs portes hermétiques."
 
-RED_crack_the_facade_tt:0 "§gPermet une série de§!§O Décisions§!§g pour intensifier une guerre avec la§!§G Cité d'Emeraude.§!"
+ RED_crack_the_facade_tt:0 "§gPermet une série de§!§O Décisions§!§g pour intensifier une guerre avec la§!§G Cité d'Emeraude.§!"
 
-RED_to_the_victors:0 "Aux vainqueurs..."
-RED_to_the_victors_desc:0 "f"
+ RED_to_the_victors:0 "Aux vainqueurs..."
+ RED_to_the_victors_desc:0 "f"
 
-RED_red_line_secured:0 "Sokolnicheskaya Sécurisé"
-RED_red_line_secured_desc:0 ""
+ RED_red_line_secured:0 "Sokolnicheskaya Sécurisé"
+ RED_red_line_secured_desc:0 ""
 
-RED_bastion_of_socialism:0 "Bastion du socialisme"
-RED_bastion_of_socialism_desc:0 ""
+ RED_bastion_of_socialism:0 "Bastion du socialisme"
+ RED_bastion_of_socialism_desc:0 ""
 
-RED_rebuild_line_proper:0 "Construire les bases de demain"
-RED_rebuild_line_proper_desc:0 ""
+ RED_rebuild_line_proper:0 "Construire les bases de demain"
+ RED_rebuild_line_proper_desc:0 ""
 
-RED_RCH_frontline:0 "Renforcer les lignes de front"
-RED_RCH_frontline_desc:0 ""
+ RED_RCH_frontline:0 "Renforcer les lignes de front"
+ RED_RCH_frontline_desc:0 ""
 
-RED_RCH_frontline_agressive:0 "Pas un centimètre de terrain !"
-RED_RCH_frontline_agressive_desc:0 ""
+ RED_RCH_frontline_agressive:0 "Pas un centimètre de terrain !"
+ RED_RCH_frontline_agressive_desc:0 ""
 
-RED_RCH_frontline_defensive:0 "Défense en finesse"
-RED_RCH_frontline_defensive_desc:0 ""
+ RED_RCH_frontline_defensive:0 "Défense en finesse"
+ RED_RCH_frontline_defensive_desc:0 ""
 
-RED_RCH_frontline_sabotage:0 "Saboter les approvisionnements fascistes"
-RED_RCH_frontline_sabotage_desc:0 ""
+ RED_RCH_frontline_sabotage:0 "Saboter les approvisionnements fascistes"
+ RED_RCH_frontline_sabotage_desc:0 ""
 
-RED_frontline_sabotage_decision_tt:0 "§gDéverrouiller des§! §GDécisions§! §gen temps de guerre pour perturber l'infrastructure et l'approvisionnement du Reich.!§!"
+ RED_frontline_sabotage_decision_tt:0 "§gDéverrouiller des§! §GDécisions§! §gen temps de guerre pour perturber l'infrastructure et l'approvisionnement du Reich.!§!"
 
-RED_RCH_frontline_barricades:0 "Défenses préliminaires"
-RED_RCH_frontline_barricades_desc:0 ""
+ RED_RCH_frontline_barricades:0 "Défenses préliminaires"
+ RED_RCH_frontline_barricades_desc:0 ""
 
-RED_frontline_hunker_down_tt:0 "§gChaque État situé entre nous et le Reich que nous occupons, gagnera des§! §YBunkers§! §get des§! §YInfrastructures!§!"
+ RED_frontline_hunker_down_tt:0 "§gChaque État situé entre nous et le Reich que nous occupons, gagnera des§! §YBunkers§! §get des§! §YInfrastructures!§!"
 
-RED_RCH_frontline_AT:0 "Équipement anti-char"
-RED_RCH_frontline_AT_desc:0 ""
+ RED_RCH_frontline_AT:0 "Équipement anti-char"
+ RED_RCH_frontline_AT_desc:0 ""
 
-RED_RCH_frontline_reinforce:0 "Renforcer le front"
-RED_RCH_frontline_reinforce_desc:0 ""
+ RED_RCH_frontline_reinforce:0 "Renforcer le front"
+ RED_RCH_frontline_reinforce_desc:0 ""
 
-RED_RCH_frontline_war:0 "Guerre contre les fascistes"
-RED_RCH_frontline_war_desc:0 ""
+ RED_RCH_frontline_war:0 "Guerre contre les fascistes"
+ RED_RCH_frontline_war_desc:0 ""
 
-RED_flag_above_tverskaya:0 "Bannière rouge sur Tverskaya"
-RED_flag_above_tverskaya_desc:0 ""
+ RED_flag_above_tverskaya:0 "Bannière rouge sur Tverskaya"
+ RED_flag_above_tverskaya_desc:0 ""
 
-RED_RCH_frontline_protect_reich_border:0 "Défense contre l'incursion fasciste"
-RED_RCH_frontline_protect_reich_border_desc:0 ""
+ RED_RCH_frontline_protect_reich_border:0 "Défense contre l'incursion fasciste"
+ RED_RCH_frontline_protect_reich_border_desc:0 ""
 
-RED_RCH_frontline_support_containment:0 "Contenir la menace nazie"
-RED_RCH_frontline_support_containment_desc:0 ""
+ RED_RCH_frontline_support_containment:0 "Contenir la menace nazie"
+ RED_RCH_frontline_support_containment_desc:0 ""
 
-RED_HNZ_enemy:0 "Guerre contre la Hansa"
-RED_HNZ_enemy_desc:0 ""
+ RED_HNZ_enemy:0 "Guerre contre la Hansa"
+ RED_HNZ_enemy_desc:0 ""
 
-RED_breakaways:0 "Amis étrangers"
-RED_breakaways_desc:0 ""
+ RED_breakaways:0 "Amis étrangers"
+ RED_breakaways_desc:0 ""
 
-RED_1905:0 "La Confédération 1905"
-RED_1905_desc:0 ""
+ RED_1905:0 "La Confédération 1905"
+ RED_1905_desc:0 ""
 
-RED_1905_civ_1:0 "Commerce d'outils en commun"
-RED_1905_civ_1_desc:0 ""
+ RED_1905_civ_1:0 "Commerce d'outils en commun"
+ RED_1905_civ_1_desc:0 ""
 
-RED_1905_civ_2:0 "Mise au rebut des terminaux"
-RED_1905_civ_2_desc:0 ""
+ RED_1905_civ_2:0 "Mise au rebut des terminaux"
+ RED_1905_civ_2_desc:0 ""
 
-RED_1905_flavor_1:0 "Prêcher l'unité socialiste"
-RED_1905_flavor_1_desc:0 ""
+ RED_1905_flavor_1:0 "Prêcher l'unité socialiste"
+ RED_1905_flavor_1_desc:0 ""
 
-RED_1905_flavor_2:0 "Union des stations"
-RED_1905_saveur_2_desc:0 ""
+ RED_1905_flavor_2:0 "Union des stations"
+ RED_1905_saveur_2_desc:0 ""
 
-RED_1905_2:0 "Amitié avec la Confédération 1905"
+ RED_1905_2:0 "Amitié avec la Confédération 1905"
 
-RED_trotskyists:0 "La Première Brigade Internationale"
-RED_trotskyists_desc:0 ""
+ RED_trotskyists:0 "La Première Brigade Internationale"
+ RED_trotskyists_desc:0 ""
 
-RED_trotskyists_civ_1:0 "Envoi de matériel"
-RED_trotskyists_civ_1_desc:0 ""
+ RED_trotskyists_civ_1:0 "Envoi de matériel"
+ RED_trotskyists_civ_1_desc:0 ""
 
-RED_trotskyists_civ_2:0 "Financement de guerre"
-RED_trotskyists_civ_2_desc:0 ""
+ RED_trotskyists_civ_2:0 "Financement de guerre"
+ RED_trotskyists_civ_2_desc:0 ""
 
-RED_guns_for_you_guns_for_me:0 "Des armes pour vous... Des armes pour moi"
-RED_guns_for_you_guns_for_me_desc:0 ""
+ RED_guns_for_you_guns_for_me:0 "Des armes pour vous... Des armes pour moi"
+ RED_guns_for_you_guns_for_me_desc:0 ""
 
-RED_trotskyists_flavour_2:0 "Collaborations de production conjointe"
-RED_trotskyists_flavour_2_desc:0 ""
+ RED_trotskyists_flavour_2:0 "Collaborations de production conjointe"
+ RED_trotskyists_flavour_2_desc:0 ""
 
-RED_trotskyists_2:0 "Une amitié digne de ce nom"
-RED_trotskyists_2_desc:0 ""
+ RED_trotskyists_2:0 "Une amitié digne de ce nom"
+ RED_trotskyists_2_desc:0 ""
 
-RED_technicians:0 "Techniciens"
-RED_technicians_desc:0 ""
+ RED_technicians:0 "Techniciens"
+ RED_technicians_desc:0 ""
 
-RED_anarchists:0 Anarchistes"
-RED_anarchists_desc:0 ""
+ RED_anarchists:0 Anarchistes"
+ RED_anarchists_desc:0 ""
 
-RED_anarchists_2:0 "Échanges mutuels"
-RED_anarchists_2_desc:0 ""
+ RED_anarchists_2:0 "Échanges mutuels"
+ RED_anarchists_2_desc:0 ""
 
-ROUGE_anarchistes_3:0 "Lutte contre le fascisme"
-RED_anarchists_3_desc:0 ""
+ RED_anarchistes_3:0 "Lutte contre le fascisme"
+ RED_anarchists_3_desc:0 ""
 
-RED_technicians_subvert:0 "Des relations plus étroites avec la Kuznetsky Most"
-RED_technicians_subvert_desc:0 ""
+ RED_technicians_subvert:0 "Des relations plus étroites avec la Kuznetsky Most"
+ RED_technicians_subvert_desc:0 ""
 
-RED_technicians_puppet:0 "Sous la juridiction de Sokol'"
-RED_technicians_puppet_desc:0 ""
+ RED_technicians_puppet:0 "Sous la juridiction de Sokol'"
+ RED_technicians_puppet_desc:0 ""
 
-RED_technicians_factories:0 "Expéditions de produits alimentaires"
-RED_technicians_factories_desc:0 ""
+ RED_technicians_factories:0 "Expéditions de produits alimentaires"
+ RED_technicians_factories_desc:0 ""
 
-RED_technicians_supply_our_arms:0 "Contrats d'armement conjoints"
-RED_technicians_supply_our_arms_desc:0 ""
+ RED_technicians_supply_our_arms:0 "Contrats d'armement conjoints"
+ RED_technicians_supply_our_arms_desc:0 ""
 
-RED_technicians_faction_member:0 "Membre de l'Union"
-RED_technicians_faction_member_desc:0 ""
+ RED_technicians_faction_member:0 "Membre de l'Union"
+ RED_technicians_faction_member_desc:0 ""
 
-RED_rail_vehicle_designs:0 "Schémas de véhicules ferroviaires"
-RED_rail_vehicle_designs_desc:0 ""
+ RED_rail_vehicle_designs:0 "Schémas de véhicules ferroviaires"
+ RED_rail_vehicle_designs_desc:0 ""
 
-RED_joint_arms_deal:0 "Pacte d'armement conjoint"
-RED_joint_arms_deal_desc:0 ""
+ RED_joint_arms_deal:0 "Pacte d'armement conjoint"
+ RED_joint_arms_deal_desc:0 ""
 
-RED_technicians_2:0 "Le savoir-faire des techniciens"
-RED_technicians_2_desc:0 ""
+ RED_technicians_2:0 "Le savoir-faire des techniciens"
+ RED_technicians_2_desc:0 ""
 
-RED_dry_station_bandits:0 "Bandits de Sukharevskaya"
-RED_dry_station_bandits_desc:0 ""
+ RED_dry_station_bandits:0 "Bandits de Sukharevskaya"
+ RED_dry_station_bandits_desc:0 ""
 
-RED_taking_back_our_stuff:0 "Reprenons nos affaires"
-RED_taking_back_our_stuff_desc:0 ""
+ RED_taking_back_our_stuff:0 "Reprenons nos affaires"
+ RED_taking_back_our_stuff_desc:0 ""
 
-RED_pact_of_friendship:0 "Pacte d'amitié"
-RED_pact_of_friendship_desc:0 ""
+ RED_pact_of_friendship:0 "Pacte d'amitié"
+ RED_pact_of_friendship_desc:0 ""
 
-RED_pact_de_l'amitié_choix_1:0 "Union glorieuse"
-RED_pact_de_l'amitié_choix_1_desc:0 ""
+ RED_pact_de_l'amitié_choix_1:0 "Union glorieuse"
+ RED_pact_de_l'amitié_choix_1_desc:0 ""
 
-RED_pact_of_friendship_choice_2:0 "Pour le monde de demain"
-RED_pact_of_friendship_choice_2_desc:0 ""
+ RED_pact_of_friendship_choice_2:0 "Pour le monde de demain"
+ RED_pact_of_friendship_choice_2_desc:0 ""
 
-RED_pact_of_friendship_choice_3:0 "Construire le monde de demain"
-RED_pact_of_friendship_choice_3_desc:0 ""
+ RED_pact_of_friendship_choice_3:0 "Construire le monde de demain"
+ RED_pact_of_friendship_choice_3_desc:0 ""
 
-### Military ###
+ ### Military ###
 
-RED_red_army:0 "Armée de la Sokolnicheskaya"
-RED_red_army_desc:0 ""
+ RED_red_army:0 "Armée de la Sokolnicheskaya"
+ RED_red_army_desc:0 ""
 
-RED_minister_of_defense_departments_tt:0 "Création du ministère de la Défense"
+ RED_minister_of_defense_departments_tt:0 "Création du ministère de la Défense"
 
-RED_red_army_leader_1:0 "Héros du passé"
-RED_red_army_leader_1_desc:0 ""
+ RED_red_army_leader_1:0 "Héros du passé"
+ RED_red_army_leader_1_desc:0 ""
 
-RED_red_army_flamethrower:0 "Lance-flammes pour la victoire "
-RED_red_army_flamethrower_desc:0 ""
+ RED_red_army_flamethrower:0 "Lance-flammes pour la victoire "
+ RED_red_army_flamethrower_desc:0 ""
 
-RED_red_army_maxim:0 "Puissance de feu pour la victoire"
-RED_red_army_maxim_desc:0 ""
+ RED_red_army_maxim:0 "Puissance de feu pour la victoire"
+ RED_red_army_maxim_desc:0 ""
 
-RED_red_army_conscription_reforms:0 "Réformes de la conscription"
-RED_red_army_conscription_reforms_desc:0 ""
+ RED_red_army_conscription_reforms:0 "Réformes de la conscription"
+ RED_red_army_conscription_reforms_desc:0 ""
 
-RED_rudimentary_drills:0 "Exercices complets"
-RED_rudimentary_drills_desc:0 ""
+ RED_rudimentary_drills:0 "Exercices complets"
+ RED_rudimentary_drills_desc:0 ""
 
-RED_equipment_standardisation:0 "Standardisation de l'équipement"
-RED_equipment_standardisation_desc:0 ""
+ RED_equipment_standardisation:0 "Standardisation de l'équipement"
+ RED_equipment_standardisation_desc:0 ""
 
-RED_adaptable_force:0 "Une force capable de s'adapter"
-RED_adaptable_force_desc:0 ""
+ RED_adaptable_force:0 "Une force capable de s'adapter"
+ RED_adaptable_force_desc:0 ""
 
-RED_cohesive_force:0 "Une tactique armée cohérente"
-RED_cohesive_force_desc:0 ""
+ RED_cohesive_force:0 "Une tactique armée cohérente"
+ RED_cohesive_force_desc:0 ""
 
-RED_coordination_efforts:0 "Stratégies de coordination"
-RED_coordination_efforts_desc:0 ""
+ RED_coordination_efforts:0 "Stratégies de coordination"
+ RED_coordination_efforts_desc:0 ""
 
-RED_outside_recruitment:0 "Recrutement de volontaires sur le terrain"
-RED_outside_recruitment_desc:0 ""
+ RED_outside_recruitment:0 "Recrutement de volontaires sur le terrain"
+ RED_outside_recruitment_desc:0 ""
 
-RED_outside_volunteer_decision_tt:0 "§gDéverrouille une§! §CDécision§! §gpour rechercher des volontaires!§!"
+ RED_outside_volunteer_decision_tt:0 "§gDéverrouille une§! §CDécision§! §gpour rechercher des volontaires!§!"
 
-RED_red_army_soviet_myth:0 "Légendes de l'Armée Rouge"
-RED_red_army_soviet_myth_desc:0 ""
+ RED_red_army_soviet_myth:0 "Légendes de l'Armée Rouge"
+ RED_red_army_soviet_myth_desc:0 ""
 
-RED_mass_recruitment_campagnes:0 "Si demain apporte la guerre..."
-RED_mass_recruitment_campaigns_desc:0 ""
+ RED_mass_recruitment_campagnes:0 "Si demain apporte la guerre..."
+ RED_mass_recruitment_campaigns_desc:0 ""
 
-RED_heroic_deeds_of_mother_russia:0 "Des actions sacrées pour la Mère Patrie"
-RED_heroic_deeds_of_mother_russia_desc:0 ""
+ RED_heroic_deeds_of_mother_russia:0 "Des actions sacrées pour la Mère Patrie"
+ RED_heroic_deeds_of_mother_russia_desc:0 ""
 
-RED_human_wave_offensive:0 "Offensives de vagues humaines"
-RED_human_wave_offensive_desc:0 ""
+ RED_human_wave_offensive:0 "Offensives de vagues humaines"
+ RED_human_wave_offensive_desc:0 ""
 
-RED_peoples_army:0 "Armée du peuple"
-RED_peoples_army_desc:0 ""
+ RED_peoples_army:0 "Armée du peuple"
+ RED_peoples_army_desc:0 ""
 
-RED_peoples_army_decision_tt:0 ""§gDéverrouille une§! §CDécision§! §gpour recruter des soldats pour la Ligne Rouge!§"
+ RED_peoples_army_decision_tt:0 ""§gDéverrouille une§! §CDécision§! §gpour recruter des soldats pour la Ligne Rouge!§"
 
-RED_uraaa:0 "§RURAAA!§!"
-RED_uraaa_desc:0 ""
+ RED_uraaa:0 "§RURAAA!§!"
+ RED_uraaa_desc:0 ""
 
-RED_cartridge_for_every_comrade:0 "Cartouche pour chaque camarade"
-RED_cartridge_for_every_comrade_desc:0 ""
+ RED_cartridge_for_every_comrade:0 "Cartouche pour chaque camarade"
+ RED_cartridge_for_every_comrade_desc:0 ""
 
-RED_spetnaz_spec_ops:0 "Forces spéciales Spetsnaz"
-RED_spetnaz_spec_ops_desc:0 ""
+ RED_spetnaz_spec_ops:0 "Forces spéciales Spetsnaz"
+ RED_spetnaz_spec_ops_desc:0 ""
 
-RED_heavy_spec_ops:0 "Équipe d'armes lourdes"
-RED_heavy_spec_ops_desc:0 ""
+ RED_heavy_spec_ops:0 "Équipe d'armes lourdes"
+ RED_heavy_spec_ops_desc:0 ""
 
-RED_riot-shields:0 "Boucliers anti-émeute"
-RED_riot-shields_desc:0 ""
+ RED_riot-shields:0 "Boucliers anti-émeute"
+ RED_riot-shields_desc:0 ""
 
-### Economy Laws ###
+ ### Economy Laws ###
 
-RED_war_socialism_stale:0 "Socialisme de guerre épuisé"
-RED_war_socialism_stale_desc:0 ""
+ RED_war_socialism_stale:0 "Socialisme de guerre épuisé"
+ RED_war_socialism_stale_desc:0 ""
 
-RED_demobilising_economy:0 "Économie en voie de démobilisation"
-RED_demobilising_economy_desc:0 ""
+ RED_demobilising_economy:0 "Économie en voie de démobilisation"
+ RED_demobilising_economy_desc:0 ""
 
-RED_new_economic_plan:0 "Nouveau plan économique"
-RED_new_economic_plan_desc:0 ""
+ RED_new_economic_plan:0 "Nouveau plan économique"
+ RED_new_economic_plan_desc:0 ""
 
-RED_planned_economy:0 "Économie planifiée"
-RED_planned_economy_desc:0 ""
+ RED_planned_economy:0 "Économie planifiée"
+ RED_planned_economy_desc:0 ""
 
-RED_mobilising_economy:0 "Économie mobilisatrice"
-RED_mobilising_economy_desc:0 ""
+ RED_mobilising_economy:0 "Économie mobilisatrice"
+ RED_mobilising_economy_desc:0 ""
 
-RED_war_socialism:0 "Socialisme de guerre"
-RED_war_socialism_desc:0 ""
+ RED_war_socialism:0 "Socialisme de guerre"
+ RED_war_socialism_desc:0 ""
 
-RED_army_ransacking:0 "Pillage mandaté"
-RED_army_ransacking_desc:0 ""
+ RED_army_ransacking:0 "Pillage mandaté"
+ RED_army_ransacking_desc:0 ""
 
-RED_heavy_produce_requesition:0 "Réquisition de champignons en abondance"
-RED_heavy_produce_requesition_desc:0 ""
+ RED_heavy_produce_requesition:0 "Réquisition de champignons en abondance"
+ RED_heavy_produce_requesition_desc:0 ""
 
-RED_produce_requesition:0 "Réquisition de produits"
-RED_produce_requesition_desc:0 ""
+ RED_produce_requesition:0 "Réquisition de produits"
+ RED_produce_requesition_desc:0 ""
 
-RED_station_requesition:0 "Réquisition de station"
-RED_station_requesition_desc:0 ""
+ RED_station_requesition:0 "Réquisition de station"
+ RED_station_requesition_desc:0 ""
 
-RED_export_requesition:0 "Objectif d'exportation"
-RED_export_requesition_desc:0 ""
+ RED_export_requesition:0 "Objectif d'exportation"
+ RED_export_requesition_desc:0 ""
 
-RED_outsider_dependency:0 "Dépendance envers les étrangers"
-RED_outsider_dependency_desc:0 ""
+ RED_outsider_dependency:0 "Dépendance envers les étrangers"
+ RED_outsider_dependency_desc:0 ""
 
-### Politiks ###
+ ### Politiks ###
 
-RED_moskvin_path:0 "Moskvin en tant que secrétaire général"
-RED_moskvin_path_desc:0 ""
+ RED_moskvin_path:0 "Moskvin en tant que secrétaire général"
+ RED_moskvin_path_desc:0 ""
 
-RED_inheritor_of_secretary:0 "Héritier du secrétariat"
-RED_inheritor_of_secretary_desc:0 ""
+ RED_inheritor_of_secretary:0 "Héritier du secrétariat"
+ RED_inheritor_of_secretary_desc:0 ""
 
-RED_an_oath_to_communism:0 "Serment sur le socialisme"
-RED_an_oath_to_communism_desc:0 ""
+ RED_an_oath_to_communism:0 "Serment sur le socialisme"
+ RED_an_oath_to_communism_desc:0 ""
 
-RED_chief_of_the_force:0 "Chef des forces armées"
-RED_chief_of_the_force_desc:0 ""
+ RED_chief_of_the_force:0 "Chef des forces armées"
+ RED_chief_of_the_force_desc:0 ""
 
-RED_old_soviet_methods:0 "Anciennes méthodes soviétique"
-RED_old_soviet_methods_desc:0 ""
+ RED_old_soviet_methods:0 "Anciennes méthodes soviétique"
+ RED_old_soviet_methods_desc:0 ""
 
-RED_head_the_politburo:0 "Le chef du Politburo"
-RED_head_the_politburo_desc:0 ""
+ RED_head_the_politburo:0 "Le chef du Politburo"
+ RED_head_the_politburo_desc:0 ""
 
-RED_cult_of_personality:0 "Culte de la personnalité"
-RED_cult_of_personality_desc:0 ""
+ RED_cult_of_personality:0 "Culte de la personnalité"
+ RED_cult_of_personality_desc:0 ""
 
-RED_father_of_the_line:0 "Père de la Ligne Rouge"
-RED_father_of_the_line_desc:0 ""
+ RED_father_of_the_line:0 "Père de la Ligne Rouge"
+ RED_father_of_the_line_desc:0 ""
 
-RED_rapid_industrialisation:0 "Début de la militarisation rapide"
-RED_rapid_industrialisation_desc:0 ""
+ RED_rapid_industrialisation:0 "Début de la militarisation rapide"
+ RED_rapid_industrialisation_desc:0 ""
 
-RED_annex_armory:0 "Annexe du pont de Kuznetsky"
-RED_annex_armory_desc:0 ""
+ RED_annex_armory:0 "Annexe du pont de Kuznetsky"
+ RED_annex_armory_desc:0 ""
 
-RED_andrei_path:0 "La position d'Andrey est assurée"
-RED_andrei_path_desc:0 ""
+ RED_andrei_path:0 "La position d'Andrey est assurée"
+ RED_andrei_path_desc:0 ""
 
-RED_take_back_the_politburo:0 "Reprendre le Politburo"
-RED_take_back_the_politburo_desc:0 ""
+ RED_take_back_the_politburo:0 "Reprendre le Politburo"
+ RED_take_back_the_politburo_desc:0 ""
 
-RED_drain_the_swamp:0 "Assécher le marécage"
-RED_drain_the_swamp_desc:0 ""
+ RED_drain_the_swamp:0 "Assécher le marécage"
+ RED_drain_the_swamp_desc:0 ""
 
-RED_eye_of_the_snake:0 "L'œil du serpent"
-RED_eye_of_the_snake_desc:0 ""
+ RED_eye_of_the_snake:0 "L'œil du serpent"
+ RED_eye_of_the_snake_desc:0 ""
 
-RED_reform_the_nkvd:0 "Réhabiliter la NKVD"
-RED_reform_the_nkvd_desc:0 ""
+ RED_reform_the_nkvd:0 "Réhabiliter la NKVD"
+ RED_reform_the_nkvd_desc:0 ""
 
-RED_a_brothers_fate:0 "Le destin d'un frère"
-RED_a_brothers_fate_desc:0 ""
+ RED_a_brothers_fate:0 "Le destin d'un frère"
+ RED_a_brothers_fate_desc:0 ""
 
-RED_lenins_descendant:0 "Le descendant de Lénine"
-RED_lenins_descendant_desc:0 ""
+ RED_lenins_descendant:0 "Le descendant de Lénine"
+ RED_lenins_descendant_desc:0 ""
 
-RED_one_unified_socialist_state:0 "Un seul État socialiste unifié"
-RED_one_unified_socialist_state_desc:0 ""
+ RED_one_unified_socialist_state:0 "Un seul État socialiste unifié"
+ RED_one_unified_socialist_state_desc:0 ""
 
-RED_fist_of_lenin:0 "Le poing de Lénine"
-RED_fist_of_lenin_desc:0 ""
+ RED_fist_of_lenin:0 "Le poing de Lénine"
+ RED_fist_of_lenin_desc:0 ""
 
-RED_lenins_fury2:0 "La fureur de Lénine, libérée"
-RED_lenins_fury2_desc:0 ""
+ RED_lenins_fury2:0 "La fureur de Lénine, libérée"
+ RED_lenins_fury2_desc:0 ""
 
-RED_korbut_path:0 "Korbut prend le contrôle"
-RED_korbut_path_desc:0 ""
+ RED_korbut_path:0 "Korbut prend le contrôle"
+ RED_korbut_path_desc:0 ""
 
-RED_government_roles_for_nkvd:0 "Rôles du gouvernement dans la NKVD"
-RED_government_roles_for_nkvd_desc:0 ""
+ RED_government_roles_for_nkvd:0 "Rôles du gouvernement dans la NKVD"
+ RED_government_roles_for_nkvd_desc:0 ""
 
-RED_cheslav_mihaylovich:0 "Népotisme"
-RED_cheslav_mihaylovich_desc:0 ""
+ RED_cheslav_mihaylovich:0 "Népotisme"
+ RED_cheslav_mihaylovich_desc:0 ""
 
-RED_gearing_up_for_war:0 ""Se préparer à la guerre""
-RED_gearing_up_for_war_desc:0 ""
+ RED_gearing_up_for_war:0 ""Se préparer à la guerre""
+ RED_gearing_up_for_war_desc:0 ""
 
-RED_great_terror:0 "Déclencher la grande terreur"
-RED_great_terror_desc:0 ""
+ RED_great_terror:0 "Déclencher la grande terreur"
+ RED_great_terror_desc:0 ""
 
-RED_mind_control_serum:0 "Sérum de contrôle mental"
-RED_mind_control_serum_desc:0 ""
+ RED_mind_control_serum:0 "Sérum de contrôle mental"
+ RED_mind_control_serum_desc:0 ""
 
-RED_future_updates_tt:0 "\n§CCe focus sera disponible dans les futures mises à jour§!"
+ RED_future_updates_tt:0 "\n§CCe focus sera disponible dans les futures mises à jour§!"
 
-RED_recruit_spartan_spy:0 "Un renégat rejoint les rangs"
-RED_recruit_spartan_spy_desc:0 ""
+ RED_recruit_spartan_spy:0 "Un renégat rejoint les rangs"
+ RED_recruit_spartan_spy_desc:0 ""
 
-RED_spy_networks_increase:0 "Intensifier les réseaux d'espionnage"
-RED_spy_networks_increase_desc:0 ""
+ RED_spy_networks_increase:0 "Intensifier les réseaux d'espionnage"
+ RED_spy_networks_increase_desc:0 ""
 
-RED_sabotage:0 "Plans de sabotage"
-RED_sabotage_desc:0 ""
+ RED_sabotage:0 "Plans de sabotage"
+ RED_sabotage_desc:0 ""
 
-RED_weaponize_the_dark_ones:0 "Militariser les Sombres"
-RED_weaponize_the_dark_ones_desc:0 ""
+ RED_weaponize_the_dark_ones:0 "Militariser les Sombres"
+ RED_weaponize_the_dark_ones_desc:0 ""
 
 
 
