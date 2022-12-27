@@ -39,20 +39,20 @@
  RED_ministry_departments_desc:0 "Les conseillers peuvent être améliorés par l'utilisation du pouvoir politique. Des voies d'amélioration uniques peuvent être débloquées grâce à des récompenses et des événements ciblés. Plus le niveau d'un département est élevé, plus son maintien coûtera cher en pouvoir politique. Vous pouvez réduire ou purger carrément les départements pour les ramener au niveau I si nécessaire, mais cela mettra le ministère en question hors service pendant une courte période. Méfiez-vous cependant de ne pas donner trop de pouvoir à certains départements rapidement."
 
 
- RED_ministry_economics_upgrade:0 "Améliorez le département de §Cl'Economie§ !"
+ RED_ministry_economics_upgrade:0 "Améliorez le Ministère de §Cl'Économie§ !"
 
- RED_ministry_reclaimation_upgrade:0 "Améliorez le département de la §CRécupération§ !"
+ RED_ministry_reclaimation_upgrade:0 "Améliorez le Ministère de la §CRécupération§ !"
 
  RED_ministry_reclaimation_construction:0 "Récupération - Encouragez les §CConstruction§ !"
  RED_ministry_reclaimation_resource:0 "Récupération - Donner la priorité à la §CRécupération§!"
 
- RED_ministry_domestics_upgrade:0 "Améliorez le département du §CConfort§ !"
+ RED_ministry_domestics_upgrade:0 "Améliorez le Ministère de §Cl'Intérieur§!"
 
- RED_ministry_labour_upgrade:0 "Améliorez le département du §CTravail§!"
+ RED_ministry_labour_upgrade:0 "Améliorez le Ministère du §CTravail§!"
 
- RED_ministry_foreign_affairs_upgrade:0 "Améliorez le département des §affaires étrangères§!"
+ RED_ministry_foreign_affairs_upgrade:0 "Améliorez le Ministère des §affaires étrangères§!"
 
- RED_ministry_defense_upgrade:0 "Améliorez le département de la §CDéfense§!"
+ RED_ministry_defense_upgrade:0 "Améliorez le Ministère de la §CDéfense§!"
 
  ## Berilag ##
 
