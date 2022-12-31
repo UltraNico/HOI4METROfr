@@ -1,7 +1,7 @@
 ﻿l_french:
    ### Rail Technologies ###
 
-  rail_panzer_explosive_shell:0 "Objets explosifs"
+  rail_panzer_explosive_shell:0 "Obus explosifs"
   rail_panzer_explosive_shell_desc:0 "Contrairement aux munitions purement cinétiques, les obus explosifs utilisent une charge chimique pour créer une explosion sur ou autour de la cible, ce qui est particulièrement utile pour affronter des cibles blindées."
 
  rail_cart_mounted_emplacement_tech:0 "Emplacement monté"
