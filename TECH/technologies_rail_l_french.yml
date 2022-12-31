@@ -1,0 +1,90 @@
+﻿l_french:
+   ### Rail Technologies ###
+
+  rail_panzer_explosive_shell:0 "Objets explosifs"
+  rail_panzer_explosive_shell_desc:0 "Contrairement aux munitions purement cinétiques, les obus explosifs utilisent une charge chimique pour créer une explosion sur ou autour de la cible, ce qui est particulièrement utile pour affronter des cibles blindées."
+
+ rail_cart_mounted_emplacement_tech:0 "Emplacement monté"
+ rail_cart_mounted_emplacement_tech_desc:0 "L'ajout de mitrailleuses ou même de petits canons sur les supports pivotants des wagons facilitera grandement le tir sur les cibles en mouvement."
+
+ rail_panzer_sloped_armor_tech:0 "Armure inclinée"
+ rail_panzer_sloped_armor_tech_desc:0 "Les blindages inclinés des wagons, des Chars et des Panzers peuvent dévier efficacement des munitions, plutôt que sur des blindages à angle plat."
+ 
+ rail_reinforced_chassis:0 "Châssis renforcé"
+ rail_reinforced_chassis_desc:0 "Un renforcement supplémentaire du châssis permettra d'augmenter le poids de la cargaison, du blindage ou de l'armement sur un wagon."
+
+ rail_panzer_periscope:0 "Périscope"
+ rail_panzer_periscope_desc:0 "Donner au commandant d'un Panzer un périscope lui permet d'avoir une vue à 360 degrés autour du char, sans avoir à ouvrir une trappe et s'exposer au feu ennemi."
+
+ rail_military_vehicle_salvaging:0 "Récupération de véhicules militaires"
+  rail_military_vehicle_salvaging_desc:0 "Les véhicules militaires d'avant-guerre (ceux qui étaient bien entretenus, en tout cas) étaient fabriqués à partir de pièces très durables, dont certaines peuvent être réutilisées sur les wagons."
+
+ rail_industrial_vehicle_salvaging:0 "Récupération de véhicules industriels"
+  rail_industrial_vehicle_salvaging_desc:0 "Les trains industriels et autres équipements de construction mobiles ont été construits pour effectuer des travaux sous charge, ce qui signifie que les composants impliqués sont parfaits pour les contraintes du métro."
+
+ rail_improved_fuel_storage:0 "Amélioration du stockage du carburant"
+  rail_improved_fuel_storage_desc:0 "Le stockage des bidons de carburant dans des compartiments faciles à ouvrir et protégés des tirs permet d'avoir toujours du carburant à portée de main et de ne jamais le perdre."
+ 
+ rail_fuel_storage:0 "Stockage du carburant"
+  rail_fuel_storage_desc:0 "Le stockage des réserves de carburant dans des jerricans et autres conteneurs sur chariot permettra d'étendre leur rayon d'action et de réduire la chaîne d'approvisionnement."
+
+ rail_cart_storage_compartment:0 "Compartiment de rangement"
+  rail_cart_storage_compartment_desc:0 "Il est nécessaire que les troupes montées sur rail disposent d'un espace de rangement suffisant pour leurs effets personnels et tout équipement non utilisé."
+
+ rail_cart_jurry_rigged_handcrank:0 "Mécanisme à manivelle"
+  rail_cart_jurry_rigged_handcrank_desc:0 "Bien qu'elles demandent beaucoup de travail et ne soient pas très rapides, les manivelles à deux personnes peuvent déplacer les chariots plus rapidement que les modèles précédents."
+
+ rail_cart_durable_chassis:0 "Châssis durable"
+ rail_cart_durable_chassis_desc: "Le châssis, fabriqué dans un matériau durable, peut absorber davantage de chocs et supporter plus de poids."
+
+ rail_car_reinforced_rollers:0 "Galets renforcés"
+  rail_car_reinforced_rollers_desc:0 "Le renforcement des galets de roulement sous les véhicules ferroviaires réduit les risques de déraillement et nous permet d'exercer une pression plus importante sur ces roues."
+
+ rail_car_mounted_ammo_box:0 "Boîte à munitions montée"
+  rail_car_mounted_ammo_box_desc:0 "Des munitions stockées en toute sécurité et facilement accessibles augmentent la longévité et l'efficacité au combat des véhicules ferroviaires."
+
+ rail_automobile_salvaging:0 "Récupération de véhicules"
+ rail_automobile_salvaging_desc:0 "Les voitures d'avant-guerre peuvent être récupérées pour des composants utiles comme les moteurs, les réservoirs de carburant et même la carrosserie lorsqu'un meilleur blindage n'est pas disponible."
+ 
+ rail_armor_plating:0 "Placage d'armure"
+  rail_armor_plating_desc:0 "Les blindages plaqués en couches superposées au lieu d'une grande pièce de métal, augmentent la protection du chariot sur toute la ligne."
+
+ rail_car_turret:0 "Tourelle rotative"
+ rail_car_turret_desc:0 "Disposer une tourelle pouvant tirer dans n'importe quelle direction est nécessaire pour le développement des chars et des draisines tourelles."
+
+ rail_cart_mounted_emplacement_tech_2:0 "Emplacement amélioré"
+  rail_cart_mounted_emplacement_tech_2_desc:0 "L'ajout de boucliers et de couvertures aux emplacements d'armes rendra leur utilisation plus sûre, et donc plus meurtrière sur le champ de bataille."
+
+ rail_plough:0 "Charrue portée"
+ rail_plough_desc:0 "Les charrues montées sur les chariots faciliteront et accéléreront le déblayage des débris légers sur les voies ferrées, permettant aux chariots de franchir des terrains plus facilement."
+
+ rail_car_wiremesh_front:0 "Fenêtres grillagées"
+  rail_car_wiremesh_front_desc:0 "Les fenêtres grillagées sont plus résistantes aux attaques des mutants et aux embuscades que le verre ou à l'air libre."
+
+ rail_improved_fuel_storage_2:0 "Grands conteneurs de stockage de carburant"
+ rail_improved_fuel_storage_2_desc:0 "L'augmentation du volume de carburant stocké permet de réduire encore davantage le besoin de livraisons constantes de la part du corps logistique."
+
+ rail_reinforced_hull:0 "Coque renforcée"
+ rail_reinforced_hull_desc:0 "L'utilisation de matériaux plus résistants sur les coques des véhicules ferroviaires augmentera leur durabilité générale."
+
+ ##   Folder    ##
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
