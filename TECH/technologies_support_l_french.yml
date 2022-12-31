@@ -1,0 +1,114 @@
+﻿l_french:
+  ### support equipment ###
+ tech_flamethrower_equipment: "Équipement pour lance-flammes"
+ tech_flamethrower_equipment_desc: ""
+
+ tech_flamethrower_pneumatic_airtight: "Système pneumatique étanche"
+ tech_flamethrower_pneumatic_airtight_desc: "Le fait d'avoir une buse plus serrée sur le système d'alimentation en combustible permettra une utilisation plus ciblée du lance-flamme contre des cibles coriaces."
+
+ tech_flamethrower_pneumatic_automatic: "Système pneumatique automatique"
+ tech_flamethrower_pneumatic_automatic_desc: "La facilité d'utilisation d'un système d'alimentation automatique en combustible ne fera que renforcer le pouvoir de destruction du lance-flammes."
+
+ tech_flamethrower_extended_tank: "Réservoir allongé"
+ tech_flamethrower_extended_tank_desc: "Bien que plus lourds, les réservoirs de carburant plus grands signifient plus de temps au combat avant que les soldats n'aient besoin de se retirer et de refaire le plein."
+
+ tech_flamethrower_petrochemical: "Pétrochimie"
+ tech_flamethrower_petrochemical_desc: "L'utilisation d'un mélange pétrochimique sur mesure à la place de nos anciens carburants améliorera le pouvoir de destruction des lance-flammes."
+
+ tech_flamethrower_gas: "Essence"
+ tech_flamethrower_gas_desc: "Le passage à l'essence signifie que le carburant brûlant sera plus susceptible de s'écouler dans les recoins inopportunes que le blindage protégerait normalement."
+
+ tech_flamethrower_high_capacity_pneumatic: "Système pneumatique à haute capacité"
+ tech_flamethrower_high_capacity_pneumatic_desc: "Grâce à une pneumatique plus avancée, le jet de flammes peut tirer sur de plus grandes distances, frappant les troupes sans méfiance à près de deux fois la distance initiale !"
+
+ tech_flamethrower_equipment_2: "Équipement de lance-flammes amélioré"
+ tech_flamethrower_equipment_2_desc: ""
+
+ tech_gatling_equipment: "Équipement Gatling"
+ tech_gatling_equipment_desc: ""
+
+ tech_gatling_barrel: "Assemblage de six barillets"
+ tech_gatling_barrel_desc: "En augmentant le nombre de barillets de trois à six, nous pourrons augmenter considérablement la vitesse de tir, car la chaleur sera répartie sur un plus grand nombre de barillets."
+
+ tech_gatling_engine: "Moteur"
+ tech_gatling_engine_desc: "L'installation d'un petit moteur électrique sur l'arme signifie que l'opérateur n'aura plus besoin de le tourner à la main pour faire tourner les canons, ce qui lui permettra de se concentrer sur la visée, sur le maintien de l'arme et le tir."
+
+ tech_gatling_stabiliser: "Stabilisateur gyroscopique"
+ tech_gatling_stabiliser_desc: "Un stabilisateur gyroscopique installé dans le canon Gatling rendrait le recul beaucoup plus facile à gérer, et davantage de balles atteindraient leurs cibles."
+
+ tech_gatling_support: "Support de recul"
+ tech_gatling_support_desc: "Les bipodes, les trépieds et les rares quadripodes rendront la gestion de cette bête dans des positions défensives beaucoup moins éprouvante pour les équipes de tireurs, car l'arme peut être tirée sans être soulevée du sol."
+
+ tech_gatling_spring_mechanism: "Mécanisme à ressort"
+ tech_gatling_spring_mechanism_desc: "Le facteur limitant actuellement la cadence de tir de la Gatling est la vitesse à laquelle nous pouvons tirer les balles dans le canon. En utilisant des ressorts mécaniques alimenté mécaniquement, on peut y remédier, ce qui permet une salve de balles encore plus brutale."
+
+ tech_gatling_magazine: "Chargeur allongé"
+ tech_gatling_magazine_desc: "Maintenant qu'il est possible de stabiliser les armes à l'aide de modules de recul, nous pouvons augmenter le poids de l'arme avec un chargeur plus grand, ce qui réduit le temps passé à recharger l'arme lors d'un combat."
+
+ tech_gatling_equipment_2: "Équipement Gatling amélioré"
+ tech_gatling_equipment_2_desc: ""
+
+ tech_explosive_equipment: "Matériel explosif"
+ tech_explosive_equipment_desc: ""
+
+ tech_explosive_fragmentation_grenade: "Grenades à fragmentation"
+ tech_explosive_fragmentation_grenade_desc: "Les grenades à fragmentation sont un classique absolu de l'avant-guerre. Excellant à déchiqueter aussi bien la chair que les fortifications en bois, ces grenades trouveront à nouveau leur place sur le champ de bataille."
+
+ tech_explosive_fragmentation_nail_grenade: "Grenades à clous"
+ tech_explosive_fragmentation_nail_grenade_desc: "Les grenades à clous sont une invention plus récente dans le métro. Moins chères, plus brutales et plus efficaces contre les blindages, les bombes à clous éjectent un nuage de clous dans toutes les directions."
+
+ tech_explosive_stock: "Soutien lance-grenade"
+ tech_explosive_stock_desc: "Une grosse cartouche entraîne une grande quantité de recul. C'est pourquoi nos lance-grenades bénéficieraient d'une crosse renforcée avec des patins de recul."
+
+ tech_explosive_flechette: "Grenades à fléchettes"
+ tech_explosive_flechette_desc: "La grenade à fléchettes est un juste milieu entre les grenades à fragmentation et à clous. Ces fléchettes en métal ont la taille compacte des fragments et la capacité de percer des armures."
+
+ tech_explosive_high_explosive_pill: "Grenades hautement explosives"
+ tech_explosive_high_explosive_pill_desc: "Les grenades hautement explosives sont entièrement conçues pour obtenir le meilleur rendement possible. Elles excellent dans la démolition de fortifications et de positions stationnaires, mais sont insuffisantes contre les armures solides."
+
+ tech_explosive_revolving_chamber: "Mécanisme de chambre rotative - lance-grenade"
+ tech_explosive_revolving_chamber_desc: "Doublez les grenades, doublez le plaisir ! Un cylindre rotatif avec six grenades à fente au lieu des trois précédentes signifie que les lanceurs causeront deux fois plus de destruction avant d'avoir besoin d'être rechargés."
+
+ tech_explosive_equipment_2: "Équipement explosif amélioré"
+ tech_explosive_equipment_2_desc: ""
+ 
+ tech_recon5: "Compagnie de Reconnaissance V"
+ tech_recon5_desc: "Maintenir le contact avec quelques cellules d'espionnage locales en territoire ennemi nous permettra d'avoir toujours un lot frais d'informations."
+ 
+ tech_recon6: "Compagnie de Reconnaissance VI"
+ tech_recon6_desc: "L'utilisation du GPS et d'autres technologies de ce type permettra à nos unités de cartographier le territoire ennemi en temps réel, avec des alertes sur les défenses, les pièges et les mouvements des troupes ennemies."
+ 
+ tech_field_hospital5: "Hôpital de front V"
+ tech_field_hospital5_desc: "L'utilisation de wagons-ambulances et l'extension des tentes de triage permettront de s'assurer que les troupes blessées peuvent retourner sur le champ de bataille en bon état."
+ 
+ tech_field_hospital6: "Hôpital de front VI"
+ tech_field_hospital6_desc: "La diffusion d'informations de base sur le triage aux soldats sur le front augmentera les chances que les blessés soient stables avant l'arrivée des médecins."
+ 
+ tech_logistics_company5: "Compagnie de Logistique V"
+ tech_logistics_company5_desc: "La création de dépôts de pièces détachées à proximité d'un territoire allié augmentera l'offre immédiatement disponible de pièces de rechange en cas de combat de proximité."
+ 
+ tech_logistics_company6: "Compagnie de Logistique VI" 
+ tech_logistics_company6_desc: "L'affectation d'un fabricant de munitions aux unités de terrain signifie que les douilles peuvent être recyclées quelques heures seulement après les batailles, ce qui réduit la charge logistique."
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
